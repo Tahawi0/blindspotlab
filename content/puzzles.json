@@ -1107,7 +1107,7 @@
  },
  {
   "id": 80,
-  "scene": "At the coffee shop: small $3.00, medium $4.95, large $5.25. Most people end up ordering the large.",
+  "scene": "Movie theater popcorn: small $6.00, medium $8.50, large $9.00. Almost nobody buys the medium, but plenty of people walk out with the large.",
   "options": [
    "Bandwagon Effect",
    "Red Herring",
@@ -1115,7 +1115,7 @@
    "Appeal to Nature"
   ],
   "answer": 2,
-  "why": "The medium is there to make the large look like a steal, not for anyone to actually buy it.",
+  "why": "The medium is priced to make the large look like a bargain. It's there to steer you, not to be bought.",
   "entry": "decoy-effect",
   "reviewed": false
  },
@@ -1205,7 +1205,7 @@
  },
  {
   "id": 87,
-  "scene": "\"You said 'all the doctors say so.' That's an appeal to authority. So drinking water must not matter for your body.\"",
+  "scene": "\"Your trainer only told you to stretch before running because 'all the pros do it.' That's an appeal to popularity. So stretching is a total waste of time.\"",
   "options": [
    "Framing Effect",
    "Fallacy Fallacy",
@@ -1213,13 +1213,13 @@
    "Cherry Picking"
   ],
   "answer": 1,
-  "why": "An argument can be weak while its conclusion is still true. Your body needs water even if someone argued for it badly.",
+  "why": "A badly argued point can still be true. Showing the reason was weak doesn't prove the conclusion is false; you'd need actual evidence about stretching.",
   "entry": "fallacy-fallacy",
   "reviewed": false
  },
  {
   "id": 88,
-  "scene": "Your internet provider offers you a plan that's cheaper and faster. You say, \"Nah, I'll keep my old plan. I'm used to it.\"",
+  "scene": "Your bank offers to move you to a free checking account with no monthly fee and the same features. You say, \"Nah, I'll keep paying the $12. I'm used to my old one.\"",
   "options": [
    "Hindsight Bias",
    "Status Quo Bias",
@@ -1227,7 +1227,7 @@
    "Fundamental Attribution Error"
   ],
   "answer": 1,
-  "why": "You picked the old option just because it's old, even though the new one wins on every count.",
+  "why": "You kept the old option only because it's the one you already have, even though the new one is better on every count.",
   "entry": "status-quo",
   "reviewed": false
  },
@@ -1247,7 +1247,7 @@
  },
  {
   "id": 90,
-  "scene": "\"Every player on this team is an All-Star, so they're definitely winning the championship.\"",
+  "scene": "\"Each of these five paint colors looks gorgeous on its own. Put them all in one living room and it'll look amazing.\"",
   "options": [
    "Whataboutism",
    "Fallacy of Composition / Division",
@@ -1255,7 +1255,7 @@
    "Appeal to Authority"
   ],
   "answer": 1,
-  "why": "A roster full of stars doesn't guarantee a team that plays well together. What's true of the parts isn't automatically true of the whole.",
+  "why": "Five colors that each look great alone can clash badly together. What's true of each part isn't automatically true of the whole room.",
   "entry": "composition-division",
   "reviewed": false
  },
@@ -1373,7 +1373,7 @@
  },
  {
   "id": 99,
-  "scene": "\"Nobody has ever proven this house isn't haunted, so it's haunted.\"",
+  "scene": "\"No one has ever proven that my lucky socks don't help my team win. So they obviously do.\"",
   "options": [
    "Dunning–Kruger Effect",
    "Appeal to Popularity",
@@ -1381,7 +1381,7 @@
    "Appeal to Ignorance"
   ],
   "answer": 3,
-  "why": "No one disproving a claim isn't evidence for it. Sometimes the honest answer is: we don't know.",
+  "why": "Nobody disproving a claim isn't evidence for it. The person making the claim needs evidence, and \"we don't know\" is an honest answer.",
   "entry": "appeal-to-ignorance",
   "reviewed": false
  },
@@ -1807,7 +1807,7 @@
  },
  {
   "id": 130,
-  "scene": "\"A real mom never gets tired of her kids.\" \"But every mom gets worn out sometimes.\" \"Then she's not a real mom.\"",
+  "scene": "\"No real coffee lover drinks decaf.\" \"I've roasted my own beans for ten years and I drink decaf after 3 p.m.\" \"Then you're not a real coffee lover.\"",
   "options": [
    "Cherry Picking",
    "No True Scotsman",
@@ -1815,7 +1815,7 @@
    "Anecdotal Evidence"
   ],
   "answer": 1,
-  "why": "He changed the definition of \"real mom\" to dodge the example that breaks his claim.",
+  "why": "He redefined \"real coffee lover\" on the spot so the counterexample doesn't count. That protects the claim from ever being wrong.",
   "entry": "no-true-scotsman",
   "reviewed": false
  },
@@ -1975,7 +1975,7 @@
  },
  {
   "id": 142,
-  "scene": "\"Why switch to accounting software? The paper ledger has worked for us for 30 years.\"",
+  "scene": "\"Why would the team switch to a shared calendar app? We've used the whiteboard in the break room since 2009.\"",
   "options": [
    "Fallacy Fallacy",
    "Appeal to Tradition",
@@ -1983,7 +1983,7 @@
    "Begging the Question"
   ],
   "answer": 1,
-  "why": "The ledger working for 30 years doesn't mean it's the best tool now. The question is whether the software would save time or money.",
+  "why": "How long the whiteboard has been used says nothing about whether it's the best tool now. The real question is whether the app would cause fewer missed meetings.",
   "entry": "appeal-to-tradition",
   "reviewed": false
  },
@@ -2031,7 +2031,7 @@
  },
  {
   "id": 146,
-  "scene": "\"All the stats say seatbelts save lives, but I knew a guy who was wearing one and still died in a crash.\"",
+  "scene": "\"Everyone says you should get your car's oil changed on schedule, but my neighbor skipped it for years and his car still runs fine.\"",
   "options": [
    "Optimism Bias",
    "Equivocation",
@@ -2039,13 +2039,13 @@
    "Anecdotal Evidence"
   ],
   "answer": 3,
-  "why": "One sad case doesn't cancel out numbers drawn from thousands of crashes.",
+  "why": "One neighbor's car is a single lucky case. It doesn't outweigh what mechanics see across thousands of engines.",
   "entry": "anecdotal-evidence",
   "reviewed": false
  },
  {
   "id": 147,
-  "scene": "Everyone at your office started wearing a smartwatch, so you bought one too, even though you don't need it.",
+  "scene": "A new sourdough starter kit goes viral, your whole group chat orders one, so you do too. Three weeks later it's still in the box.",
   "options": [
    "Availability Heuristic",
    "Bandwagon Effect",
@@ -2053,7 +2053,7 @@
    "Survivorship Bias"
   ],
   "answer": 1,
-  "why": "You bought it because everyone else did, not because you needed it.",
+  "why": "You bought it because everyone else did, not because you actually wanted to bake bread.",
   "entry": "bandwagon",
   "reviewed": false
  },
