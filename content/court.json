@@ -1,0 +1,558 @@
+{
+  "pool": [
+    "ad-hominem",
+    "anecdotal-evidence",
+    "appeal-to-authority",
+    "appeal-to-emotion",
+    "appeal-to-ignorance",
+    "appeal-to-majority",
+    "appeal-to-nature",
+    "appeal-to-tradition",
+    "begging-the-question",
+    "burden-of-proof",
+    "cherry-picking",
+    "composition-division",
+    "equivocation",
+    "false-analogy",
+    "false-cause",
+    "false-dilemma",
+    "gamblers-fallacy",
+    "genetic-fallacy",
+    "hasty-generalization",
+    "loaded-question",
+    "no-true-scotsman",
+    "personal-incredulity",
+    "red-herring",
+    "slippery-slope",
+    "straw-man",
+    "sunk-cost",
+    "tu-quoque",
+    "whataboutism"
+  ],
+  "cases": [
+    {
+      "id": "cake",
+      "title": "The Case of the Missing Birthday Cake",
+      "brief": "The boss's birthday cake vanished from the office fridge. The office wants Steve from Accounting to pay for it.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "Steve was seen walking into the break room at 2:00, and the cake disappeared between 2:00 and 3:00."
+        },
+        {
+          "who": "pro",
+          "text": "Also, everyone knows Steve shows up late every morning. A guy like that? You can expect anything.",
+          "f": "ad-hominem",
+          "why": "Being late in the morning has nothing to do with the cake. This attacks Steve as a person instead of offering evidence."
+        },
+        {
+          "who": "def",
+          "text": "Steve went in to make coffee, and the camera shows him walking out with nothing but a mug."
+        },
+        {
+          "who": "pro",
+          "text": "Either Steve took it, or the cake grew legs and walked off!",
+          "f": "false-dilemma",
+          "why": "There are plenty of other possibilities: another coworker, the cleaning crew, or someone moved it somewhere else."
+        },
+        {
+          "who": "wit",
+          "text": "I saw chocolate crumbs on Steve's desk."
+        },
+        {
+          "who": "def",
+          "text": "Steve brings chocolate cookies every single day. The crumbs could easily be from those."
+        },
+        {
+          "who": "pro",
+          "text": "Everyone on this floor thinks it was him. All those people can't be wrong.",
+          "f": "appeal-to-majority",
+          "why": "The number of people who believe something isn't evidence that it's true. They could just be repeating each other."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "Liable. The evidence is enough.",
+          "Not liable. The solid evidence isn't enough to prove he took it.",
+          "Liable. Everyone agrees it was him."
+        ],
+        "a": 1,
+        "why": "Here's what's left after the objections: he went into the break room (which has an explanation) and there were crumbs on his desk (which also have an explanation). That's not enough to prove he took the cake."
+      }
+    },
+    {
+      "id": "balcony",
+      "title": "The Case of the Third-Floor Balcony",
+      "brief": "The tenants on the third floor say water drips onto their balcony every morning. They're suing the fourth-floor neighbor for the damage.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The balcony gets soaked every morning, and the defendant is the only one who lives directly above it."
+        },
+        {
+          "who": "def",
+          "text": "My client has been out of the country for a week. Here's the plane ticket and the passport stamp."
+        },
+        {
+          "who": "pro",
+          "text": "The defense wants to talk about travel. Fine, let's talk about how the defendant parked in the wrong spot last month!",
+          "f": "red-herring",
+          "why": "A parking mix-up has nothing to do with the water. It's a distraction so we forget the defendant was away."
+        },
+        {
+          "who": "pro",
+          "text": "If we let him off this time, tomorrow he'll be dumping trash, then breaking windows, and the whole building will go to ruin.",
+          "f": "slippery-slope",
+          "why": "There's no evidence this would escalate like that. It's just a chain of fears stacked on each other."
+        },
+        {
+          "who": "wit",
+          "text": "I'm the building super. The fourth-floor AC unit has been leaking for a month. I told them about it already."
+        },
+        {
+          "who": "pro",
+          "text": "I've never seen an air conditioner leak that much water. So it can't be the AC.",
+          "f": "personal-incredulity",
+          "why": "The lawyer finding it hard to believe isn't evidence that it's false. The leak really could be that big."
+        },
+        {
+          "who": "def",
+          "text": "We had a technician inspect the AC. Here's his report: there's a leak in the outdoor drain line."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "Liable. He's the only one above them.",
+          "Not liable. The likeliest cause is the leaking AC, and it needs to be fixed.",
+          "Liable, so he doesn't do it again."
+        ],
+        "a": 1,
+        "why": "The defendant was out of the country, and both the super and the technician say the AC is leaking. The fix is repairing the AC, not punishing the neighbor."
+      }
+    },
+    {
+      "id": "exam",
+      "title": "The Case of the Perfect Score",
+      "brief": "A student who always gets average grades suddenly gets a perfect score. The school's academic integrity board accuses him of cheating.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "This student has always scored around 50%, and suddenly he gets 100% on this exam."
+        },
+        {
+          "who": "pro",
+          "text": "Anyone who jumps to a perfect score out of nowhere is a cheater. Every case I've seen has been like that.",
+          "f": "hasty-generalization",
+          "why": "A few cases the speaker happened to see aren't enough to judge everyone, or this student."
+        },
+        {
+          "who": "def",
+          "text": "The student went to tutoring for 3 months. We have the attendance log."
+        },
+        {
+          "who": "pro",
+          "text": "So you're still defending cheaters?",
+          "f": "loaded-question",
+          "why": "The question assumes from the start that the student cheated. Any answer to it seems to admit the charge."
+        },
+        {
+          "who": "wit",
+          "text": "I was the proctor. He sat in the front row, and nobody came near him the entire exam."
+        },
+        {
+          "who": "pro",
+          "text": "Well, some students cheated last year and nobody punished them!",
+          "f": "whataboutism",
+          "why": "Last year's students have nothing to do with this one. It's a dodge away from the evidence in front of us."
+        },
+        {
+          "who": "def",
+          "text": "We offered him a retest in front of a panel, and he scored 95%."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "He cheated. Nobody improves that fast.",
+          "He didn't cheat. All the solid evidence is on his side.",
+          "Punish him just to be safe."
+        ],
+        "a": 1,
+        "why": "The tutoring, the proctor's testimony and the retest in front of a panel. All the solid evidence says he really did study."
+      }
+    },
+    {
+      "id": "vitax",
+      "title": "The Vitax Case",
+      "brief": "Vitax (a made-up brand) is being sued for false advertising. Its ad claimed the supplement cures a cold in one day.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The ad said Vitax cures a cold in one day, and the company doesn't have a single study."
+        },
+        {
+          "who": "def",
+          "text": "The product is 100% natural, made from herbs. So it has to be helpful and harmless.",
+          "f": "appeal-to-nature",
+          "why": "Something being natural doesn't make it effective or safe. Plenty of perfectly natural plants are poisonous."
+        },
+        {
+          "who": "def",
+          "text": "My aunt took it, and she was better the next day!",
+          "f": "anecdotal-evidence",
+          "why": "One case isn't evidence. She might have gotten better on her own anyway."
+        },
+        {
+          "who": "def",
+          "text": "Nobody has proven it doesn't cure colds. So it does.",
+          "f": "appeal-to-ignorance",
+          "why": "A lack of evidence against something isn't evidence for it. Whoever makes the claim has to prove it."
+        },
+        {
+          "who": "wit",
+          "text": "I'm a pharmacist. Colds usually go away on their own in a few days, so you can't tell whether a product did anything without comparing it to people who didn't take it."
+        },
+        {
+          "who": "def",
+          "text": "That famous TV doctor uses it himself.",
+          "f": "appeal-to-authority",
+          "why": "A doctor being famous isn't evidence the product works. What's needed is a study, not a big name."
+        },
+        {
+          "who": "pro",
+          "text": "The company's own official filings state that it never ran any trials on the product."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "The ad is fine. The product is natural.",
+          "The ad is misleading. The claim has no evidence behind it.",
+          "No ruling. It's all a matter of opinion."
+        ],
+        "a": 1,
+        "why": "Every argument the defense made turned out to be a fallacy. What's left: a big claim, and a company that admits it never tested it. (A courtroom game, not medical advice.)"
+      }
+    },
+    {
+      "id": "bakery",
+      "title": "The Case of the Corner Bakery",
+      "brief": "The neighborhood bakery is accused of selling loaves that weigh less than the label says. The defendant: Tony, the bakery's owner.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The county weights-and-measures inspector found that 3 out of 10 loaves weighed less than labeled."
+        },
+        {
+          "who": "def",
+          "text": "Tony has run this bakery for 40 years, and his father and grandfather ran it before him. They never cheated anybody.",
+          "f": "appeal-to-tradition",
+          "why": "The bakery being old and family-run for generations isn't evidence that these loaves weigh what they should."
+        },
+        {
+          "who": "wit",
+          "text": "I'm a regular there. Sometimes the bread is small, sometimes it's normal."
+        },
+        {
+          "who": "def",
+          "text": "If you rule against him, 12 employees lose their jobs and their kids go hungry!",
+          "f": "appeal-to-emotion",
+          "why": "This tugs at your feelings, but it doesn't answer the actual question: do the loaves weigh the right amount or not?"
+        },
+        {
+          "who": "pro",
+          "text": "We weighed 50 more loaves from the same day, and 20 of them came up short."
+        },
+        {
+          "who": "def",
+          "text": "We found one loaf that was a fifth of an ounce over. So the bakery is actually giving people more than they paid for!",
+          "f": "cherry-picking",
+          "why": "One loaf was picked out of dozens, ignoring the 20 that came up short."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "No violation. It's a respected old bakery.",
+          "Violation. The larger sample shows the loaves are regularly underweight.",
+          "Postpone the ruling for the employees' sake."
+        ],
+        "a": 1,
+        "why": "20 out of 50 loaves short is a clear pattern, not a fluke. The bakery's history and the employees' situation don't change what the scale says."
+      }
+    },
+    {
+      "id": "app",
+      "title": "The Case of the App That Listens",
+      "brief": "Users are suing the app Chatter (a made-up app), claiming it listens through the mic to target them with ads.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "My client talked about an espresso machine, and the next day he saw an ad for an espresso machine in the app."
+        },
+        {
+          "who": "pro",
+          "text": "So the app must have heard him. The ad showed up right after he talked about it.",
+          "f": "false-cause",
+          "why": "The ad coming after the conversation isn't proof the conversation caused it. He might have searched for it, or someone in his home did."
+        },
+        {
+          "who": "def",
+          "text": "We had the app tested by an independent lab. No audio recordings are being sent to the server."
+        },
+        {
+          "who": "pro",
+          "text": "And who paid for that report? The company! So it's worthless.",
+          "f": "genetic-fallacy",
+          "why": "Who paid for the testing is worth asking about, but that alone doesn't prove the results are wrong. You have to look at the testing itself."
+        },
+        {
+          "who": "wit",
+          "text": "I'm a security engineer. I reviewed the app's open-source code, and the mic only turns on during calls."
+        },
+        {
+          "who": "pro",
+          "text": "Then prove it doesn't listen! If you can't, it does.",
+          "f": "burden-of-proof",
+          "why": "The side making the accusation has to prove it. Demanding proof that something isn't happening flips the burden of proof."
+        },
+        {
+          "who": "def",
+          "text": "The device history shows the plaintiff searched \"espresso machine\" in his browser an hour before."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "The app is spying. That's too big a coincidence.",
+          "There's no evidence of spying. The likeliest explanation is that the ad came from his search.",
+          "Rule against it just to be safe."
+        ],
+        "a": 1,
+        "why": "The independent testing, the security engineer's testimony and the search history all explain the ad without any spying."
+      }
+    },
+    {
+      "id": "coach",
+      "title": "The Case of the Soccer Coach",
+      "brief": "The front office of the Riverside Stars (a made-up team) wants to fire the coach after 3 losses in a row.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The team lost its last 3 games. That's the worst stretch in two years."
+        },
+        {
+          "who": "pro",
+          "text": "Besides, this coach was never a big-name player. What does he know?",
+          "f": "ad-hominem",
+          "why": "His playing career isn't the issue. What matters is his record as a coach."
+        },
+        {
+          "who": "def",
+          "text": "The team played those 3 games without 4 injured starters. Here are the team doctor's reports."
+        },
+        {
+          "who": "pro",
+          "text": "This team has the best players in the league, so it has to be the best team.",
+          "f": "composition-division",
+          "why": "Good individual players don't automatically make a good team. And 4 of them are injured anyway."
+        },
+        {
+          "who": "wit",
+          "text": "I'm an analyst. Before the injuries, the team won 8 of its last 10 games under this same coach."
+        },
+        {
+          "who": "def",
+          "text": "And we've lost 3 straight, so we're definitely winning the next one. We're due!",
+          "f": "gamblers-fallacy",
+          "why": "Past losses don't make a win \"due.\" Every game has its own circumstances, and the defense should lean on evidence, not luck."
+        },
+        {
+          "who": "def",
+          "text": "As soon as the injured players came back this week, the team won a scrimmage 3–0."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "Fire him. 3 losses is enough.",
+          "Keep him. The likeliest cause of the losses is the injuries, and his record before that was excellent.",
+          "Fire him because he was never a famous player."
+        ],
+        "a": 1,
+        "why": "8 wins out of 10 before the injuries, and the losses came with 4 starters out. The coach isn't the likeliest cause."
+      }
+    },
+    {
+      "id": "roof",
+      "title": "The Case of the Rooftop Garden",
+      "brief": "Residents of a condo building want to stop a neighbor from keeping a garden on the shared roof.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The neighbor put 30 planters on the roof without asking the other residents."
+        },
+        {
+          "who": "pro",
+          "text": "A garden on the roof is just like a swimming pool on the roof, and either one will bring the building down!",
+          "f": "false-analogy",
+          "why": "The weight of some planters is nothing like the weight of a pool full of water. The comparison doesn't fit."
+        },
+        {
+          "who": "def",
+          "text": "A structural engineer inspected the roof and said it can hold 5 times that weight."
+        },
+        {
+          "who": "pro",
+          "text": "The roof belongs to all the residents. And this neighbor isn't one of the building's real residents. He only moved in 3 years ago.",
+          "f": "no-true-scotsman",
+          "why": "There's no such thing as a \"real\" resident here. He lives there and pays dues like everyone else, and the question is about every resident's rights."
+        },
+        {
+          "who": "wit",
+          "text": "I live on the top floor. When the plants get watered, water seeps through, and my bedroom ceiling has stains."
+        },
+        {
+          "who": "def",
+          "text": "We installed waterproofing under the planters last week, and there's been no leak since. Here are the photos."
+        },
+        {
+          "who": "pro",
+          "text": "The neighbor says he wants to make \"improvements\" to the building. Improvements mean special assessments. So he's going to make us all pay!",
+          "f": "equivocation",
+          "why": "The word \"improvements\" changed meaning mid-argument. The neighbor meant making the roof look nicer, not billing anyone."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "The garden goes. The roof could collapse.",
+          "The garden stays, as long as the residents agree on rules for using the roof and the waterproofing gets checked regularly.",
+          "The garden goes because the neighbor is new."
+        ],
+        "a": 1,
+        "why": "The engineer said the weight is safe, and the waterproofing fixed the leak. The only real problem is that the residents need to agree, so the answer is an agreement, not a ban."
+      }
+    },
+    {
+      "id": "festival",
+      "title": "The Case of the Postponed Festival",
+      "brief": "People bought tickets to a music festival, and it was postponed right before the date. They're suing for full refunds.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "The festival was postponed just one day before, and people had already booked flights and hotels."
+        },
+        {
+          "who": "def",
+          "text": "We spent $3 million on the stage and sound. We're not giving refunds. People need to come to the new date so that money isn't wasted.",
+          "f": "sunk-cost",
+          "why": "The money the company spent isn't the audience's responsibility, and it's no reason to deny them what they're owed."
+        },
+        {
+          "who": "wit",
+          "text": "I bought two tickets. The ticket says: \"In the event of cancellation or postponement, the customer is entitled to a refund.\""
+        },
+        {
+          "who": "def",
+          "text": "A postponement isn't a cancellation. And it isn't a cancellation because it's a postponement.",
+          "f": "begging-the-question",
+          "why": "The defense is repeating its own claim as if it were evidence. And the written policy mentions postponement explicitly."
+        },
+        {
+          "who": "pro",
+          "text": "300 people complained on the festival's page in a single day."
+        },
+        {
+          "who": "def",
+          "text": "And lots of people said they're happy with the new date, so everyone's on board.",
+          "f": "hasty-generalization",
+          "why": "\"Lots\" isn't \"everyone.\" Those are the people the new date works for, not the ones it doesn't."
+        },
+        {
+          "who": "pro",
+          "text": "Here's the company's contract with the artist: the company chose to postpone because it found a cheaper venue."
+        }
+      ],
+      "verdict": {
+        "q": "With the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "No refunds. People should come to the new date.",
+          "Anyone who wants a refund gets the full amount back, and anyone who wants to attend the new date is welcome to.",
+          "Half refunds only."
+        ],
+        "a": 1,
+        "why": "The ticket policy clearly says a postponement gives you the right to a refund, and the company chose to postpone. The fair outcome: everyone gets to choose."
+      }
+    },
+    {
+      "id": "boss",
+      "title": "The Big One: The River Plant",
+      "brief": "Boss case! Residents of a small town are suing Valley Paints (a made-up company), claiming its plant dumps waste into the river and poisoned the fish.",
+      "lines": [
+        {
+          "who": "pro",
+          "text": "Fish started dying in the river 4 months ago, right when the plant expanded its operations."
+        },
+        {
+          "who": "def",
+          "text": "This plant employs 500 people from this town. Anyone attacking it is attacking your kids' livelihood!",
+          "f": "appeal-to-emotion",
+          "why": "Workers' jobs matter, but this doesn't answer the question: is the plant dumping waste or not?"
+        },
+        {
+          "who": "wit",
+          "text": "I fish that river. I saw gray water coming out of a pipe by the plant's fence at night, with my own eyes."
+        },
+        {
+          "who": "def",
+          "text": "This fisherman got into a dispute with plant management last year. He's obviously getting revenge.",
+          "f": "ad-hominem",
+          "why": "The dispute might be a reason to double-check his testimony, but it doesn't prove he's lying. We need to look at evidence about the pipe."
+        },
+        {
+          "who": "pro",
+          "text": "We took a water sample next to the pipe. It contains the same chemical the plant uses in its paints."
+        },
+        {
+          "who": "def",
+          "text": "Well, nobody's going after the other plants on the river!",
+          "f": "whataboutism",
+          "why": "The other plants can be investigated too, but that doesn't clear this plant of the evidence in front of us."
+        },
+        {
+          "who": "def",
+          "text": "If we shut this plant down, next week they'll shut down every plant, and the whole state will have no industry left!",
+          "f": "slippery-slope",
+          "why": "There's no evidence that a ruling in one case would close every plant in the state. It's a chain of fears."
+        },
+        {
+          "who": "wit",
+          "text": "I'm from the state environmental agency. That chemical doesn't show up anywhere in the river upstream of the pipe, only downstream."
+        },
+        {
+          "who": "def",
+          "text": "Nobody has proven the fish died from this specific chemical. So the chemical is safe.",
+          "f": "appeal-to-ignorance",
+          "why": "Not knowing the exact cause of death yet doesn't mean the chemical is safe. That takes testing, not a conclusion drawn from what we don't know."
+        },
+        {
+          "who": "pro",
+          "text": "The university lab's analysis of the dead fish: the same chemical, at high concentrations, in their gills."
+        }
+      ],
+      "verdict": {
+        "q": "The big one: with all the faulty arguments thrown out, what's your ruling?",
+        "opts": [
+          "The plant isn't responsible. 500 jobs matter more.",
+          "The plant is responsible. It has to stop the dumping immediately, repair the damage, and be monitored by the environmental agency.",
+          "Shut down every plant on the river."
+        ],
+        "a": 1,
+        "why": "The fisherman's testimony, the water sample, the environmental agency's report and the fish analysis: 4 solid pieces of evidence pointing at the same pipe. And the proportionate remedy is stopping the harm, not shutting down all industry."
+      }
+    }
+  ]
+}

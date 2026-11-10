@@ -1,0 +1,1557 @@
+{
+  "lab": [
+    {
+      "id": "anchor",
+      "title": "The Number Experiment",
+      "intro": "Two quick trivia questions. Answer fast, and no googling.",
+      "groups": [
+        {
+          "pre": "Is the number of African countries in the United Nations higher or lower than 15?",
+          "preOpts": [
+            "Higher",
+            "Lower"
+          ],
+          "q": "Now give your best exact guess:",
+          "num": true
+        },
+        {
+          "pre": "Is the number of African countries in the United Nations higher or lower than 75?",
+          "preOpts": [
+            "Higher",
+            "Lower"
+          ],
+          "q": "Now give your best exact guess:",
+          "num": true
+        }
+      ],
+      "groupNames": [
+        "People who saw the number 15",
+        "People who saw the number 75"
+      ],
+      "metricLabel": "Average guess",
+      "reveal": "Visitors were split in half at random: one half saw 15, the other saw 75. That number has nothing to do with the answer, yet the people who saw the bigger number usually guess higher. The real answer is 54 countries. This mirrors a famous 1974 experiment by Amos Tversky and Daniel Kahneman built on the same idea.",
+      "entry": "anchoring"
+    },
+    {
+      "id": "framing",
+      "title": "The Two Plans",
+      "intro": "A tough call, and there's no right answer. Pick the one that feels better to you.",
+      "groups": [
+        {
+          "q": "An unusual new disease is expected to kill 600 people in a city. You have two plans. Which one do you choose?",
+          "opts": [
+            "Plan A: 200 people will be saved for sure.",
+            "Plan B: There's a 1-in-3 chance all 600 people are saved, and a 2-in-3 chance no one is saved."
+          ],
+          "map": [
+            0,
+            1
+          ]
+        },
+        {
+          "q": "An unusual new disease is expected to kill 600 people in a city. You have two plans. Which one do you choose?",
+          "opts": [
+            "Plan A: 400 people will die for sure.",
+            "Plan B: There's a 1-in-3 chance nobody dies, and a 2-in-3 chance all 600 people die."
+          ],
+          "map": [
+            0,
+            1
+          ]
+        }
+      ],
+      "groupNames": [
+        "People who saw the plans framed as “saved”",
+        "People who saw the plans framed as “die”"
+      ],
+      "metric": 0,
+      "metricLabel": "chose the sure-thing plan",
+      "reveal": "Both halves saw the exact same two plans: 200 out of 600 saved is the same thing as 400 out of 600 dead. The only difference is the wording. In the original study (Tversky and Kahneman, 1981), about 72% chose the sure thing when it was framed as lives saved, and only 22% when it was framed as deaths.",
+      "entry": "framing"
+    },
+    {
+      "id": "linda",
+      "title": "The Linda Experiment",
+      "intro": "Read the description and choose quickly.",
+      "groups": [
+        {
+          "q": "Linda is 31, outspoken, and very bright. She majored in philosophy. In college she cared deeply about fairness and volunteered for environmental campaigns. Which is more likely?",
+          "opts": [
+            "Linda is a bank teller.",
+            "Linda is a bank teller and is active in environmental campaigns."
+          ],
+          "map": [
+            0,
+            1
+          ]
+        }
+      ],
+      "groupNames": [
+        "All visitors"
+      ],
+      "metric": 1,
+      "metricLabel": "chose the second option",
+      "reveal": "The right answer is the first one, even though the second one sounds more like Linda. Every bank teller who is active in environmental campaigns is still a bank teller, so the second option can never be more likely. This is called the conjunction fallacy. In the original study (Tversky and Kahneman, 1983), about 85% of people picked the second option. A convincing story drowns out the math.",
+      "entry": null
+    },
+    {
+      "id": "decoy",
+      "title": "The Subscription Experiment",
+      "intro": "You're subscribing to a magazine for a year. Pick the plan that suits you.",
+      "groups": [
+        {
+          "q": "Choose your plan:",
+          "opts": [
+            "Online only: $59",
+            "Online + print: $125"
+          ],
+          "map": [
+            0,
+            2
+          ]
+        },
+        {
+          "q": "Choose your plan:",
+          "opts": [
+            "Online only: $59",
+            "Print only: $125",
+            "Online + print: $125"
+          ],
+          "map": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "groupNames": [
+        "People who saw two options",
+        "People who saw three options"
+      ],
+      "metric": 2,
+      "metricLabel": "chose “online + print”",
+      "reveal": "Half the visitors saw one extra option: “print only,” at the same price as the full bundle. Almost nobody picks it, but just being there makes the bundle look like a steal. Dan Ariely ran a similar experiment with students, and when he took the decoy away, most of them went back to the cheaper option.",
+      "entry": "decoy-effect"
+    }
+  ],
+  "spot": [
+    {
+      "brand": "IronCore Gym: “Ripped in 30 Days”",
+      "lines": [
+        {
+          "t": "IronCore Gym: “Ripped in 30 Days.”",
+          "e": null
+        },
+        {
+          "t": "Check out Mike's before-and-after! He was skinny, now he's jacked.",
+          "e": "anecdotal-evidence",
+          "why": "One hand-picked photo. You don't know what else Mike did, or whether the photo was edited."
+        },
+        {
+          "t": "We have a pool and a sauna.",
+          "e": null
+        },
+        {
+          "t": "The annual plan is $299 instead of $600, and monthly is $49.",
+          "e": "decoy-effect",
+          "why": "The monthly price is there to make the annual plan look like a steal. Be honest about how many months you'll actually go."
+        },
+        {
+          "t": "And if you don't sign up today, you'll stay exactly the way you are forever.",
+          "e": "false-dilemma",
+          "why": "There are plenty of ways to get exercise, and nothing has to be decided today."
+        }
+      ]
+    },
+    {
+      "brand": "Brightmind Prep Academy",
+      "lines": [
+        {
+          "t": "Brightmind Prep Academy.",
+          "e": null
+        },
+        {
+          "t": "Last year's top SAT scorers in the county were our students!",
+          "e": "survivorship",
+          "why": "They only show you the stars. You need the average for all their students, not the best three."
+        },
+        {
+          "t": "Classes have 20 students at most.",
+          "e": null
+        },
+        {
+          "t": "Brightmind is the school of choice for the best families.",
+          "e": "bandwagon",
+          "why": "The ad plays on your wish to belong to a certain crowd, not on the quality of the teaching."
+        },
+        {
+          "t": "Good parents choose the best for their kids.",
+          "e": "appeal-to-emotion",
+          "why": "It makes you feel like a bad parent if you don't pick this school."
+        },
+        {
+          "t": "Our buses cover the north and east suburbs.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "RoyalRest Mattress",
+      "lines": [
+        {
+          "t": "The RoyalRest orthopedic mattress.",
+          "e": null
+        },
+        {
+          "t": "Back pain? Then your old mattress is definitely to blame.",
+          "e": "false-cause",
+          "why": "Back pain has lots of causes: posture, work, how much you move. The ad picked the one cause it can sell."
+        },
+        {
+          "t": "Available in 3 sizes.",
+          "e": null
+        },
+        {
+          "t": "Classic is $799, Royal is $1,799, and Royal Plus is $1,849.",
+          "e": "decoy-effect",
+          "why": "“Royal” is there so that “Royal Plus” looks like a deal for just $50 more."
+        },
+        {
+          "t": "Since our grandparents' day, everyone has known that sleeping on something firm is better.",
+          "e": "appeal-to-tradition",
+          "why": "Something people believed long ago isn't proof that it's true."
+        },
+        {
+          "t": "5-year warranty.",
+          "e": null
+        },
+        {
+          "t": "You've worked so hard. You deserve nothing but the best.",
+          "e": "appeal-to-emotion",
+          "why": "It talks to your exhaustion instead of telling you what's actually in the mattress."
+        }
+      ]
+    },
+    {
+      "brand": "Surge X5 SUV",
+      "lines": [
+        {
+          "t": "The all-new Surge X5.",
+          "e": null
+        },
+        {
+          "t": "The #1 choice for American families!",
+          "e": "appeal-to-majority",
+          "why": "Number one according to whom? Measured how? There isn't a single real number in that sentence."
+        },
+        {
+          "t": "Comes in 3 trims with a 10-inch screen.",
+          "e": null
+        },
+        {
+          "t": "Everyone who bought one came back to thank us.",
+          "e": "survivorship",
+          "why": "You only hear from the happy customers. The ones who complained won't show up in the ad."
+        },
+        {
+          "t": "Now $32,900, down from $38,500.",
+          "e": "anchoring",
+          "why": "The $38,500 is there to make $32,900 look like a bargain. Compare it with similar SUVs."
+        },
+        {
+          "t": "Only 5 left on the lot!",
+          "e": "loss-aversion",
+          "why": "Scarcity pushes you to decide fast, before you compare."
+        },
+        {
+          "t": "Warranty: 5 years or 60,000 miles.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "GrowMyMoney investing app",
+      "lines": [
+        {
+          "t": "GrowMyMoney: the investing app.",
+          "e": null
+        },
+        {
+          "t": "Jake put in $100, and a month later he had $1,000!",
+          "e": "anecdotal-evidence",
+          "why": "One story, and you can't even check if it's real. Where are the numbers for all their users?"
+        },
+        {
+          "t": "A famous economist uses it himself.",
+          "e": "appeal-to-authority",
+          "why": "A famous person using it doesn't prove it makes money. He might be getting paid for the ad."
+        },
+        {
+          "t": "Either you invest with us today, or you stay broke forever.",
+          "e": "false-dilemma",
+          "why": "There are many other ways to save and invest, and the decision doesn't have to happen today."
+        },
+        {
+          "t": "No one has ever proven that the app loses money.",
+          "e": "appeal-to-ignorance",
+          "why": "It's not your job to prove it loses money. It's their job to prove it makes money."
+        },
+        {
+          "t": "Sign-up takes 3 minutes.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "Legend Burger",
+      "lines": [
+        {
+          "t": "Legend Burger, South Philly.",
+          "e": null
+        },
+        {
+          "t": "The line wraps around the block every single day!",
+          "e": "bandwagon",
+          "why": "The line could mean the place is small or slow, not that the food is better."
+        },
+        {
+          "t": "Our grandma's 100-year-old recipe, so you know it's the best.",
+          "e": "appeal-to-tradition",
+          "why": "An old recipe isn't proof that it beats other recipes."
+        },
+        {
+          "t": "Every patty is a half pound.",
+          "e": null
+        },
+        {
+          "t": "Small meal $8.99, medium $12.99, large $13.49.",
+          "e": "decoy-effect",
+          "why": "The medium is there to make the large look like a deal. Almost nobody buys the medium."
+        },
+        {
+          "t": "No true South Philly local hasn't heard of us.",
+          "e": "no-true-scotsman",
+          "why": "If someone from South Philly hasn't heard of them, they'll just say “then he's not a true local.” The claim can never be proven wrong."
+        },
+        {
+          "t": "Open until 2 a.m.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "Lumière Glow Cream",
+      "lines": [
+        {
+          "t": "Lumière Glow skin cream.",
+          "e": null
+        },
+        {
+          "t": "9 out of 10 women who tried it noticed a difference (study of 10 women).",
+          "e": "hasty-generalization",
+          "why": "Ten women is a tiny sample, and you don't know how they were chosen."
+        },
+        {
+          "t": "Completely chemical-free.",
+          "e": "appeal-to-nature",
+          "why": "Everything is made of chemicals, even water. This line plays on your fears."
+        },
+        {
+          "t": "1.7 fl oz jar.",
+          "e": null
+        },
+        {
+          "t": "After I started using it, I got engaged within 3 months!",
+          "e": "false-cause",
+          "why": "Two things happened one after the other. The cream had nothing to do with the engagement."
+        },
+        {
+          "t": "Limited stock, and demand is huge.",
+          "e": "loss-aversion",
+          "why": "The fear of missing out makes you buy without thinking."
+        }
+      ]
+    },
+    {
+      "brand": "PerkUp Green Tea",
+      "lines": [
+        {
+          "t": "PerkUp Green Tea.",
+          "e": null
+        },
+        {
+          "t": "100% natural ingredients, so it can't possibly hurt you.",
+          "e": "appeal-to-nature",
+          "why": "“Natural” doesn't mean “safe no matter how much you drink.” Plenty of natural things cause harm in large amounts."
+        },
+        {
+          "t": "Chosen by more than a million Americans!",
+          "e": "appeal-to-majority",
+          "why": "The number of buyers tells you the marketing worked, not that the tea is better."
+        },
+        {
+          "t": "50 tea bags per box.",
+          "e": null
+        },
+        {
+          "t": "Everyone's favorite TV actor drinks it every morning.",
+          "e": "halo-effect",
+          "why": "Your fondness for the actor rubs off on the tea, even though he's no expert on tea or health."
+        },
+        {
+          "t": "Was $17.99, now just $9.99.",
+          "e": "anchoring",
+          "why": "The $17.99 is there to make $9.99 look cheap. The real question: is $9.99 a good price compared with other teas?"
+        },
+        {
+          "t": "Offer ends this weekend. Don't miss out!",
+          "e": "loss-aversion",
+          "why": "The ad scares you about losing out so you'll buy fast, without thinking."
+        },
+        {
+          "t": "Available at every drugstore.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "“Your First Million” course",
+      "lines": [
+        {
+          "t": "“Your First Million”: learn to sell online.",
+          "e": null
+        },
+        {
+          "t": "Jake started with us 6 months ago, and now he makes $25,000 a month.",
+          "e": "anecdotal-evidence",
+          "why": "That's one person's story. What happened to everyone else?"
+        },
+        {
+          "t": "Either you sign up today, or you're stuck at a 9-to-5 forever.",
+          "e": "false-dilemma",
+          "why": "There are a million other paths besides this course. The ad boxed you into two options."
+        },
+        {
+          "t": "The course has 12 recorded lessons.",
+          "e": null
+        },
+        {
+          "t": "Experts say e-commerce is the future.",
+          "e": "appeal-to-authority",
+          "why": "Which experts? And even if online selling has a future, that doesn't mean this particular course is any good."
+        },
+        {
+          "t": "Look at photos of our successful students.",
+          "e": "cherry-picking",
+          "why": "They only show you the ones who made it. How many people signed up in total?"
+        },
+        {
+          "t": "The people calling this course a scam, what have they ever done with their lives?",
+          "e": "ad-hominem",
+          "why": "It attacks the critics and never answers the criticism itself."
+        },
+        {
+          "t": "Your membership includes a Q&A group.",
+          "e": null
+        }
+      ]
+    },
+    {
+      "brand": "Dream Tower Condos (boss ad)",
+      "lines": [
+        {
+          "t": "Dream Tower condos, with easy financing.",
+          "e": null
+        },
+        {
+          "t": "Units were $650,000, now just $455,000!",
+          "e": "anchoring",
+          "why": "The $650,000 is a number put there to make $455,000 look cheap. Compare the price per square foot in the area."
+        },
+        {
+          "t": "Only 3 units left in the tower!",
+          "e": "loss-aversion",
+          "why": "Manufactured scarcity makes you sign fast without reading the contract."
+        },
+        {
+          "t": "The most famous quarterback in the country bought here.",
+          "e": "halo-effect",
+          "why": "Your admiration for the player rubs off on the project, and he's no real estate expert."
+        },
+        {
+          "t": "Each unit is 1,500 square feet.",
+          "e": null
+        },
+        {
+          "t": "Wait a month and prices jump, then the last units sell out, then you're priced out of this city forever.",
+          "e": "slippery-slope",
+          "why": "A chain of scary predictions with no evidence for any link, to get you to decide right now."
+        },
+        {
+          "t": "And nobody who bought here has ever complained.",
+          "e": "appeal-to-ignorance",
+          "why": "Not hearing about complaints doesn't mean there aren't any."
+        },
+        {
+          "t": "All your neighbors are buying in this area. Don't be the last one.",
+          "e": "bandwagon",
+          "why": "Other people buying isn't proof the deal is good for you."
+        },
+        {
+          "t": "Move-in in 3 years.",
+          "e": null
+        }
+      ]
+    }
+  ],
+  "phil": {
+    "results": {
+      "socrates": "You like to understand before you judge. Sometimes people think you ask too many questions, but you know a good question beats a wrong answer. There's a curiosity in you that never settles down.",
+      "stoicism": "You stay calm on the outside, even when you're boiling inside. You've learned that not everything is worth getting upset about, and that your real strength is in how you respond.",
+      "existentialism": "You don't like anyone mapping out your life for you. You feel your life is your own responsibility. That wears you out sometimes, but you won't give it up.",
+      "utilitarianism": "You think about the big picture. When you make a decision, you count who'll be affected. And sometimes you carry the worries of far more people than you need to.",
+      "kant": "You have principles, and you don't like breaking them, even when breaking them would be easier. People trust you, even if they find you stubborn sometimes.",
+      "epicurus": "You know the value of simple things. You don't chase the crowd, and you need inner peace more than any shiny success."
+    },
+    "qs": [
+      {
+        "q": "A friend says something hurtful during an argument. What's the first thing you do?",
+        "a": [
+          [
+            "Ask them: what exactly do you mean?",
+            "socrates"
+          ],
+          [
+            "Calm myself down. My reaction is the only thing I control.",
+            "stoicism"
+          ],
+          [
+            "Decide for myself whether this friendship continues. That's my choice.",
+            "existentialism"
+          ]
+        ]
+      },
+      {
+        "q": "You get an unexpected bonus at work. What do you do with it?",
+        "a": [
+          [
+            "Donate part of it where it helps a lot of people.",
+            "utilitarianism"
+          ],
+          [
+            "Go out with friends and enjoy something simple.",
+            "epicurus"
+          ],
+          [
+            "Spend it the way I promised myself I would. A promise is a promise.",
+            "kant"
+          ]
+        ]
+      },
+      {
+        "q": "Which line sounds most like you?",
+        "a": [
+          [
+            "The beginning of wisdom is knowing that you don't know.",
+            "socrates"
+          ],
+          [
+            "Right is right, even when nobody's watching.",
+            "kant"
+          ],
+          [
+            "Life is good in the small details.",
+            "epicurus"
+          ]
+        ]
+      },
+      {
+        "q": "Traffic has you stuck on the freeway for an hour.",
+        "a": [
+          [
+            "That's out of my hands. I'll put on a good podcast.",
+            "stoicism"
+          ],
+          [
+            "Think about a fix that would cut traffic for everyone.",
+            "utilitarianism"
+          ],
+          [
+            "Ask myself why I'm living a life with a two-hour commute, and decide to change it.",
+            "existentialism"
+          ]
+        ]
+      },
+      {
+        "q": "Someone asks you to tell a small lie that would make everyone comfortable.",
+        "a": [
+          [
+            "No. Lying is wrong, even a small lie.",
+            "kant"
+          ],
+          [
+            "If it helps more people and hurts fewer, fine.",
+            "utilitarianism"
+          ],
+          [
+            "Ask them: why do we need to lie in the first place?",
+            "socrates"
+          ]
+        ]
+      },
+      {
+        "q": "Your perfect day?",
+        "a": [
+          [
+            "A quiet evening with people I love.",
+            "epicurus"
+          ],
+          [
+            "A day when I did something I chose for myself.",
+            "existentialism"
+          ],
+          [
+            "A day that went by without anything rattling me.",
+            "stoicism"
+          ]
+        ]
+      },
+      {
+        "q": "Before a big decision, what do you ask yourself?",
+        "a": [
+          [
+            "Who benefits and who gets hurt?",
+            "utilitarianism"
+          ],
+          [
+            "If everyone did this, what would the world look like?",
+            "kant"
+          ],
+          [
+            "Who do I want to be?",
+            "existentialism"
+          ]
+        ]
+      },
+      {
+        "q": "What bugs you most about people?",
+        "a": [
+          [
+            "They talk without thinking.",
+            "socrates"
+          ],
+          [
+            "They chase things that don't matter.",
+            "epicurus"
+          ],
+          [
+            "They get angry about things they can't control.",
+            "stoicism"
+          ]
+        ]
+      }
+    ]
+  },
+  "calib": [
+    {
+      "s": "Alaska is the largest US state by area.",
+      "a": true,
+      "n": "Alaska covers about 665,000 square miles, more than twice the size of Texas."
+    },
+    {
+      "s": "The Statue of Liberty was a gift from France.",
+      "a": true,
+      "n": "It was dedicated in New York Harbor in 1886."
+    },
+    {
+      "s": "San Francisco's Golden Gate Bridge opened in 1937.",
+      "a": true,
+      "n": "It opened in May 1937."
+    },
+    {
+      "s": "Light travels faster than sound.",
+      "a": true,
+      "n": "That's why you see lightning before you hear the thunder."
+    },
+    {
+      "s": "An adult human body has about 206 bones.",
+      "a": true,
+      "n": "206 is the standard number for adults. Babies are born with more, and some fuse as they grow."
+    },
+    {
+      "s": "Australia is bigger than Brazil.",
+      "a": false,
+      "n": "Brazil is a bit bigger: about 3.3 million square miles, versus about 3 million for Australia."
+    },
+    {
+      "s": "The Moon is more than 200,000 miles from Earth.",
+      "a": true,
+      "n": "The average distance is about 239,000 miles."
+    },
+    {
+      "s": "Gold conducts electricity better than copper.",
+      "a": false,
+      "n": "Copper beats gold, and silver beats them both."
+    },
+    {
+      "s": "Toni Morrison won the Nobel Prize in Literature in 1993.",
+      "a": true,
+      "n": "She was the first Black woman to win it."
+    },
+    {
+      "s": "Water boils at 212°F everywhere on Earth.",
+      "a": false,
+      "n": "At high altitude it boils at a lower temperature because the air pressure is lower. In Denver it boils at around 202°F."
+    },
+    {
+      "s": "Hawaii became a US state in 1959.",
+      "a": true,
+      "n": "It became the 50th state in August 1959, a few months after Alaska."
+    },
+    {
+      "s": "The Great Wall of China is visible to the naked eye from the Moon.",
+      "a": false,
+      "n": "A famous claim, but it's false. The wall is far too narrow to see from that distance."
+    },
+    {
+      "s": "Blood inside your veins is blue.",
+      "a": false,
+      "n": "Blood is always red. Veins look blue through the skin because of the way light is absorbed and reflected."
+    },
+    {
+      "s": "Mars has two moons.",
+      "a": true,
+      "n": "Phobos and Deimos."
+    },
+    {
+      "s": "The US population is more than 300 million.",
+      "a": true,
+      "n": "The 2020 Census counted about 331 million people."
+    },
+    {
+      "s": "Bats are completely blind.",
+      "a": false,
+      "n": "Bats can see, and many of them also use echolocation to find their way around."
+    }
+  ],
+  "fix": [
+    {
+      "bad": "“That proposal won't work. The guy who suggested it was only hired a month ago.”",
+      "e": "ad-hominem",
+      "good": "“Let's pilot the proposal at one location first and look at the numbers.”",
+      "wrong": [
+        [
+          "“That proposal will definitely work. The guy who suggested it is brilliant.”",
+          "halo-effect"
+        ],
+        [
+          "“That proposal won't work. We've never done it that way before.”",
+          "appeal-to-tradition"
+        ]
+      ],
+      "why": "A proposal should be judged by its results, not by who suggested it. A small pilot is the best way to find out."
+    },
+    {
+      "bad": "“My rideshare driver ripped me off. All rideshare drivers are scammers.”",
+      "e": "hasty-generalization",
+      "good": "“That driver overcharged me. I'll report him, and next time I'll check the fare before I get in.”",
+      "wrong": [
+        [
+          "“Everybody says rideshare drivers are scammers, so they all must be.”",
+          "appeal-to-majority"
+        ],
+        [
+          "“Not every driver is a scammer, but most of them definitely are.”",
+          "hasty-generalization"
+        ]
+      ],
+      "why": "The judgment is now about the one person who did wrong, plus a practical next step. No generalizing."
+    },
+    {
+      "bad": "“Either you become a doctor or a lawyer, or you have no future.”",
+      "e": "false-dilemma",
+      "good": "“Medicine and law are stable, other fields have their own opportunities, and there are plenty more options. Let's figure out what fits you.”",
+      "wrong": [
+        [
+          "“Either you work at a big tech company, or you have no future.”",
+          "false-dilemma"
+        ],
+        [
+          "“All your friends went pre-med, so you should too.”",
+          "bandwagon"
+        ]
+      ],
+      "why": "It opens up the options instead of locking them down to two, and weighs the upsides of each."
+    },
+    {
+      "bad": "“Ever since my son got a phone, his grades have dropped. So the phone is the reason.”",
+      "e": "false-cause",
+      "good": "“His grades dropped around the same time. I'll talk with him and look for other reasons too, like a new teacher or something bothering him.”",
+      "wrong": [
+        [
+          "“All the parents say phones ruin kids, so it has to be the phone.”",
+          "appeal-to-majority"
+        ],
+        [
+          "“Ever since he switched schools, his grades have dropped. So the school is the reason.”",
+          "false-cause"
+        ]
+      ],
+      "why": "It admits the two things happened together, but looks for other causes before reaching a verdict."
+    },
+    {
+      "bad": "“That restaurant must be great. It's packed every night.”",
+      "e": "appeal-to-majority",
+      "good": "“The crowd tells me it's popular. I'll check the reviews and try one dish first.”",
+      "wrong": [
+        [
+          "“That restaurant must be great. The owner is always on TV.”",
+          "halo-effect"
+        ],
+        [
+          "“That restaurant must be great. It's been around for 40 years.”",
+          "appeal-to-tradition"
+        ]
+      ],
+      "why": "It treats the crowd as information, not proof, and then tests it firsthand."
+    },
+    {
+      "bad": "“I've already paid for so many repairs on this car, I have to keep fixing it.”",
+      "e": "sunk-cost",
+      "good": "“I'll compare the cost of future repairs with getting a different car. What I've already spent is gone.”",
+      "wrong": [
+        [
+          "“I've had this car for 10 years. There's no way I'm letting it go.”",
+          "status-quo"
+        ],
+        [
+          "“Everybody keeps fixing their old car, so I will too.”",
+          "bandwagon"
+        ]
+      ],
+      "why": "Look only at what's ahead, not at the money that's already gone."
+    },
+    {
+      "bad": "“If we let people leave early on Fridays, they'll stop working altogether.”",
+      "e": "slippery-slope",
+      "good": "“Let's try early Fridays for a month and measure the work before and after.”",
+      "wrong": [
+        [
+          "“If we let them leave early, other companies will copy us and the whole industry will fall apart.”",
+          "slippery-slope"
+        ],
+        [
+          "“No way. Employees always take advantage of any opening.”",
+          "hasty-generalization"
+        ]
+      ],
+      "why": "Instead of predicting a chain of disasters with no evidence, it decides to test and measure."
+    },
+    {
+      "bad": "“You want us to cut back on sugar? So you want the kids to grow up with no treats at all?”",
+      "e": "straw-man",
+      "good": "“You mean cut back on how much sugar we have in the house? Okay, how much are we talking about?”",
+      "wrong": [
+        [
+          "“You want us to cut back on sugar? You put three spoonfuls in your coffee!”",
+          "tu-quoque"
+        ],
+        [
+          "“Sugar is natural. It can't hurt anyone.”",
+          "appeal-to-nature"
+        ]
+      ],
+      "why": "It checks what the other person actually meant before responding."
+    }
+  ],
+  "calibStages": [
+    {
+      "title": "The USA",
+      "items": [
+        {
+          "s": "Alaska is the largest US state by area.",
+          "a": true,
+          "n": "Alaska covers about 665,000 square miles, more than twice the size of Texas."
+        },
+        {
+          "s": "The Statue of Liberty was a gift from France.",
+          "a": true,
+          "n": "It was dedicated in New York Harbor in 1886."
+        },
+        {
+          "s": "San Francisco's Golden Gate Bridge opened in 1937.",
+          "a": true,
+          "n": "It opened in May 1937."
+        },
+        {
+          "s": "Hawaii became a US state in 1959.",
+          "a": true,
+          "n": "It became the 50th state in August 1959, a few months after Alaska."
+        },
+        {
+          "s": "The US population is more than 300 million.",
+          "a": true,
+          "n": "The 2020 Census counted about 331 million people."
+        }
+      ]
+    },
+    {
+      "title": "The USA, Round 2",
+      "items": [
+        {
+          "s": "Toni Morrison won the Nobel Prize in Literature in 1993.",
+          "a": true,
+          "n": "She was the first Black woman to win it."
+        },
+        {
+          "s": "Lake Superior is the largest of the five Great Lakes.",
+          "a": true,
+          "n": "By surface area, it's the biggest of the five, by a wide margin."
+        },
+        {
+          "s": "Reno, Nevada is farther west than Los Angeles.",
+          "a": true,
+          "n": "It surprises most people, but California's coast curves east as it runs south, so Los Angeles sits east of Reno."
+        },
+        {
+          "s": "Washington, D.C. has been the US capital since the country was founded.",
+          "a": false,
+          "n": "Under the Constitution, New York and then Philadelphia served first. The federal government moved to Washington in 1800."
+        },
+        {
+          "s": "The Hoover Dam was completed in the 1930s.",
+          "a": true,
+          "n": "Construction began in 1931, and the dam was finished in 1936."
+        }
+      ]
+    },
+    {
+      "title": "Science",
+      "items": [
+        {
+          "s": "Light travels faster than sound.",
+          "a": true,
+          "n": "That's why you see lightning before you hear the thunder."
+        },
+        {
+          "s": "Gold conducts electricity better than copper.",
+          "a": false,
+          "n": "Copper beats gold, and silver beats them both."
+        },
+        {
+          "s": "Sound can't travel through a vacuum.",
+          "a": true,
+          "n": "Sound needs something to travel through, like air or water, and space is a near-vacuum."
+        },
+        {
+          "s": "Diamonds are made of carbon.",
+          "a": true,
+          "n": "A diamond is carbon in a particular arrangement. The graphite in your pencil is carbon too, just arranged differently."
+        },
+        {
+          "s": "All metals are attracted to magnets.",
+          "a": false,
+          "n": "Iron, nickel, and cobalt are, but copper, aluminum, and gold are not."
+        }
+      ]
+    },
+    {
+      "title": "The Human Body",
+      "items": [
+        {
+          "s": "An adult human body has about 206 bones.",
+          "a": true,
+          "n": "206 is the standard number for adults. Babies are born with more, and some fuse as they grow."
+        },
+        {
+          "s": "Blood inside your veins is blue.",
+          "a": false,
+          "n": "Blood is always red. Veins look blue through the skin because of the way light is absorbed and reflected."
+        },
+        {
+          "s": "Humans only use 10% of their brains.",
+          "a": false,
+          "n": "A famous myth. Brain scans show that every part of the brain does work, just not all at the same time."
+        },
+        {
+          "s": "Skin is the largest organ of the human body.",
+          "a": true,
+          "n": "Skin is the largest organ by both surface area and weight."
+        },
+        {
+          "s": "Hair and fingernails keep growing after death.",
+          "a": false,
+          "n": "The skin shrinks back after death, so hair and nails look longer, but they don't actually grow."
+        }
+      ]
+    },
+    {
+      "title": "Space",
+      "items": [
+        {
+          "s": "The Moon is more than 200,000 miles from Earth.",
+          "a": true,
+          "n": "The average distance is about 239,000 miles."
+        },
+        {
+          "s": "Mars has two moons.",
+          "a": true,
+          "n": "Phobos and Deimos."
+        },
+        {
+          "s": "The Sun is a star.",
+          "a": true,
+          "n": "The Sun is a medium-sized star, and it's the closest star to Earth."
+        },
+        {
+          "s": "Venus is hotter than Mercury, even though Mercury is closer to the Sun.",
+          "a": true,
+          "n": "Venus has a thick atmosphere that traps heat, making it the hottest planet in the solar system."
+        },
+        {
+          "s": "The Moon shines with its own light.",
+          "a": false,
+          "n": "The Moon reflects sunlight. It has no light of its own."
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "items": [
+        {
+          "s": "Bats are completely blind.",
+          "a": false,
+          "n": "Bats can see, and many of them also use echolocation to find their way around."
+        },
+        {
+          "s": "Ostriches bury their heads in the sand when they're scared.",
+          "a": false,
+          "n": "A famous myth. Ostriches lower their heads to the ground to turn their eggs or to lie low, but they don't bury them."
+        },
+        {
+          "s": "Whales are mammals, not fish.",
+          "a": true,
+          "n": "Whales breathe air, give birth to live young, and nurse them."
+        },
+        {
+          "s": "An octopus has three hearts.",
+          "a": true,
+          "n": "Two hearts pump blood to the gills, and a third pumps it to the rest of the body."
+        },
+        {
+          "s": "Goldfish only have a 3-second memory.",
+          "a": false,
+          "n": "Many experiments have shown that goldfish can remember things for months."
+        }
+      ]
+    },
+    {
+      "title": "Geography",
+      "items": [
+        {
+          "s": "Australia is bigger than Brazil.",
+          "a": false,
+          "n": "Brazil is a bit bigger: about 3.3 million square miles, versus about 3 million for Australia."
+        },
+        {
+          "s": "Water boils at 212°F everywhere on Earth.",
+          "a": false,
+          "n": "At high altitude it boils at a lower temperature because the air pressure is lower. In Denver it boils at around 202°F."
+        },
+        {
+          "s": "Russia is the largest country in the world by area.",
+          "a": true,
+          "n": "It covers about 6.6 million square miles."
+        },
+        {
+          "s": "The surface of the Dead Sea is below sea level.",
+          "a": true,
+          "n": "It's the lowest point on dry land, roughly 1,400 feet below sea level."
+        },
+        {
+          "s": "Mount Everest is the highest mountain above sea level.",
+          "a": true,
+          "n": "Its summit is about 29,032 feet high."
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "items": [
+        {
+          "s": "The Great Wall of China is visible to the naked eye from the Moon.",
+          "a": false,
+          "n": "A famous claim, but it's false. The wall is far too narrow to see from that distance."
+        },
+        {
+          "s": "World War II ended in 1945.",
+          "a": true,
+          "n": "It ended in Europe in May 1945 and in Asia in September 1945."
+        },
+        {
+          "s": "The first person walked on the Moon in 1969.",
+          "a": true,
+          "n": "Neil Armstrong, on the Apollo 11 mission, in July 1969."
+        },
+        {
+          "s": "Viking warriors wore horned helmets.",
+          "a": false,
+          "n": "There's no archaeological evidence for it. The image spread in the 19th century through theater and painting."
+        },
+        {
+          "s": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+          "a": true,
+          "n": "The Great Pyramid was built around 2560 BC, and Cleopatra died in 30 BC. That's about 2,500 years from the pyramid, and about 2,000 years to the Moon landing."
+        }
+      ]
+    },
+    {
+      "title": "Home & Kitchen",
+      "items": [
+        {
+          "s": "Real honey can stay edible for many years if it's stored properly.",
+          "a": true,
+          "n": "Honey is low in water and acidic, so bacteria have a hard time surviving in it."
+        },
+        {
+          "s": "Botanically speaking, a tomato is a fruit.",
+          "a": true,
+          "n": "Botanically, it's a fruit with seeds, even though we cook with it like a vegetable."
+        },
+        {
+          "s": "White chocolate contains cocoa powder.",
+          "a": false,
+          "n": "It contains cocoa butter only, no cocoa powder (cocoa solids), which is why it's white."
+        },
+        {
+          "s": "Lightning is hotter than the surface of the Sun.",
+          "a": true,
+          "n": "A lightning bolt can heat the air to about 50,000°F. The Sun's surface is around 10,000°F."
+        },
+        {
+          "s": "Water expands when it freezes.",
+          "a": true,
+          "n": "That's why a full water bottle can crack in the freezer, and why ice floats."
+        }
+      ]
+    },
+    {
+      "title": "Boss Level: Numbers & Myths",
+      "items": [
+        {
+          "s": "If you flip a coin 5 times and get tails every time, the sixth flip is more likely to be heads.",
+          "a": false,
+          "n": "Every flip is independent, and the odds are 50-50 every time. This is the gambler's fallacy."
+        },
+        {
+          "s": "In a room of 23 people, the chance that two of them share a birthday is more than 50%.",
+          "a": true,
+          "n": "This is the birthday paradox. The chance is about 50.7%, because the number of possible pairs is large."
+        },
+        {
+          "s": "The Sahara is the largest desert in the world.",
+          "a": false,
+          "n": "The largest desert is Antarctica, because a desert is defined by low precipitation, not sand. The Sahara is the largest hot desert."
+        },
+        {
+          "s": "Cats can see in total darkness.",
+          "a": false,
+          "n": "Cats see much better than we do in dim light, but in total darkness there's no light to see with."
+        },
+        {
+          "s": "Venus takes longer to spin once on its axis than to orbit the Sun.",
+          "a": true,
+          "n": "Venus takes about 243 Earth days to spin once, and about 225 Earth days to orbit the Sun."
+        }
+      ]
+    }
+  ],
+  "fixStages": [
+    {
+      "title": "Warm-Up",
+      "items": [
+        {
+          "bad": "“That proposal won't work. The guy who suggested it was only hired a month ago.”",
+          "e": "ad-hominem",
+          "good": "“Let's pilot the proposal at one location first and look at the numbers.”",
+          "wrong": [
+            [
+              "“That proposal will definitely work. The guy who suggested it is brilliant.”",
+              "halo-effect"
+            ],
+            [
+              "“That proposal won't work. We've never done it that way before.”",
+              "appeal-to-tradition"
+            ]
+          ],
+          "why": "A proposal should be judged by its results, not by who suggested it. A small pilot is the best way to find out."
+        },
+        {
+          "bad": "“My rideshare driver ripped me off. All rideshare drivers are scammers.”",
+          "e": "hasty-generalization",
+          "good": "“That driver overcharged me. I'll report him, and next time I'll check the fare before I get in.”",
+          "wrong": [
+            [
+              "“Everybody says rideshare drivers are scammers, so they all must be.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“Not every driver is a scammer, but most of them definitely are.”",
+              "hasty-generalization"
+            ]
+          ],
+          "why": "The judgment is now about the one person who did wrong, plus a practical next step. No generalizing."
+        }
+      ]
+    },
+    {
+      "title": "At Home",
+      "items": [
+        {
+          "bad": "“Either you become a doctor or a lawyer, or you have no future.”",
+          "e": "false-dilemma",
+          "good": "“Medicine and law are stable, other fields have their own opportunities, and there are plenty more options. Let's figure out what fits you.”",
+          "wrong": [
+            [
+              "“Either you work at a big tech company, or you have no future.”",
+              "false-dilemma"
+            ],
+            [
+              "“All your friends went pre-med, so you should too.”",
+              "bandwagon"
+            ]
+          ],
+          "why": "It opens up the options instead of locking them down to two, and weighs the upsides of each."
+        },
+        {
+          "bad": "“Ever since my son got a phone, his grades have dropped. So the phone is the reason.”",
+          "e": "false-cause",
+          "good": "“His grades dropped around the same time. I'll talk with him and look for other reasons too, like a new teacher or something bothering him.”",
+          "wrong": [
+            [
+              "“All the parents say phones ruin kids, so it has to be the phone.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“Ever since he switched schools, his grades have dropped. So the school is the reason.”",
+              "false-cause"
+            ]
+          ],
+          "why": "It admits the two things happened together, but looks for other causes before reaching a verdict."
+        }
+      ]
+    },
+    {
+      "title": "At Work",
+      "items": [
+        {
+          "bad": "“That restaurant must be great. It's packed every night.”",
+          "e": "appeal-to-majority",
+          "good": "“The crowd tells me it's popular. I'll check the reviews and try one dish first.”",
+          "wrong": [
+            [
+              "“That restaurant must be great. The owner is always on TV.”",
+              "halo-effect"
+            ],
+            [
+              "“That restaurant must be great. It's been around for 40 years.”",
+              "appeal-to-tradition"
+            ]
+          ],
+          "why": "It treats the crowd as information, not proof, and then tests it firsthand."
+        },
+        {
+          "bad": "“I've already paid for so many repairs on this car, I have to keep fixing it.”",
+          "e": "sunk-cost",
+          "good": "“I'll compare the cost of future repairs with getting a different car. What I've already spent is gone.”",
+          "wrong": [
+            [
+              "“I've had this car for 10 years. There's no way I'm letting it go.”",
+              "status-quo"
+            ],
+            [
+              "“Everybody keeps fixing their old car, so I will too.”",
+              "bandwagon"
+            ]
+          ],
+          "why": "Look only at what's ahead, not at the money that's already gone."
+        }
+      ]
+    },
+    {
+      "title": "On Social Media",
+      "items": [
+        {
+          "bad": "“If we let people leave early on Fridays, they'll stop working altogether.”",
+          "e": "slippery-slope",
+          "good": "“Let's try early Fridays for a month and measure the work before and after.”",
+          "wrong": [
+            [
+              "“If we let them leave early, other companies will copy us and the whole industry will fall apart.”",
+              "slippery-slope"
+            ],
+            [
+              "“No way. Employees always take advantage of any opening.”",
+              "hasty-generalization"
+            ]
+          ],
+          "why": "Instead of predicting a chain of disasters with no evidence, it decides to test and measure."
+        },
+        {
+          "bad": "“You want us to cut back on sugar? So you want the kids to grow up with no treats at all?”",
+          "e": "straw-man",
+          "good": "“You mean cut back on how much sugar we have in the house? Okay, how much are we talking about?”",
+          "wrong": [
+            [
+              "“You want us to cut back on sugar? You put three spoonfuls in your coffee!”",
+              "tu-quoque"
+            ],
+            [
+              "“Sugar is natural. It can't hurt anyone.”",
+              "appeal-to-nature"
+            ]
+          ],
+          "why": "It checks what the other person actually meant before responding."
+        }
+      ]
+    },
+    {
+      "title": "Health",
+      "items": [
+        {
+          "bad": "“This herbal remedy goes back to our ancestors, so it must be better than medicine.”",
+          "e": "appeal-to-tradition",
+          "good": "“Let's look for actual studies on this remedy, and talk to the doctor before stopping any medication.”",
+          "wrong": [
+            [
+              "“This herbal remedy is natural, so it must be better than medicine.”",
+              "appeal-to-nature"
+            ],
+            [
+              "“Everyone's using this remedy now, so it must be better.”",
+              "appeal-to-majority"
+            ]
+          ],
+          "why": "Being old, natural, or popular isn't evidence. Studies and expert advice are."
+        },
+        {
+          "bad": "“You're telling me not to smoke? You used to smoke!”",
+          "e": "tu-quoque",
+          "good": "“You're right that I used to smoke, and that's exactly why I know how harmful it is.”",
+          "wrong": [
+            [
+              "“You're telling me not to smoke? The doctor smokes too!”",
+              "tu-quoque"
+            ],
+            [
+              "“Don't smoke, or you'll be dead tomorrow.”",
+              "slippery-slope"
+            ]
+          ],
+          "why": "The adviser's own mistakes don't cancel out good advice. It's better to own it and keep the two separate."
+        }
+      ]
+    },
+    {
+      "title": "Numbers",
+      "items": [
+        {
+          "bad": "“That show is dumb, and we shouldn't even be talking about it. What about grocery prices?”",
+          "e": "red-herring",
+          "good": "“I don't like that show because the story drags and the acting is weak.”",
+          "wrong": [
+            [
+              "“That show is dumb because nobody famous is in it.”",
+              "ad-hominem"
+            ],
+            [
+              "“That show must be good. Everybody's streaming it.”",
+              "appeal-to-majority"
+            ]
+          ],
+          "why": "It answers the topic itself with clear reasons, without escaping to a different subject."
+        },
+        {
+          "bad": "“My neighbor drank this herbal mix and got over his diabetes, so it's the cure.”",
+          "e": "anecdotal-evidence",
+          "good": "“This mix would need to be studied in lots of people, and nobody should stop their diabetes treatment over it.”",
+          "wrong": [
+            [
+              "“This mix is 100% natural, so it must work.”",
+              "appeal-to-nature"
+            ],
+            [
+              "“A doctor on YouTube said it works, so it works.”",
+              "appeal-to-authority"
+            ]
+          ],
+          "why": "One case isn't evidence, and there may be other reasons he improved. Patient safety comes first."
+        }
+      ]
+    },
+    {
+      "title": "The News",
+      "items": [
+        {
+          "bad": "“Our company had record sales on Black Friday, so we're the best company in the market.”",
+          "e": "cherry-picking",
+          "good": "“Black Friday sales were strong. Let's compare the whole quarter with our competitors before we draw conclusions.”",
+          "wrong": [
+            [
+              "“All our customers say we're the best, so we're the best.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“We're the best because we've been in business for 20 years.”",
+              "appeal-to-tradition"
+            ]
+          ],
+          "why": "One hand-picked day isn't the full picture. A fair comparison looks at the whole period."
+        },
+        {
+          "bad": "“A puppy is basically a baby. If you can raise a dog, you're ready to be a parent.”",
+          "e": "false-analogy",
+          "good": "“Raising a dog teaches patience and routine, but babies need very different things. Let's look at what parenting actually involves.”",
+          "wrong": [
+            [
+              "“A baby is basically a houseplant: water, sunlight, and a little attention.”",
+              "false-analogy"
+            ],
+            [
+              "“If you can't handle a puppy, you'll never handle anything in life.”",
+              "slippery-slope"
+            ]
+          ],
+          "why": "An analogy can help explain, but it can't be the whole argument when the two cases differ in important ways."
+        }
+      ]
+    },
+    {
+      "title": "Conversation",
+      "items": [
+        {
+          "bad": "“That study was posted on Reddit, so it's garbage.”",
+          "e": "genetic-fallacy",
+          "good": "“Let's find where the study was originally published and check it, no matter who shared it.”",
+          "wrong": [
+            [
+              "“That came from a famous website, so it must be true.”",
+              "appeal-to-authority"
+            ],
+            [
+              "“I just can't believe that, so it must be false.”",
+              "personal-incredulity"
+            ]
+          ],
+          "why": "Where a claim comes from is a reason to look closer, but it can't decide on its own whether the claim is true."
+        },
+        {
+          "bad": "“So, are you still wasting your time reading?”",
+          "e": "loaded-question",
+          "good": "“What are you reading these days? What are you getting out of it?”",
+          "wrong": [
+            [
+              "“Reading is a waste of time. Nobody reads anymore.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“Either you read or you work. You can't do both.”",
+              "false-dilemma"
+            ]
+          ],
+          "why": "A loaded question assumes the answer. An open question lets the conversation start without an accusation."
+        }
+      ]
+    },
+    {
+      "title": "Money",
+      "items": [
+        {
+          "bad": "“I'm not donating to this food bank, because other charities waste money.”",
+          "e": "whataboutism",
+          "good": "“Before I donate, I'll look up this food bank's own reports and make sure the money gets where it's supposed to.”",
+          "wrong": [
+            [
+              "“I'm not donating. The guy who runs this food bank is a jerk.”",
+              "ad-hominem"
+            ],
+            [
+              "“Of course I'll donate. Everybody donates to it.”",
+              "appeal-to-majority"
+            ]
+          ],
+          "why": "Problems somewhere else have nothing to do with this place. Judge this food bank on its own record."
+        },
+        {
+          "bad": "“The ad said it's the #1 shampoo in America, so it's the best one for me.”",
+          "e": "appeal-to-authority",
+          "good": "“I'll try a travel-size bottle first and see if it works for my hair type.”",
+          "wrong": [
+            [
+              "“This shampoo is expensive, so it must be better.”",
+              "halo-effect"
+            ],
+            [
+              "“All my friends use this shampoo, so it's the best.”",
+              "appeal-to-majority"
+            ]
+          ],
+          "why": "“#1” with no source isn't evidence, and even if it's true, what's best for others isn't necessarily best for you."
+        }
+      ]
+    },
+    {
+      "title": "Boss Level: 3 Arguments",
+      "items": [
+        {
+          "bad": "“If we let the kids play video games for an hour, they'll stop studying, fail their classes, and ruin their futures.”",
+          "e": "slippery-slope",
+          "good": "“Let's try one hour of gaming after homework is done, and keep an eye on their grades.”",
+          "wrong": [
+            [
+              "“Video games are harmful because all the parents say so.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“We didn't have video games growing up, and we turned out fine.”",
+              "appeal-to-tradition"
+            ]
+          ],
+          "why": "Instead of imagining the worst chain of events, test it and measure what really happens."
+        },
+        {
+          "bad": "“My dentist says to floss every day, but I bet she skips it sometimes. So flossing is overrated.”",
+          "e": "tu-quoque",
+          "good": "“Let's look at what the research says about flossing, regardless of what my dentist does at home.”",
+          "wrong": [
+            [
+              "“She's not even a real doctor, so she's wrong about flossing.”",
+              "ad-hominem"
+            ],
+            [
+              "“I never floss and my teeth are fine, so flossing doesn't matter.”",
+              "anecdotal-evidence"
+            ]
+          ],
+          "why": "A person's own behavior doesn't change the evidence. Judge the evidence itself."
+        },
+        {
+          "bad": "“You bought the ticket, so you have to stay for the whole concert, even if you're exhausted.”",
+          "e": "sunk-cost",
+          "good": "“The ticket is already paid for. If you're exhausted, the better move is to go home and rest.”",
+          "wrong": [
+            [
+              "“You have to stay. Everybody else is staying.”",
+              "appeal-to-majority"
+            ],
+            [
+              "“If you leave now, you'll never go to another concert again.”",
+              "slippery-slope"
+            ]
+          ],
+          "why": "The money is gone either way. The decision should be about what comes next."
+        }
+      ]
+    }
+  ]
+}

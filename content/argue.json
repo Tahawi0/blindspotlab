@@ -1,0 +1,269 @@
+{
+  "levels": [
+    {
+      "c": "Socrates will die.",
+      "cards": [
+        {
+          "t": "All humans die.",
+          "ok": true
+        },
+        {
+          "t": "Socrates is human.",
+          "ok": true
+        },
+        {
+          "t": "Socrates is very famous.",
+          "why": "Fame has nothing to do with dying. This premise doesn't get you to the conclusion."
+        },
+        {
+          "t": "All philosophers think a lot.",
+          "why": "Thinking isn't the point here. You need something that links Socrates to dying."
+        },
+        {
+          "t": "Lots of people died before Socrates.",
+          "why": "Lots of people dying isn't logical proof that everyone will. That's generalizing from examples."
+        }
+      ],
+      "win": "This is the most famous syllogism in history: a general rule (all humans) + a specific case (Socrates is one of them) = a conclusion that must be true if both premises are true."
+    },
+    {
+      "c": "The ground is wet.",
+      "cards": [
+        {
+          "t": "If it rains, the ground gets wet.",
+          "ok": true
+        },
+        {
+          "t": "It rained.",
+          "ok": true
+        },
+        {
+          "t": "If the ground is wet, then it rained.",
+          "why": "That's the rule flipped, and it isn't always true: a garden hose can wet the ground too. It also doesn't prove the conclusion."
+        },
+        {
+          "t": "The sky is cloudy.",
+          "why": "Clouds don't mean it actually rained."
+        },
+        {
+          "t": "People opened their umbrellas.",
+          "why": "That's a sign, not proof. People might open them just in case."
+        }
+      ],
+      "win": "\"If A, then B\" + \"A happened\" = \"B happened.\" It's the simplest rule in logic, and one of the strongest."
+    },
+    {
+      "c": "It didn't rain.",
+      "cards": [
+        {
+          "t": "If it rains, the ground gets wet.",
+          "ok": true
+        },
+        {
+          "t": "The ground is bone dry.",
+          "ok": true
+        },
+        {
+          "t": "The weather forecast said no rain.",
+          "why": "That's a trustworthy source, but it isn't logical proof. Forecasts can be wrong."
+        },
+        {
+          "t": "It's hot today.",
+          "why": "Heat doesn't logically rule out rain."
+        },
+        {
+          "t": "The ground is wet.",
+          "why": "That's the opposite of what you need, and it doesn't tell you anything about rain anyway."
+        }
+      ],
+      "win": "\"If A, then B\" + \"B didn't happen\" = \"A didn't happen.\" If it had rained, the ground would be wet. The ground is dry, so it didn't rain."
+    },
+    {
+      "c": "Maya will take the subway to work.",
+      "cards": [
+        {
+          "t": "Maya will get to work either by subway or by car.",
+          "ok": true
+        },
+        {
+          "t": "Maya isn't driving today.",
+          "ok": true
+        },
+        {
+          "t": "The subway is faster than driving.",
+          "why": "The subway being faster doesn't mean Maya will pick it."
+        },
+        {
+          "t": "All of Maya's friends take the subway.",
+          "why": "What her friends do isn't evidence of what she'll choose."
+        },
+        {
+          "t": "Maya loves the subway.",
+          "why": "Loving it isn't a guarantee. She could love it and still drive."
+        }
+      ],
+      "win": "\"Either A or B\" + \"not B\" = \"A.\" But careful: this only works if those really are the only two options. If she could grab an Uber, the argument falls apart."
+    },
+    {
+      "c": "If Jake studies, he'll get into his dream college.",
+      "cards": [
+        {
+          "t": "If Jake studies, he'll get great grades.",
+          "ok": true
+        },
+        {
+          "t": "If Jake gets great grades, he'll get into his dream college.",
+          "ok": true
+        },
+        {
+          "t": "Everyone who got into that college studied.",
+          "why": "This says the people who got in studied, not that anyone who studies gets in. The direction is backwards."
+        },
+        {
+          "t": "Jake is really smart.",
+          "why": "Being smart isn't part of the chain you need."
+        },
+        {
+          "t": "Jake has wanted to go there since he was a kid.",
+          "why": "Wanting something isn't enough to get you in."
+        }
+      ],
+      "win": "This is a chain: \"A leads to B\" and \"B leads to C,\" so \"A leads to C.\" Every link has to hold. If one link breaks, the whole chain breaks."
+    },
+    {
+      "c": "Someone in Room 12 can swim.",
+      "cards": [
+        {
+          "t": "Everyone on the swim team can swim.",
+          "ok": true
+        },
+        {
+          "t": "Emma is in Room 12, and she's on the swim team.",
+          "ok": true
+        },
+        {
+          "t": "Most people know how to swim.",
+          "why": "\"Most\" isn't \"all.\" It doesn't guarantee anyone in this particular room can."
+        },
+        {
+          "t": "The school has a swimming pool.",
+          "why": "Having a pool doesn't mean anyone can swim."
+        },
+        {
+          "t": "Emma loves the beach.",
+          "why": "Loving the beach isn't the same as knowing how to swim."
+        }
+      ],
+      "win": "To prove that \"someone\" does something, one confirmed example is enough. Emma is in the room, and everyone on the team can swim, so someone in the room can swim."
+    },
+    {
+      "c": "No animal in the room can fly.",
+      "cards": [
+        {
+          "t": "No cat can fly.",
+          "ok": true
+        },
+        {
+          "t": "Every animal in the room is a cat.",
+          "ok": true
+        },
+        {
+          "t": "I've never seen a cat fly.",
+          "why": "Not having seen something isn't proof it doesn't exist. That's an appeal to ignorance."
+        },
+        {
+          "t": "Cats love to sleep a lot.",
+          "why": "Sleeping has nothing to do with flying."
+        },
+        {
+          "t": "Cats usually don't have wings.",
+          "why": "\"Usually\" isn't enough to prove that not a single one does."
+        }
+      ],
+      "win": "A general negative rule (\"no cat can fly\") + everything in the room is a cat = no animal in the room can fly."
+    },
+    {
+      "c": "Sarah will be late for work.",
+      "cards": [
+        {
+          "t": "If the train breaks down, Sarah will be late.",
+          "ok": true
+        },
+        {
+          "t": "The train broke down this morning.",
+          "ok": true
+        },
+        {
+          "t": "Sarah is always late.",
+          "why": "A habit isn't proof. She might show up early today."
+        },
+        {
+          "t": "If Sarah is late, then the train broke down.",
+          "why": "That's the rule flipped, and it isn't true: she could be late for other reasons."
+        },
+        {
+          "t": "Traffic is bad today.",
+          "why": "Traffic could make her late, but there's no rule here linking it to her."
+        }
+      ],
+      "win": "Same rule as before: \"If A, then B, and A happened.\" But watch out for the flipped card. It's the most famous trap."
+    },
+    {
+      "c": "Not everyone who wears glasses reads a lot.",
+      "cards": [
+        {
+          "t": "My uncle wears glasses.",
+          "ok": true
+        },
+        {
+          "t": "My uncle has never read a book.",
+          "ok": true
+        },
+        {
+          "t": "Most people who read a lot wear glasses.",
+          "why": "This is about readers, not about everyone who wears glasses."
+        },
+        {
+          "t": "Glasses help you read.",
+          "why": "That doesn't prove or disprove that everyone who wears them reads."
+        },
+        {
+          "t": "A lot of people say glasses make you look smart.",
+          "why": "Popular opinion isn't logical evidence."
+        }
+      ],
+      "win": "To knock down an \"all…\" statement, one counterexample is enough. Your uncle wears glasses and doesn't read = not everyone who wears glasses is a reader."
+    },
+    {
+      "c": "We need to take the umbrella today.",
+      "n": 3,
+      "cards": [
+        {
+          "t": "If it's raining, we'll get soaked without an umbrella.",
+          "ok": true
+        },
+        {
+          "t": "If we'll get soaked without an umbrella, we need to take the umbrella.",
+          "ok": true
+        },
+        {
+          "t": "It's raining right now.",
+          "ok": true
+        },
+        {
+          "t": "The forecast said it might rain.",
+          "why": "\"Might\" isn't enough to prove \"need to.\""
+        },
+        {
+          "t": "It rained yesterday.",
+          "why": "Yesterday's rain says nothing about today."
+        },
+        {
+          "t": "Everyone else has an umbrella.",
+          "why": "What the majority does isn't logical evidence."
+        }
+      ],
+      "win": "Boss level: a 3-link chain. Rain → soaked → umbrella. Every link has to be there. If even one is missing, the whole argument falls apart."
+    }
+  ]
+}

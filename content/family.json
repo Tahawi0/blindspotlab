@@ -1,0 +1,517 @@
+{
+  "group": "Family Group Chat ❤️",
+  "people": {
+    "m": "Uncle Rick",
+    "s": "Aunt Linda",
+    "k": "Cousin Tyler",
+    "h": "Jess"
+  },
+  "rounds": [
+    {
+      "msgs": [
+        {
+          "who": "m",
+          "text": "VERY IMPORTANT message from a top doctor: a glass of lemon water with salt every day cures high blood pressure for good. No more pills needed. Forward this to everyone you love!!"
+        }
+      ],
+      "f": "appeal-to-authority",
+      "lesson": "\"A top doctor\" with no name and no source isn't evidence. The best reply asks for the source and makes it clear you're worried about him, not attacking him.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Uncle Rick, please stop forwarding this junk. It's not 2010.",
+          "warm": -3,
+          "conv": 0,
+          "back": [
+            {
+              "who": "m",
+              "text": "You're going to lecture me? I was reading before you were born."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "👍",
+          "warm": 0,
+          "conv": -1,
+          "back": [
+            {
+              "who": "s",
+              "text": "Thank you Rick!! Sent it to 3 other groups."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "Love you, Uncle Rick. Who's the doctor, though? If it were true, we'd find it somewhere official. Also, I've heard salt can actually raise blood pressure, so please don't stop your meds without asking your doctor ❤️",
+          "warm": 1,
+          "conv": 2,
+          "back": [
+            {
+              "who": "m",
+              "text": "You know, you're right. The message didn't have a name on it. I'll ask my doctor at my appointment Thursday."
+            }
+          ]
+        }
+      ],
+      "title": "The Top Doctor"
+    },
+    {
+      "msgs": [
+        {
+          "who": "k",
+          "text": "Guys, EVERYONE is buying this new crypto coin. All my friends made money. I'm putting my whole savings in this week."
+        }
+      ],
+      "f": "bandwagon",
+      "lesson": "\"Everyone's doing it\" isn't evidence that it's a good idea. And we only hear from the people who won. The ones who lost stay quiet (survivorship bias).",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Are you insane? That's a scam and you're going to lose everything.",
+          "warm": -2,
+          "conv": 0,
+          "back": [
+            {
+              "who": "k",
+              "text": "You always do this. You never want anyone to succeed. Mind your own business."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "Good luck!",
+          "warm": 1,
+          "conv": -1,
+          "back": [
+            {
+              "who": "s",
+              "text": "Tyler honey, can you get me in on it too?"
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "Good luck, Tyler. Quick question though: we hear about the people who made money, but where are the ones who lost? If you want to try it, put in a small amount you can afford to lose, not your whole savings.",
+          "warm": 1,
+          "conv": 2,
+          "back": [
+            {
+              "who": "k",
+              "text": "Hmm. Actually one of my buddies did lose a bunch and never said anything. I'll start small."
+            }
+          ]
+        }
+      ],
+      "title": "The Crypto Coin"
+    },
+    {
+      "msgs": [
+        {
+          "who": "s",
+          "text": "Did you hear about the neighbor's daughter? Divorced after one year. I said it from the start: women with big careers just can't keep a marriage together."
+        }
+      ],
+      "f": "hasty-generalization",
+      "lesson": "One case isn't enough to judge every working woman. A calm reply makes the point with an example close to home, without embarrassing anyone.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Aunt Linda, that's so outdated. And it's none of your business.",
+          "warm": -3,
+          "conv": 0,
+          "back": [
+            {
+              "who": "s",
+              "text": "Fine, Mr. Know-It-All. So much for respecting your elders."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "Hope things get better for her.",
+          "warm": 1,
+          "conv": -1,
+          "back": [
+            {
+              "who": "m",
+              "text": "You're right, Linda. Careers wreck families."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "Hope things get better for her. But Aunt Linda, Jess has been working for 5 years and her marriage is great. Maybe the neighbor's situation was about something else entirely?",
+          "warm": 2,
+          "conv": 2,
+          "back": [
+            {
+              "who": "h",
+              "text": "Thank you 😂 Seriously, Mom, every family is different."
+            },
+            {
+              "who": "s",
+              "text": "Did I say anything about Jess? Okay, okay, maybe it was just her situation."
+            }
+          ]
+        }
+      ],
+      "title": "The Neighbor's Daughter"
+    },
+    {
+      "msgs": [
+        {
+          "who": "m",
+          "text": "Ever since kids got glued to their phones, nobody has manners anymore and nobody visits. These phones have ruined families."
+        }
+      ],
+      "f": "false-cause",
+      "lesson": "Two things happening at the same time doesn't mean one caused the other. And more importantly: your uncle is probably saying \"I miss you\" in a different way.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Uncle Rick, you're on Facebook literally all day.",
+          "warm": -2,
+          "conv": 0,
+          "back": [
+            {
+              "who": "m",
+              "text": "See the attitude? That's exactly what I'm talking about."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "😅",
+          "warm": 0,
+          "conv": -1,
+          "back": [
+            {
+              "who": "s",
+              "text": "So true, Rick. The world's changed."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "You're right that we haven't visited enough, and that's on us, not the phones. How about we all come over to your place Sunday? I'll bring dessert.",
+          "warm": 3,
+          "conv": 1,
+          "back": [
+            {
+              "who": "m",
+              "text": "Door's open. And bring the kids ❤️"
+            }
+          ]
+        }
+      ],
+      "title": "Phones Ruined Everything"
+    },
+    {
+      "msgs": [
+        {
+          "who": "s",
+          "text": "You're not getting any younger. Either you get married this year, or you'll be alone forever."
+        }
+      ],
+      "f": "false-dilemma",
+      "lesson": "There's a lot of room between \"this year\" and \"forever.\" And sometimes a little gentle humor ends the topic better than an argument.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "That's personal, and the family chat isn't the place for it.",
+          "warm": -2,
+          "conv": 1,
+          "back": [
+            {
+              "who": "s",
+              "text": "Fine. I guess we're strangers now."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "We'll see, Aunt Linda.",
+          "warm": 1,
+          "conv": -1,
+          "back": [
+            {
+              "who": "s",
+              "text": "\"We'll see\"? I know a lovely girl from my book club. Sending you her picture."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "😂 Aunt Linda, there are a LOT of years between \"this year\" and \"forever.\" The minute I meet the right person, you'll be the first to know. Promise.",
+          "warm": 2,
+          "conv": 2,
+          "back": [
+            {
+              "who": "s",
+              "text": "Okay, smart mouth 😂 Just don't take too long."
+            }
+          ]
+        }
+      ],
+      "title": "Married or Else…"
+    },
+    {
+      "title": "Grandpa's Chicken",
+      "msgs": [
+        {
+          "who": "m",
+          "text": "Supermarket chicken is nothing but chemicals and hormones. Our grandparents ate farm-raised and lived to 100. If you love your kids, you'll only buy farm-fresh."
+        }
+      ],
+      "f": "appeal-to-nature",
+      "lesson": "\"Natural\" or \"farm-fresh\" doesn't automatically mean better or safer, and a few grandparents who lived a long time isn't evidence. The best reply appreciates the concern and asks about the facts.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Uncle Rick, that's baseless. People back then actually had shorter life expectancy than we do.",
+          "warm": -2,
+          "conv": 1,
+          "back": [
+            {
+              "who": "m",
+              "text": "You're going to teach me about food? Go eat your canned junk, then."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "😅",
+          "warm": 0,
+          "conv": -1,
+          "back": [
+            {
+              "who": "s",
+              "text": "So right, Rick. I quit store chicken completely."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "I love that you look out for our health, Uncle Rick ❤️ And farm chicken really does taste great. But just so we can relax: supermarket chicken is federally inspected, and US rules don't even allow hormones in raising chickens. Want me to send you the official page so we can read it together?",
+          "warm": 2,
+          "conv": 2,
+          "back": [
+            {
+              "who": "m",
+              "text": "Send it. But farm chicken still tastes better 😄"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Due for a Win",
+      "msgs": [
+        {
+          "who": "k",
+          "text": "Spent money on loot boxes in my phone game 4 times in a row and got nothing good. But that's it, the next one HAS to hit. Luck has to turn around. I'm doubling up."
+        }
+      ],
+      "f": "gamblers-fallacy",
+      "lesson": "Losing before doesn't make a win \"due.\" Each box is independent, and raising your spend after a loss is the fastest road to a bigger loss.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Are you dumb? You're going to blow all your money.",
+          "warm": -3,
+          "conv": 0,
+          "back": [
+            {
+              "who": "k",
+              "text": "Mind your business. My money, my call."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "Good luck man.",
+          "warm": 1,
+          "conv": -1,
+          "back": [
+            {
+              "who": "k",
+              "text": "Thanks! Tonight I finally pull the legendary skin 😎"
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "I get it, losing is annoying. But the next box doesn't know you lost before it. Its odds are exactly the same. How about you set a limit for today and don't raise it after a loss?",
+          "warm": 2,
+          "conv": 2,
+          "back": [
+            {
+              "who": "k",
+              "text": "Yeah… honestly every time I go bigger I lose more. I'm stopping for today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Young Doctor",
+      "msgs": [
+        {
+          "who": "s",
+          "text": "Don't listen to that OB Jess is seeing. She's young and doesn't even have kids. What does she know about having a baby?"
+        }
+      ],
+      "f": "ad-hominem",
+      "lesson": "The doctor's age and personal life aren't the measure. Her training, her experience and what she actually says are.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "Aunt Linda, that's rude. Her personal life is none of your business.",
+          "warm": -2,
+          "conv": 0,
+          "back": [
+            {
+              "who": "s",
+              "text": "I'm giving my opinion. Am I not allowed to have one?"
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "👍",
+          "warm": 0,
+          "conv": -1,
+          "back": [
+            {
+              "who": "m",
+              "text": "You're right, Linda. Experience is experience."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "It makes sense that you're worried about Jess, Aunt Linda. But this doctor is board-certified with years of experience, and what she's saying matches standard medical guidelines. If you'd feel better getting a second opinion, that's totally fine too.",
+          "warm": 2,
+          "conv": 2,
+          "back": [
+            {
+              "who": "h",
+              "text": "Thank you ❤️ She really is great, Mom."
+            },
+            {
+              "who": "s",
+              "text": "Okay. Fingers crossed it all goes smoothly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "You Do It Too",
+      "msgs": [
+        {
+          "who": "k",
+          "text": "You told me to slow down on the highway? You were speeding yesterday! So your advice means nothing."
+        }
+      ],
+      "f": "tu-quoque",
+      "lesson": "The person giving advice slipping up doesn't make the advice wrong. The fix is to own it and separate your mistake from whether the point is true.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "I was in a hurry. You're reckless all the time.",
+          "warm": -2,
+          "conv": 0,
+          "back": [
+            {
+              "who": "k",
+              "text": "Oh sure, you're allowed and I'm not."
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "Okay.",
+          "warm": 0,
+          "conv": -1,
+          "back": [
+            {
+              "who": "k",
+              "text": "See, no comeback 😂"
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "Fair, I messed up yesterday too, and I won't do it again. But that doesn't change the fact that speeding on the highway is dangerous for both of us. Deal: we both slow down?",
+          "warm": 3,
+          "conv": 2,
+          "back": [
+            {
+              "who": "k",
+              "text": "Alright, deal 🤝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Bank Text (Boss)",
+      "msgs": [
+        {
+          "who": "m",
+          "text": "URGENT: The bank is closing accounts that don't update their info by NOON TODAY. Click this link and enter your card number and PIN."
+        },
+        {
+          "who": "s",
+          "text": "I already did it, and so did my neighbor. Everyone's doing it."
+        }
+      ],
+      "f": "bandwagon",
+      "lesson": "\"Everyone did it\" isn't evidence that it's safe, and urgency plus threats are classic scam red flags. Your bank will never ask for your PIN. The right reply here has to be clear and urgent, but calm.",
+      "replies": [
+        {
+          "kind": "attack",
+          "text": "How could you do that?! It's obviously a scam!",
+          "warm": -1,
+          "conv": 1,
+          "back": [
+            {
+              "who": "s",
+              "text": "I didn't know… okay, what do I do now?"
+            }
+          ]
+        },
+        {
+          "kind": "quiet",
+          "text": "🙏",
+          "warm": 0,
+          "conv": -2,
+          "back": [
+            {
+              "who": "m",
+              "text": "Hurry up everyone, time's running out."
+            }
+          ]
+        },
+        {
+          "kind": "smart",
+          "text": "Everyone please wait ❤️ Banks never ask for your PIN. This is a scam text. Aunt Linda, call the number on the back of your card right now and have them freeze it. Uncle Rick, delete the message and don't forward it to anyone.",
+          "warm": 3,
+          "conv": 3,
+          "back": [
+            {
+              "who": "s",
+              "text": "Called the bank and they froze the card. Thank goodness we caught it in time!"
+            },
+            {
+              "who": "m",
+              "text": "Deleted it. Thank you, kiddo. That was a close one."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

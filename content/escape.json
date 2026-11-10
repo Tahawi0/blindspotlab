@@ -1,0 +1,151 @@
+{
+  "intro": "An old house with 10 rooms in a row. Every door has a lock you can't force open. You open it by thinking. Each room unlocks the next one, and the clock is running.",
+  "rooms": [
+    {
+      "title": "The Golden Key Room",
+      "story": "There's a note on the table: \"Every gold key opens this door.\" Next to it is a key wrapped in a cloth. You try it in the door… and it opens!",
+      "q": "So the key under the cloth must be gold?",
+      "type": "choice",
+      "opts": [
+        "Yes, it has to be gold.",
+        "No, it definitely isn't gold.",
+        "Not necessarily. It could be a key that isn't gold and still opens the door."
+      ],
+      "a": 2,
+      "hint": "The note says gold keys open the door. Does it say only gold keys open it?",
+      "why": "\"Every gold key opens it\" doesn't mean \"every key that opens it is gold.\" This slip is called affirming the consequent, and we make it all the time: \"Everyone who studies passes. He passed, so he must have studied.\"",
+      "icon": "key"
+    },
+    {
+      "title": "The Two Guards Room",
+      "story": "There are two doors. One leads out, the other sends you back to the start of the house. A guard stands in front of each. One guard always tells the truth, the other always lies, and you don't know which is which. You get exactly one question, to one guard.",
+      "q": "What do you ask?",
+      "type": "choice",
+      "opts": [
+        "\"Are you the one who tells the truth?\"",
+        "\"Which door is the exit?\"",
+        "\"If I asked the other guard which door is the exit, which one would he point to?\" Then I pick the other door.",
+        "\"Is the other guard a liar?\""
+      ],
+      "a": 2,
+      "hint": "You need a question whose answer is always wrong, no matter who answers it. Then you just do the opposite.",
+      "why": "Ask the truth-teller, and he'll honestly tell you the liar would point to the wrong door. Ask the liar, and he'll lie about what the truth-teller would say, so he also points to the wrong door. Either way the answer is wrong, so you pick the other one.",
+      "icon": "guards"
+    },
+    {
+      "title": "The Combination Lock Room",
+      "story": "The door has a 3-digit lock. On the wall, someone who came before you scribbled 5 old attempts:",
+      "clues": [
+        "682: one digit is right and in the right spot.",
+        "614: one digit is right, but in the wrong spot.",
+        "206: two digits are right, but both in the wrong spots.",
+        "738: no digit is right.",
+        "780: one digit is right, but in the wrong spot."
+      ],
+      "q": "What's the code?",
+      "type": "code",
+      "answer": "042",
+      "hint": "Start with the line that says \"no digit is right.\" That rules out 7, 3 and 8. Now look at 780: the right digit there has to be 0.",
+      "why": "738 rules out 7, 3 and 8. So in 780 the right digit is 0, and it isn't last. In 206 the 0 isn't in the middle, so 0 goes first. In 682 the digit in the right spot isn't 6 (the first spot is taken by 0) and isn't 8, so it's 2, and it goes last. In 614 the 6 is out and the 1 can't go in the middle, so 4 goes in the middle: 042.",
+      "icon": "lock"
+    },
+    {
+      "title": "The Warning Sign Room",
+      "story": "A sign on the door says: \"DO NOT open this door! If you do, you'll end up in the hallway, the hallway leads to the stairs, you'll fall down the stairs, break your leg, and never get out.\" The lock opens if you name the trick the sign is pulling.",
+      "q": "What's the trick called?",
+      "type": "choice",
+      "slugOpts": [
+        "slippery-slope",
+        "false-cause",
+        "appeal-to-emotion",
+        "straw-man"
+      ],
+      "a": 0,
+      "hint": "The sign chains events together, each step leading to the next, with no evidence.",
+      "why": "That's the slippery slope: a chain of scary outcomes with zero evidence that one step will cause the next. You open the door. The hallway is completely normal.",
+      "icon": "sign"
+    },
+    {
+      "title": "The Scale Room",
+      "story": "Halfway there! In front of you are 8 coins that look identical. Exactly one is slightly heavier. There's a balance scale with two pans. The lock wants a single number:",
+      "q": "What's the fewest weighings that guarantees you find the heavy coin?",
+      "type": "code",
+      "answer": "2",
+      "hint": "Don't split them in half. Try three groups.",
+      "why": "Split them 3, 3 and 2. Weigh 3 against 3. If they balance, the heavy coin is in the leftover 2, and one more weighing between them finds it. If one side drops, take those 3 and weigh one against one: if they balance, it's the third. Two weighings, done.",
+      "icon": "scale"
+    },
+    {
+      "title": "The Mirror Room",
+      "story": "Three talking mirrors. The first says: \"The second one is lying.\" The second says: \"The third one is lying.\" The third says: \"The first and second are both lying.\" The door opens if you point to the mirror that's telling the truth.",
+      "q": "Who's telling the truth?",
+      "type": "choice",
+      "opts": [
+        "Only the first",
+        "Only the second",
+        "Only the third",
+        "The first and the third"
+      ],
+      "a": 1,
+      "hint": "Assume the third mirror is telling the truth and see whether you hit a contradiction.",
+      "why": "If the third is truthful, the first is lying, which makes the second truthful. But the third said the second was lying. Contradiction, so the third is lying. If the first were truthful, the second would be lying, which makes the third truthful. Another contradiction. So the first is lying and the second is telling the truth, and that fits every statement.",
+      "icon": "mirror"
+    },
+    {
+      "title": "The Hourglass Room",
+      "story": "Numbers are carved in order on a giant hourglass: 2, 6, 12, 20, 30, ...",
+      "q": "What comes next?",
+      "type": "code",
+      "answer": "42",
+      "hint": "Look at the gap between each number and the next: 4, 6, 8, 10…",
+      "why": "The gap grows by 2 each time: 4, 6, 8, 10, so the next gap is 12, and 30 + 12 = 42. Or: each number is n × (n + 1).",
+      "icon": "hourglass"
+    },
+    {
+      "title": "The Bookshelf Room",
+      "story": "A note on the bookshelf: \"Every book on this shelf was written by someone who became a millionaire. So if you write a book, you'll be a millionaire too.\" The lock opens if you name the mistake.",
+      "q": "What's the mistake called?",
+      "type": "choice",
+      "slugOpts": [
+        "survivorship",
+        "hasty-generalization",
+        "appeal-to-authority",
+        "false-cause"
+      ],
+      "a": 0,
+      "hint": "Where are the books that never sold a single copy? Why aren't they on the shelf?",
+      "why": "That's survivorship bias: the shelf only shows the winners. The thousands of people who wrote books nobody bought aren't in front of you.",
+      "icon": "books"
+    },
+    {
+      "title": "The Map Room",
+      "story": "Three doors: red, blue and green. Only one leads to the exit. The red door says: \"The exit is not here.\" The blue door says: \"The exit is not here.\" The green door says: \"The exit is behind the blue door.\" Exactly one of these three statements is true.",
+      "q": "Which door hides the exit?",
+      "type": "choice",
+      "opts": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "a": 0,
+      "hint": "Try each door and count how many statements come out true.",
+      "why": "If the exit is behind red: red's sign is false, blue's is true, green's is false. Exactly one true statement. Any other door makes two statements true.",
+      "icon": "map"
+    },
+    {
+      "title": "The Treasure Chest Room (Boss)",
+      "story": "Last room! Three chests, and only one holds the key out. You pick chest 1. The guard, who knows where the key is and always opens an empty chest, opens chest 3. It's empty. Then he asks: \"Want to switch to chest 2?\"",
+      "q": "What gives you the better odds?",
+      "type": "choice",
+      "opts": [
+        "Stick with chest 1",
+        "Switch to chest 2",
+        "Doesn't matter, it's 50/50"
+      ],
+      "a": 1,
+      "hint": "What were the odds of your first pick when there were 3 chests? And did the guard open a random chest?",
+      "why": "Your first pick had a 1-in-3 chance. The guard knows where the key is and always opens an empty chest, so the other 2-in-3 chance all lands on chest 2. Switching gives you 2-in-3 odds. This is the Monty Hall problem, and most people's gut wrongly says 50/50.",
+      "icon": "chest"
+    }
+  ]
+}

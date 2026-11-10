@@ -1,0 +1,2102 @@
+[
+ {
+  "id": 1,
+  "scene": "Your partner says, \"We should probably order takeout a little less.\" You fire back: \"So from now on we're never allowed to eat anything good?\"",
+  "options": [
+   "Ad Hominem",
+   "Straw Man",
+   "False Dilemma",
+   "Appeal to Popularity"
+  ],
+  "answer": 1,
+  "why": "They said \"a little less.\" You argued against \"never again.\" Twisting the claim into something extreme makes it easy to knock down.",
+  "entry": "straw-man",
+  "reviewed": false
+ },
+ {
+  "id": 2,
+  "scene": "In the family group chat: \"Don't listen to him about the housing market. He just graduated, like, yesterday.\"",
+  "options": [
+   "Ad Hominem",
+   "Anchoring",
+   "Confirmation Bias",
+   "Straw Man"
+  ],
+  "answer": 0,
+  "why": "The reply ignores what he actually said about housing and goes after his age instead. He might be right or wrong, but being young isn't evidence either way.",
+  "entry": "ad-hominem",
+  "reviewed": false
+ },
+ {
+  "id": 3,
+  "scene": "A billboard for new condos: \"Sign today, or rent forever.\"",
+  "options": [
+   "Appeal to Popularity",
+   "False Dilemma",
+   "Ad Hominem",
+   "Straw Man"
+  ],
+  "answer": 1,
+  "why": "Only two options are on the table. Hidden ones include signing next month, buying a different place, or renting and living perfectly well.",
+  "entry": "false-dilemma",
+  "reviewed": false
+ },
+ {
+  "id": 4,
+  "scene": "\"This recipe video has 5 million views on TikTok. It definitely works for weight loss.\"",
+  "options": [
+   "Confirmation Bias",
+   "Straw Man",
+   "Appeal to Popularity",
+   "Anchoring"
+  ],
+  "answer": 2,
+  "why": "Views tell you the video is popular, not that the recipe works. Going viral isn't proof of anything.",
+  "entry": "appeal-to-majority",
+  "reviewed": false
+ },
+ {
+  "id": 5,
+  "scene": "The salesperson says, \"This jacket was $120, today it's just $40.\" You buy it feeling like you just made $80.",
+  "options": [
+   "Anchoring",
+   "Ad Hominem",
+   "False Dilemma",
+   "Appeal to Popularity"
+  ],
+  "answer": 0,
+  "why": "The $120 is what made $40 feel cheap. The real question: was this jacket ever worth $40 to you?",
+  "entry": "anchoring",
+  "reviewed": false
+ },
+ {
+  "id": 6,
+  "scene": "Your buddy is sure the refs always rob his team. He remembers every call that went against them and forgets every one that went their way.",
+  "options": [
+   "Appeal to Popularity",
+   "Confirmation Bias",
+   "Straw Man",
+   "Anchoring"
+  ],
+  "answer": 1,
+  "why": "This isn't a flawed argument, it's a memory bias. The mind holds on to what fits the belief and quietly drops what doesn't.",
+  "entry": "confirmation-bias",
+  "reviewed": false
+ },
+ {
+  "id": 7,
+  "scene": "\"That orthopedic surgeon on the morning show said cell phones cause cancer. So that settles it.\"",
+  "options": [
+   "Appeal to Authority",
+   "Red Herring",
+   "False Cause (Post Hoc)",
+   "Equivocation"
+  ],
+  "answer": 0,
+  "why": "He's an expert in bones, not cancer or radiation. That's authority outside its field. This question belongs to the specialists who study it and their research.",
+  "entry": "appeal-to-authority",
+  "reviewed": false
+ },
+ {
+  "id": 8,
+  "scene": "\"Why would we use budgeting software? My dad and grandpa kept a paper checkbook register their whole lives and it worked fine.\"",
+  "options": [
+   "Slippery Slope",
+   "Appeal to Emotion",
+   "Appeal to Tradition",
+   "Loaded Question"
+  ],
+  "answer": 2,
+  "why": "The only reason given is \"that's how it was always done.\" Nobody explained why the paper register is actually better.",
+  "entry": "appeal-to-tradition",
+  "reviewed": false
+ },
+ {
+  "id": 9,
+  "scene": "A post in your feed: \"If you scroll past without sharing, you clearly don't care about kids.\"",
+  "options": [
+   "Tu Quoque",
+   "Appeal to Emotion",
+   "Appeal to Popularity",
+   "Hasty Generalization"
+  ],
+  "answer": 1,
+  "why": "The post gives you zero reasons to share. It just leans on guilt and fear.",
+  "entry": "appeal-to-emotion",
+  "reviewed": false
+ },
+ {
+  "id": 10,
+  "scene": "\"This supplement says 100% natural on the bottle, so I can take three times the dose, no problem.\"",
+  "options": [
+   "Appeal to Nature",
+   "Begging the Question",
+   "False Cause (Post Hoc)",
+   "Appeal to Tradition"
+  ],
+  "answer": 0,
+  "why": "Natural doesn't mean helpful, and it definitely doesn't mean any amount is safe. (Dosing questions go to a doctor or pharmacist, not the label's marketing.)",
+  "entry": "appeal-to-nature",
+  "reviewed": false
+ },
+ {
+  "id": 11,
+  "scene": "The coach says, \"You need to practice every day.\" The player says, \"You skipped practice all the time in high school!\"",
+  "options": [
+   "Red Herring",
+   "Tu Quoque",
+   "Straw Man",
+   "Slippery Slope"
+  ],
+  "answer": 1,
+  "why": "The player dismissed the advice because the coach didn't follow it back then. The advice holds up no matter what the coach did at 16.",
+  "entry": "tu-quoque",
+  "reviewed": false
+ },
+ {
+  "id": 12,
+  "scene": "\"Why did you forget my birthday?\" \"Do you have any idea what gas costs this month?\"",
+  "options": [
+   "Loaded Question",
+   "Appeal to Emotion",
+   "False Dilemma",
+   "Red Herring"
+  ],
+  "answer": 3,
+  "why": "The question was about the birthday. The answer jumped to a totally different topic to dodge it.",
+  "entry": "red-herring",
+  "reviewed": false
+ },
+ {
+  "id": 13,
+  "scene": "\"If we get her a phone now, she'll get hooked on social media, her grades will tank, she won't get into college, and her life will be ruined.\"",
+  "options": [
+   "Slippery Slope",
+   "False Dilemma",
+   "Hasty Generalization",
+   "False Cause (Post Hoc)"
+  ],
+  "answer": 0,
+  "why": "Each step is predicted with no evidence it leads to the next. She could get a phone with clear rules and turn out just fine.",
+  "entry": "slippery-slope",
+  "reviewed": false
+ },
+ {
+  "id": 14,
+  "scene": "\"Ever since the new neighbors moved in, our Wi-Fi keeps dropping. They're bad luck.\"",
+  "options": [
+   "Ad Hominem",
+   "Appeal to Nature",
+   "Equivocation",
+   "False Cause (Post Hoc)"
+  ],
+  "answer": 3,
+  "why": "Two things happening at the same time doesn't mean one caused the other. Outages have real causes in the network itself.",
+  "entry": "false-cause",
+  "reviewed": false
+ },
+ {
+  "id": 15,
+  "scene": "\"I took a rideshare once and the driver ran up my fare with a long route. All rideshare drivers are scammers.\"",
+  "options": [
+   "Hasty Generalization",
+   "Slippery Slope",
+   "Appeal to Popularity",
+   "Tu Quoque"
+  ],
+  "answer": 0,
+  "why": "One ride got stretched to cover thousands of drivers.",
+  "entry": "hasty-generalization",
+  "reviewed": false
+ },
+ {
+  "id": 16,
+  "scene": "\"That columnist is always right, because he only ever says what's true.\"",
+  "options": [
+   "Appeal to Authority",
+   "Confirmation Bias",
+   "Red Herring",
+   "Begging the Question"
+  ],
+  "answer": 3,
+  "why": "The evidence is just the conclusion in different words. It goes in a circle, with no support from outside.",
+  "entry": "begging-the-question",
+  "reviewed": false
+ },
+ {
+  "id": 17,
+  "scene": "A talk show host asks the guest: \"Do you regret misleading your audience?\"",
+  "options": [
+   "Loaded Question",
+   "Ad Hominem",
+   "Appeal to Emotion",
+   "Straw Man"
+  ],
+  "answer": 0,
+  "why": "The question assumes the guest misled people. A yes or a no both admit it.",
+  "entry": "loaded-question",
+  "reviewed": false
+ },
+ {
+  "id": 18,
+  "scene": "\"The bag says 'light roast,' so it won't keep me up tonight.\" The label meant the color and flavor of the beans.",
+  "options": [
+   "Begging the Question",
+   "False Cause (Post Hoc)",
+   "Equivocation",
+   "Appeal to Nature"
+  ],
+  "answer": 2,
+  "why": "\"Light\" has more than one meaning. The bag meant how the beans were roasted, and the buyer heard it as less caffeine.",
+  "entry": "equivocation",
+  "reviewed": false
+ },
+ {
+  "id": 19,
+  "scene": "\"A real parent never needs a babysitter.\" \"My mom used one.\" \"Then she wasn't a real parent, not really.\"",
+  "options": [
+   "Genetic Fallacy",
+   "Straw Man",
+   "No True Scotsman",
+   "Ad Hominem"
+  ],
+  "answer": 2,
+  "why": "When the example broke the rule, the meaning of \"real parent\" got changed to kick the example out, instead of admitting the rule was off.",
+  "entry": "no-true-scotsman",
+  "reviewed": false
+ },
+ {
+  "id": 20,
+  "scene": "In the HOA email thread: \"The guy in 4B is stealing packages.\" \"How do you know?\" \"Well, can you prove he isn't?\"",
+  "options": [
+   "Red Herring",
+   "Loaded Question",
+   "Shifting the Burden of Proof",
+   "Hasty Generalization"
+  ],
+  "answer": 2,
+  "why": "Whoever makes the accusation owes the evidence. Instead of bringing it, he tossed the job to the person asking.",
+  "entry": "burden-of-proof",
+  "reviewed": false
+ },
+ {
+  "id": 21,
+  "scene": "\"Nobody has ever proven these crystals don't have healing energy. So they must.\"",
+  "options": [
+   "False Cause (Post Hoc)",
+   "Anecdotal Evidence",
+   "Appeal to Ignorance",
+   "Appeal to Nature"
+  ],
+  "answer": 2,
+  "why": "No one proving the opposite means we don't know. It doesn't mean the claim is true.",
+  "entry": "appeal-to-ignorance",
+  "reviewed": false
+ },
+ {
+  "id": 22,
+  "scene": "\"My uncle has never worn a seatbelt in his life and he's never been hurt in a crash. Seatbelts are pointless.\"",
+  "options": [
+   "Cherry Picking",
+   "Anecdotal Evidence",
+   "False Dilemma",
+   "Appeal to Tradition"
+  ],
+  "answer": 1,
+  "why": "One person's story is being set against data from millions of crashes.",
+  "entry": "anecdotal-evidence",
+  "reviewed": false
+ },
+ {
+  "id": 23,
+  "scene": "A restaurant's Instagram posts five glowing 5-star reviews. Its overall rating is 2 stars.",
+  "options": [
+   "Hasty Generalization",
+   "Anchoring",
+   "Cherry Picking",
+   "Appeal to Popularity"
+  ],
+  "answer": 2,
+  "why": "The page shows only the evidence on its side and hides the full picture.",
+  "entry": "cherry-picking",
+  "reviewed": false
+ },
+ {
+  "id": 24,
+  "scene": "\"Employees are like cars. You run them until they break down, then you replace them.\"",
+  "options": [
+   "Equivocation",
+   "False Analogy",
+   "Fallacy of Composition / Division",
+   "Slippery Slope"
+  ],
+  "answer": 1,
+  "why": "Employees are people with needs and rights, not machines. The comparison is skin-deep and misses the point that matters.",
+  "entry": "false-analogy",
+  "reviewed": false
+ },
+ {
+  "id": 25,
+  "scene": "\"There's no way humans built the pyramids. Those stones are enormous. I just can't wrap my head around it.\"",
+  "options": [
+   "Appeal to Ignorance",
+   "Argument from Personal Incredulity",
+   "Appeal to Tradition",
+   "False Cause (Post Hoc)"
+  ],
+  "answer": 1,
+  "why": "Something being hard to imagine isn't evidence it didn't happen. There's plenty of archaeological evidence about how they were built.",
+  "entry": "personal-incredulity",
+  "reviewed": false
+ },
+ {
+  "id": 26,
+  "scene": "\"That salad dressing recipe was invented by some teenager on TikTok, so it can't be any good.\"",
+  "options": [
+   "Hasty Generalization",
+   "Slippery Slope",
+   "Appeal to Nature",
+   "Genetic Fallacy"
+  ],
+  "answer": 3,
+  "why": "Where a recipe came from says nothing about how it tastes. This judges the source, not the food.",
+  "entry": "genetic-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 27,
+  "scene": "\"Every player on this all-star roster is a starter on a top team. They're definitely winning the championship.\"",
+  "options": [
+   "Fallacy of Composition / Division",
+   "Hasty Generalization",
+   "Slippery Slope",
+   "Appeal to Authority"
+  ],
+  "answer": 0,
+  "why": "Great individual players don't guarantee a team that plays well together.",
+  "entry": "composition-division",
+  "reviewed": false
+ },
+ {
+  "id": 28,
+  "scene": "\"The coin landed on tails five times in a row. It's definitely heads next.\"",
+  "options": [
+   "Gambler's Fallacy",
+   "False Cause (Post Hoc)",
+   "Anchoring",
+   "Cherry Picking"
+  ],
+  "answer": 0,
+  "why": "Each flip is independent of the ones before it. The odds are still 50/50.",
+  "entry": "gamblers-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 29,
+  "scene": "\"My doctor says take this three times a day. My neighbor says don't take it at all. I'll just take it once.\"",
+  "options": [
+   "Appeal to Authority",
+   "False Compromise",
+   "Ad Hominem",
+   "False Dilemma"
+  ],
+  "answer": 1,
+  "why": "The two opinions don't carry equal evidence. The middle isn't right just because it's in the middle. (Questions about your meds go to your doctor or pharmacist.)",
+  "entry": "false-compromise",
+  "reviewed": false
+ },
+ {
+  "id": 30,
+  "scene": "\"I've spent two years in this major and I can't stand it. But I can't switch now, or those two years were wasted.\"",
+  "options": [
+   "Appeal to Emotion",
+   "Slippery Slope",
+   "False Dilemma",
+   "Sunk Cost Fallacy"
+  ],
+  "answer": 3,
+  "why": "Those two years are gone either way, whether you stay or switch. The real question: which choice is better for the years ahead?",
+  "entry": "sunk-cost",
+  "reviewed": false
+ },
+ {
+  "id": 31,
+  "scene": "\"That gas station sells expired snacks.\" \"Oh yeah? What about the grocery store next door? They're way worse!\"",
+  "options": [
+   "Hasty Generalization",
+   "Whataboutism",
+   "Cherry Picking",
+   "Tu Quoque"
+  ],
+  "answer": 1,
+  "why": "The reply ran to a third party instead of answering the criticism. Even if the other store is worse, that doesn't excuse this one.",
+  "entry": "whataboutism",
+  "reviewed": false
+ },
+ {
+  "id": 32,
+  "scene": "\"You told me to go to bed early because Mom said so. That's an appeal to authority. So going to bed early is useless.\"",
+  "options": [
+   "Ad Hominem",
+   "Fallacy Fallacy",
+   "Red Herring",
+   "Straw Man"
+  ],
+  "answer": 1,
+  "why": "The argument was weak, but that doesn't make the conclusion false. Getting enough sleep is good for plenty of other reasons.",
+  "entry": "fallacy-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 33,
+  "scene": "After watching three shark attack videos, you're convinced sharks are the most dangerous thing at the beach.",
+  "options": [
+   "Halo Effect",
+   "Availability Heuristic",
+   "Bandwagon Effect",
+   "Confirmation Bias"
+  ],
+  "answer": 1,
+  "why": "The videos made the idea easy to call to mind, so it felt more common and more dangerous than it really is.",
+  "entry": "availability",
+  "reviewed": false
+ },
+ {
+  "id": 34,
+  "scene": "\"The actor in this commercial seems so classy and has such a great voice. Brightwell Insurance must be a good company.\"",
+  "options": [
+   "Framing Effect",
+   "Anchoring",
+   "Appeal to Popularity",
+   "Halo Effect"
+  ],
+  "answer": 3,
+  "why": "A nice quality in the actor got transferred to the company, even though the two have nothing to do with each other.",
+  "entry": "halo-effect",
+  "reviewed": false
+ },
+ {
+  "id": 35,
+  "scene": "All your friends bought the same smartwatch, so you bought one too. When you got home, you had no idea what you'd use it for.",
+  "options": [
+   "Optimism Bias",
+   "Availability Heuristic",
+   "Bandwagon Effect",
+   "Choice-Supportive Bias"
+  ],
+  "answer": 2,
+  "why": "The decision was made because everyone around you did it, not because of what you actually needed.",
+  "entry": "bandwagon",
+  "reviewed": false
+ },
+ {
+  "id": 36,
+  "scene": "You're offered a better phone than yours at no extra cost, and you turn it down because \"I'm used to mine.\"",
+  "options": [
+   "Status Quo Bias",
+   "Decoy Effect",
+   "Sunk Cost Fallacy",
+   "Halo Effect"
+  ],
+  "answer": 0,
+  "why": "The new option is better. It's the change itself that bothers you.",
+  "entry": "status-quo",
+  "reviewed": false
+ },
+ {
+  "id": 37,
+  "scene": "\"This medication works in 80% of cases\" makes you feel good about it. When the doctor says \"20% of patients don't improve,\" you get nervous.",
+  "options": [
+   "Anchoring",
+   "Framing Effect",
+   "Availability Heuristic",
+   "Negativity Bias"
+  ],
+  "answer": 1,
+  "why": "Both numbers say exactly the same thing. Only the wording changed how you felt.",
+  "entry": "framing",
+  "reviewed": false
+ },
+ {
+  "id": 38,
+  "scene": "After the stock market drops: \"I had a feeling it was going to crash. It was obvious.\" He didn't sell a single share.",
+  "options": [
+   "Hindsight Bias",
+   "Overconfidence",
+   "False Cause (Post Hoc)",
+   "Confirmation Bias"
+  ],
+  "answer": 0,
+  "why": "If he really saw it coming, he would have sold. The feeling of \"I knew it\" showed up after it happened.",
+  "entry": "hindsight",
+  "reviewed": false
+ },
+ {
+  "id": 39,
+  "scene": "\"The clerk at the DMV is slow because he just doesn't care.\" You don't know their system has been down since 8 a.m.",
+  "options": [
+   "Hasty Generalization",
+   "Fundamental Attribution Error",
+   "Ad Hominem",
+   "Halo Effect"
+  ],
+  "answer": 1,
+  "why": "The delay got blamed on the person's character, and the situation around him was ignored.",
+  "entry": "fundamental-attribution",
+  "reviewed": false
+ },
+ {
+  "id": 40,
+  "scene": "\"Their players flop all the time. When our guys go down, it's a real foul.\"",
+  "options": [
+   "In-Group Bias",
+   "Tu Quoque",
+   "Red Herring",
+   "Confirmation Bias"
+  ],
+  "answer": 0,
+  "why": "The exact same behavior got judged two different ways, depending on the team.",
+  "entry": "in-group",
+  "reviewed": false
+ },
+ {
+  "id": 41,
+  "scene": "\"I'm 24. I don't need health insurance. That stuff happens to older people.\"",
+  "options": [
+   "Overconfidence",
+   "Status Quo Bias",
+   "Optimism Bias",
+   "Availability Heuristic"
+  ],
+  "answer": 2,
+  "why": "He thinks illness is less likely to happen to him, but young people get sick and hurt too.",
+  "entry": "optimism-bias",
+  "reviewed": false
+ },
+ {
+  "id": 42,
+  "scene": "Your manager says nine great things about your work and gives you one note. You go home upset and can only remember the note.",
+  "options": [
+   "Loss Aversion",
+   "Framing Effect",
+   "Negativity Bias",
+   "Spotlight Effect"
+  ],
+  "answer": 2,
+  "why": "One piece of criticism drowned out nine compliments, even though it was far outnumbered.",
+  "entry": "negativity-bias",
+  "reviewed": false
+ },
+ {
+  "id": 43,
+  "scene": "\"Look at all these famous YouTubers. They quit their jobs and live off their channels. Let's quit ours.\"",
+  "options": [
+   "Bandwagon Effect",
+   "Survivorship Bias",
+   "Optimism Bias",
+   "Anecdotal Evidence"
+  ],
+  "answer": 1,
+  "why": "You're only seeing the ones who made it. Thousands quit their jobs and their channels went nowhere, and nobody sees them.",
+  "entry": "survivorship",
+  "reviewed": false
+ },
+ {
+  "id": 44,
+  "scene": "You get a new haircut and walk into work sure everyone will comment. Nobody even notices.",
+  "options": [
+   "Negativity Bias",
+   "Overconfidence",
+   "Halo Effect",
+   "Spotlight Effect"
+  ],
+  "answer": 3,
+  "why": "You're overestimating how much attention people pay to you. Everyone is busy with themselves.",
+  "entry": "spotlight-effect",
+  "reviewed": false
+ },
+ {
+  "id": 45,
+  "scene": "Coffee: small $3.00, medium $5.50, large $6.00. You pick the large because it's \"only 50 cents more.\"",
+  "options": [
+   "Framing Effect",
+   "Anchoring",
+   "Decoy Effect",
+   "Sunk Cost Fallacy"
+  ],
+  "answer": 2,
+  "why": "The medium is there to make the large look like a steal. Without it, you'd be comparing $3.00 to $6.00.",
+  "entry": "decoy-effect",
+  "reviewed": false
+ },
+ {
+  "id": 46,
+  "scene": "A guy in a white lab coat in an ad says this supplement is essential, and you order it on the spot.",
+  "options": [
+   "Anchoring",
+   "Appeal to Nature",
+   "Halo Effect",
+   "Authority Bias"
+  ],
+  "answer": 3,
+  "why": "The lab coat alone made you trust him without asking anything. That's an inner pull toward deferring to authority, not an argument anyone made.",
+  "entry": "authority-bias",
+  "reviewed": false
+ },
+ {
+  "id": 47,
+  "scene": "\"I know this route, I don't need GPS.\" An hour later, you're all lost.",
+  "options": [
+   "Overconfidence",
+   "Status Quo Bias",
+   "Optimism Bias",
+   "Hindsight Bias"
+  ],
+  "answer": 0,
+  "why": "Confidence in the knowledge was bigger than the knowledge itself.",
+  "entry": "overconfidence",
+  "reviewed": false
+ },
+ {
+  "id": 48,
+  "scene": "After you buy your new fridge, every time someone says the other brand is better, you come up with a hundred reasons yours is the best.",
+  "options": [
+   "Sunk Cost Fallacy",
+   "Confirmation Bias",
+   "Choice-Supportive Bias",
+   "In-Group Bias"
+  ],
+  "answer": 2,
+  "why": "After a decision, the mind protects the choice by inflating its upsides and shrinking its downsides.",
+  "entry": "choice-supportive",
+  "reviewed": false
+ },
+ {
+  "id": 49,
+  "scene": "A coworker posts in Slack: \"The people who know a little about a topic are always the most confident of all. The evidence on that is completely settled.\"",
+  "options": [
+   "The claim is overstated, and the evidence for it is disputed",
+   "This is an example of the Availability Heuristic",
+   "The claim is correct and widely agreed on",
+   "This is an example of the Bandwagon Effect"
+  ],
+  "answer": 0,
+  "why": "That's the popular version of Dunning–Kruger, and researchers still disagree about it. Part of the classic finding may be explained by statistical artifacts.",
+  "entry": "dunning-kruger",
+  "reviewed": false
+ },
+ {
+  "id": 50,
+  "scene": "\"This car burns through gas, but I'm not selling it now. I'd get $4,000 less than I paid.\"",
+  "options": [
+   "Choice-Supportive Bias",
+   "Status Quo Bias",
+   "Loss Aversion",
+   "Anchoring"
+  ],
+  "answer": 2,
+  "why": "The fear of feeling a loss outweighs thinking about future savings. The real question: what does keeping it cost you from today on?",
+  "entry": "loss-aversion",
+  "reviewed": false
+ },
+ {
+  "id": 51,
+  "scene": "After the game ends 35-3: \"I knew they'd lose the second I saw the starting lineup.\" Before kickoff, he was predicting a close game.",
+  "options": [
+   "Hindsight Bias",
+   "Gambler's Fallacy",
+   "Sunk Cost Fallacy",
+   "False Analogy"
+  ],
+  "answer": 0,
+  "why": "Once the result is known, the brain rewrites the memory, and we feel like we knew all along.",
+  "entry": "hindsight",
+  "reviewed": false
+ },
+ {
+  "id": 52,
+  "scene": "\"Employees are like little kids. You have to watch them every minute or they'll goof off.\"",
+  "options": [
+   "Appeal to Tradition",
+   "Halo Effect",
+   "False Compromise",
+   "False Analogy"
+  ],
+  "answer": 3,
+  "why": "The comparison ignores big differences: employees are responsible adults who get paid for results.",
+  "entry": "false-analogy",
+  "reviewed": false
+ },
+ {
+  "id": 53,
+  "scene": "\"I've paid for six months of gym membership and never go. I'll renew for another year so the money I already spent isn't wasted.\"",
+  "options": [
+   "Optimism Bias",
+   "Sunk Cost Fallacy",
+   "Halo Effect",
+   "False Compromise"
+  ],
+  "answer": 1,
+  "why": "The old money is already gone. A good decision looks ahead: are you actually going to go?",
+  "entry": "sunk-cost",
+  "reviewed": false
+ },
+ {
+  "id": 54,
+  "scene": "\"I can't believe something as tiny as bacteria, which you can't even see, could cause a disease that bad. There has to be some other reason.\"",
+  "options": [
+   "Argument from Personal Incredulity",
+   "Appeal to Popularity",
+   "Dunning–Kruger Effect",
+   "Appeal to Emotion"
+  ],
+  "answer": 0,
+  "why": "Something being hard to imagine isn't evidence it's false. Imagination isn't a measuring tool.",
+  "entry": "personal-incredulity",
+  "reviewed": false
+ },
+ {
+  "id": 55,
+  "scene": "An online course creator posts screenshots of five students who made money, and never says how many people signed up.",
+  "options": [
+   "Cherry Picking",
+   "Tu Quoque",
+   "Begging the Question",
+   "Halo Effect"
+  ],
+  "answer": 0,
+  "why": "He picked only the best cases. The question to ask: five out of how many?",
+  "entry": "cherry-picking",
+  "reviewed": false
+ },
+ {
+  "id": 56,
+  "scene": "\"Ever since I started wearing this jersey on game day, we keep winning. I'm never washing it.\"",
+  "options": [
+   "Decoy Effect",
+   "Availability Heuristic",
+   "False Cause (Post Hoc)",
+   "Overconfidence"
+  ],
+  "answer": 2,
+  "why": "Two things happening together doesn't mean one caused the other. The team wins for reasons on the field.",
+  "entry": "false-cause",
+  "reviewed": false
+ },
+ {
+  "id": 57,
+  "scene": "In a job interview: \"So when did you stop showing up late to your last job?\"",
+  "options": [
+   "Spotlight Effect",
+   "Hindsight Bias",
+   "Anecdotal Evidence",
+   "Loaded Question"
+  ],
+  "answer": 3,
+  "why": "The question assumes you used to show up late. Any direct answer is an admission.",
+  "entry": "loaded-question",
+  "reviewed": false
+ },
+ {
+  "id": 58,
+  "scene": "You read 20 great reviews of a restaurant and one bad one, and decide not to go.",
+  "options": [
+   "No True Scotsman",
+   "Equivocation",
+   "Negativity Bias",
+   "Slippery Slope"
+  ],
+  "answer": 2,
+  "why": "One bad review carried more weight than 20 good ones. Our brains give negative information extra weight.",
+  "entry": "negativity-bias",
+  "reviewed": false
+ },
+ {
+  "id": 59,
+  "scene": "When someone complained about ER wait times, the hospital spokesperson said, \"Well, aren't ERs in other cities crowded too?\"",
+  "options": [
+   "Availability Heuristic",
+   "Spotlight Effect",
+   "Optimism Bias",
+   "Whataboutism"
+  ],
+  "answer": 3,
+  "why": "Pointing to another place doesn't fix this hospital's problem. It's a way of dodging the topic.",
+  "entry": "whataboutism",
+  "reviewed": false
+ },
+ {
+  "id": 60,
+  "scene": "A guy is sure his zodiac sign makes him extra sensitive. He remembers every time he got emotional and forgets all the times he was totally cool.",
+  "options": [
+   "Equivocation",
+   "Dunning–Kruger Effect",
+   "Bandwagon Effect",
+   "Confirmation Bias"
+  ],
+  "answer": 3,
+  "why": "He collects what supports the idea and skips past what goes against it.",
+  "entry": "confirmation-bias",
+  "reviewed": false
+ },
+ {
+  "id": 61,
+  "scene": "At the roulette table: \"Red has hit five times in a row. Black is due.\"",
+  "options": [
+   "Gambler's Fallacy",
+   "Survivorship Bias",
+   "Framing Effect",
+   "False Compromise"
+  ],
+  "answer": 0,
+  "why": "The wheel doesn't remember past spins. The odds reset on every single spin.",
+  "entry": "gamblers-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 62,
+  "scene": "\"This gadget clears negative energy out of your home. If you don't believe me, prove it doesn't work.\"",
+  "options": [
+   "Shifting the Burden of Proof",
+   "Availability Heuristic",
+   "Appeal to Authority",
+   "Fallacy Fallacy"
+  ],
+  "answer": 0,
+  "why": "The person making the claim owes the evidence. It's not on you to prove the opposite.",
+  "entry": "burden-of-proof",
+  "reviewed": false
+ },
+ {
+  "id": 63,
+  "scene": "\"Why would you take money-saving tips from him? He wears an expensive watch.\"",
+  "options": [
+   "Ad Hominem",
+   "Dunning–Kruger Effect",
+   "Availability Heuristic",
+   "Sunk Cost Fallacy"
+  ],
+  "answer": 0,
+  "why": "The watch has nothing to do with whether the advice is good. Advice is judged by what it says, not by who says it.",
+  "entry": "ad-hominem",
+  "reviewed": false
+ },
+ {
+  "id": 64,
+  "scene": "An employee knows the numbers in the report are wrong, but signs off anyway because the VP put it together.",
+  "options": [
+   "Availability Heuristic",
+   "Authority Bias",
+   "Appeal to Tradition",
+   "Argument from Personal Incredulity"
+  ],
+  "answer": 1,
+  "why": "Respect for the title made him stay quiet about a mistake he could see.",
+  "entry": "authority-bias",
+  "reviewed": false
+ },
+ {
+  "id": 65,
+  "scene": "\"The law says everyone is equal. But I'm not the same height as my brother, so the law is wrong.\"",
+  "options": [
+   "Straw Man",
+   "Sunk Cost Fallacy",
+   "Equivocation",
+   "Appeal to Nature"
+  ],
+  "answer": 2,
+  "why": "\"Equal\" in the law means equal rights, not equal height or looks. The word is being used in two senses.",
+  "entry": "equivocation",
+  "reviewed": false
+ },
+ {
+  "id": 66,
+  "scene": "A dad tells his son: \"Either you become a doctor, or you're a failure.\"",
+  "options": [
+   "False Dilemma",
+   "Appeal to Authority",
+   "In-Group Bias",
+   "Framing Effect"
+  ],
+  "answer": 0,
+  "why": "There are hundreds of paths between those two options. The sentence closed every door but two.",
+  "entry": "false-dilemma",
+  "reviewed": false
+ },
+ {
+  "id": 67,
+  "scene": "A guy watches three TikToks about options trading and starts giving his friends lessons, telling them it's super easy.",
+  "options": [
+   "In-Group Bias",
+   "False Dilemma",
+   "Dunning–Kruger Effect",
+   "Bandwagon Effect"
+  ],
+  "answer": 2,
+  "why": "A little knowledge can hide how much you don't know, so you feel like you understand everything.",
+  "entry": "dunning-kruger",
+  "reviewed": false
+ },
+ {
+  "id": 68,
+  "scene": "\"A real engineer never makes a math mistake.\" \"But some engineers have.\" \"Then they weren't real engineers.\"",
+  "options": [
+   "Straw Man",
+   "Appeal to Nature",
+   "Anecdotal Evidence",
+   "No True Scotsman"
+  ],
+  "answer": 3,
+  "why": "Instead of adjusting the claim when a counterexample showed up, he changed the meaning of \"real\" so he could stay right.",
+  "entry": "no-true-scotsman",
+  "reviewed": false
+ },
+ {
+  "id": 69,
+  "scene": "You ask your brother, \"Why were you two hours late?\" He says, \"Have you noticed you've started grilling me about everything?\"",
+  "options": [
+   "Hindsight Bias",
+   "Red Herring",
+   "Halo Effect",
+   "Loaded Question"
+  ],
+  "answer": 1,
+  "why": "The question was about being late. The answer opened a whole new topic to escape it.",
+  "entry": "red-herring",
+  "reviewed": false
+ },
+ {
+  "id": 70,
+  "scene": "A donation ad: a crying child, sad piano music, and not one word about where the charity actually spends the money.",
+  "options": [
+   "Survivorship Bias",
+   "Appeal to Emotion",
+   "Anchoring",
+   "Gambler's Fallacy"
+  ],
+  "answer": 1,
+  "why": "The ad stirs your feelings instead of giving you information to decide with. Compassion is good, but ask where the money goes.",
+  "entry": "appeal-to-emotion",
+  "reviewed": false
+ },
+ {
+  "id": 71,
+  "scene": "\"If we let her go to the mall with her friends today, next she'll want to road-trip alone, and then she'll move out.\"",
+  "options": [
+   "Slippery Slope",
+   "Bandwagon Effect",
+   "Fallacy of Composition / Division",
+   "False Compromise"
+  ],
+  "answer": 0,
+  "why": "Each step is assumed to lead to the next with no evidence at all. One trip to the mall isn't the first rung of an endless ladder.",
+  "entry": "slippery-slope",
+  "reviewed": false
+ },
+ {
+  "id": 72,
+  "scene": "You head to work with a small coffee stain on your shirt and spend the whole day sure everyone can see it.",
+  "options": [
+   "Straw Man",
+   "Appeal to Authority",
+   "Argument from Personal Incredulity",
+   "Spotlight Effect"
+  ],
+  "answer": 3,
+  "why": "People are far more focused on themselves than we imagine. Most likely, no one noticed.",
+  "entry": "spotlight-effect",
+  "reviewed": false
+ },
+ {
+  "id": 73,
+  "scene": "A teacher tells a student, \"Don't cheat.\" The student says, \"You cheated when you were a kid.\"",
+  "options": [
+   "Tu Quoque",
+   "Spotlight Effect",
+   "Hasty Generalization",
+   "Argument from Personal Incredulity"
+  ],
+  "answer": 0,
+  "why": "Even if the teacher cheated back then, that doesn't make cheating right today.",
+  "entry": "tu-quoque",
+  "reviewed": false
+ },
+ {
+  "id": 74,
+  "scene": "\"That idea came from our competitor, so it must be bad.\"",
+  "options": [
+   "Appeal to Ignorance",
+   "Anecdotal Evidence",
+   "Decoy Effect",
+   "Genetic Fallacy"
+  ],
+  "answer": 3,
+  "why": "Where an idea comes from doesn't decide whether it's good. Look at the idea itself.",
+  "entry": "genetic-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 75,
+  "scene": "All your friends started buying a new crypto coin, so you jumped in too without even knowing what it is.",
+  "options": [
+   "Bandwagon Effect",
+   "Fundamental Attribution Error",
+   "Availability Heuristic",
+   "Whataboutism"
+  ],
+  "answer": 0,
+  "why": "You bought in because everyone else did, not because you understood it. That's the riskiest time to put money in.",
+  "entry": "bandwagon",
+  "reviewed": false
+ },
+ {
+  "id": 76,
+  "scene": "\"My grandpa smoked a pack a day and lived to 95. So smoking can't be that bad.\"",
+  "options": [
+   "Negativity Bias",
+   "Whataboutism",
+   "False Analogy",
+   "Anecdotal Evidence"
+  ],
+  "answer": 3,
+  "why": "One grandpa doesn't outweigh studies of millions of people. A story can move you, but it can't prove the point.",
+  "entry": "anecdotal-evidence",
+  "reviewed": false
+ },
+ {
+  "id": 77,
+  "scene": "\"My new doctor dresses sharp and has the calmest voice. She must be great at her job.\"",
+  "options": [
+   "Dunning–Kruger Effect",
+   "Confirmation Bias",
+   "Decoy Effect",
+   "Halo Effect"
+  ],
+  "answer": 3,
+  "why": "A nice outfit and a soothing voice say nothing about medical skill. One good trait colored the whole picture.",
+  "entry": "halo-effect",
+  "reviewed": false
+ },
+ {
+  "id": 78,
+  "scene": "\"Every old house on our block is built like a tank. They just built things better back then.\"",
+  "options": [
+   "False Dilemma",
+   "Survivorship Bias",
+   "Slippery Slope",
+   "Decoy Effect"
+  ],
+  "answer": 1,
+  "why": "The flimsy old houses fell apart or got torn down decades ago. You're only seeing the ones that lasted.",
+  "entry": "survivorship",
+  "reviewed": false
+ },
+ {
+  "id": 79,
+  "scene": "\"There's always a line at that taco truck, so it must have the cleanest kitchen in town.\"",
+  "options": [
+   "Overconfidence",
+   "Decoy Effect",
+   "Appeal to Popularity",
+   "Fallacy Fallacy"
+  ],
+  "answer": 2,
+  "why": "A line can mean it's popular, cheap, or just tasty. A crowd tells you nothing about how clean the kitchen is.",
+  "entry": "appeal-to-majority",
+  "reviewed": false
+ },
+ {
+  "id": 80,
+  "scene": "At the coffee shop: small $3.00, medium $4.95, large $5.25. Most people end up ordering the large.",
+  "options": [
+   "Bandwagon Effect",
+   "Red Herring",
+   "Decoy Effect",
+   "Appeal to Nature"
+  ],
+  "answer": 2,
+  "why": "The medium is there to make the large look like a steal, not for anyone to actually buy it.",
+  "entry": "decoy-effect",
+  "reviewed": false
+ },
+ {
+  "id": 81,
+  "scene": "\"It's grass-fed butter, totally natural. You can't overdo something natural.\"",
+  "options": [
+   "Appeal to Nature",
+   "False Compromise",
+   "Framing Effect",
+   "Sunk Cost Fallacy"
+  ],
+  "answer": 0,
+  "why": "\"Natural\" doesn't mean \"good for you in any amount.\" Plenty of natural things hurt you when you overdo them.",
+  "entry": "appeal-to-nature",
+  "reviewed": false
+ },
+ {
+  "id": 82,
+  "scene": "He bought a $1,200 phone, and now he only notices flaws in other phones. Even when his battery dies by 3 p.m., he shrugs: \"Eh, they all do that.\"",
+  "options": [
+   "Slippery Slope",
+   "Equivocation",
+   "Argument from Personal Incredulity",
+   "Choice-Supportive Bias"
+  ],
+  "answer": 3,
+  "why": "Once we choose, we quietly polish the choice in our heads so it looks like it was the right one all along.",
+  "entry": "choice-supportive",
+  "reviewed": false
+ },
+ {
+  "id": 83,
+  "scene": "At the used-car lot, the salesman says: \"Sticker's $28,900, but for you? $24,500.\" You drive off feeling like you won.",
+  "options": [
+   "Shifting the Burden of Proof",
+   "Whataboutism",
+   "Anchoring",
+   "Slippery Slope"
+  ],
+  "answer": 2,
+  "why": "The $28,900 is what made $24,500 feel like a deal. The car's real market value could be lower than both.",
+  "entry": "anchoring",
+  "reviewed": false
+ },
+ {
+  "id": 84,
+  "scene": "In the team meeting, a coworker says, \"We should review our ad budget.\" The manager fires back: \"So you want to kill marketing and shut the whole company down?\"",
+  "options": [
+   "Appeal to Emotion",
+   "Straw Man",
+   "Sunk Cost Fallacy",
+   "Bandwagon Effect"
+  ],
+  "answer": 1,
+  "why": "The idea was \"review.\" The reply attacked an inflated version: \"kill it all.\" Twisting the point makes it easier to reject.",
+  "entry": "straw-man",
+  "reviewed": false
+ },
+ {
+  "id": 85,
+  "scene": "\"This news site is the most trustworthy source out there. How do I know? Their homepage says they're the most trustworthy source out there.\"",
+  "options": [
+   "Hasty Generalization",
+   "Straw Man",
+   "Anchoring",
+   "Begging the Question"
+  ],
+  "answer": 3,
+  "why": "The proof is the claim itself. That's arguing in a circle.",
+  "entry": "begging-the-question",
+  "reviewed": false
+ },
+ {
+  "id": 86,
+  "scene": "One guy says the Earth is round. Another says it's flat. A third jumps in: \"Fine, let's just call it kind of round.\"",
+  "options": [
+   "Spotlight Effect",
+   "False Compromise",
+   "Gambler's Fallacy",
+   "Framing Effect"
+  ],
+  "answer": 1,
+  "why": "The middle isn't always the truth. When one side has evidence and the other doesn't, splitting the difference shortchanges the truth.",
+  "entry": "false-compromise",
+  "reviewed": false
+ },
+ {
+  "id": 87,
+  "scene": "\"You said 'all the doctors say so.' That's an appeal to authority. So drinking water must not matter for your body.\"",
+  "options": [
+   "Framing Effect",
+   "Fallacy Fallacy",
+   "Tu Quoque",
+   "Cherry Picking"
+  ],
+  "answer": 1,
+  "why": "An argument can be weak while its conclusion is still true. Your body needs water even if someone argued for it badly.",
+  "entry": "fallacy-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 88,
+  "scene": "Your internet provider offers you a plan that's cheaper and faster. You say, \"Nah, I'll keep my old plan. I'm used to it.\"",
+  "options": [
+   "Hindsight Bias",
+   "Status Quo Bias",
+   "Choice-Supportive Bias",
+   "Fundamental Attribution Error"
+  ],
+  "answer": 1,
+  "why": "You picked the old option just because it's old, even though the new one wins on every count.",
+  "entry": "status-quo",
+  "reviewed": false
+ },
+ {
+  "id": 89,
+  "scene": "The surgeon says, \"This procedure has a 90% success rate,\" and you sign right away. If she'd said, \"It doesn't work for one in ten patients,\" you'd hesitate.",
+  "options": [
+   "Authority Bias",
+   "Framing Effect",
+   "In-Group Bias",
+   "No True Scotsman"
+  ],
+  "answer": 1,
+  "why": "It's exactly the same information. Only the wording changed, and it changed your gut feeling and your decision.",
+  "entry": "framing",
+  "reviewed": false
+ },
+ {
+  "id": 90,
+  "scene": "\"Every player on this team is an All-Star, so they're definitely winning the championship.\"",
+  "options": [
+   "Whataboutism",
+   "Fallacy of Composition / Division",
+   "Tu Quoque",
+   "Appeal to Authority"
+  ],
+  "answer": 1,
+  "why": "A roster full of stars doesn't guarantee a team that plays well together. What's true of the parts isn't automatically true of the whole.",
+  "entry": "composition-division",
+  "reviewed": false
+ },
+ {
+  "id": 91,
+  "scene": "Losing a $20 bill on the street ruins your whole day. Finding a $20 bill makes you happy for about two minutes.",
+  "options": [
+   "Loss Aversion",
+   "Slippery Slope",
+   "Overconfidence",
+   "False Analogy"
+  ],
+  "answer": 0,
+  "why": "Losses sting much more than gains of the same size feel good.",
+  "entry": "loss-aversion",
+  "reviewed": false
+ },
+ {
+  "id": 92,
+  "scene": "Pickup basketball at the park: when your buddy travels, \"That's a gather step, relax.\" When a guy on the other team does the same thing: \"Travel! Our ball!\"",
+  "options": [
+   "In-Group Bias",
+   "Equivocation",
+   "Fundamental Attribution Error",
+   "Confirmation Bias"
+  ],
+  "answer": 0,
+  "why": "Same move, different call, depending on whether the player is one of us.",
+  "entry": "in-group",
+  "reviewed": false
+ },
+ {
+  "id": 93,
+  "scene": "\"That cashier is so slow. He's just lazy.\" But when you fall behind at work: \"The system was down, okay?\"",
+  "options": [
+   "Loaded Question",
+   "Straw Man",
+   "Confirmation Bias",
+   "Fundamental Attribution Error"
+  ],
+  "answer": 3,
+  "why": "We explain other people's mistakes by their character, and our own by the circumstances.",
+  "entry": "fundamental-attribution",
+  "reviewed": false
+ },
+ {
+  "id": 94,
+  "scene": "\"First time ordering from this delivery app, and my fries showed up cold. The whole app is garbage.\"",
+  "options": [
+   "Appeal to Authority",
+   "Hasty Generalization",
+   "Straw Man",
+   "Appeal to Popularity"
+  ],
+  "answer": 1,
+  "why": "One order isn't enough to judge thousands of deliveries.",
+  "entry": "hasty-generalization",
+  "reviewed": false
+ },
+ {
+  "id": 95,
+  "scene": "\"A famous NFL quarterback says this cream fixes knee pain, so it must work.\"",
+  "options": [
+   "Appeal to Emotion",
+   "Appeal to Authority",
+   "Appeal to Tradition",
+   "Decoy Effect"
+  ],
+  "answer": 1,
+  "why": "A quarterback isn't a medical expert. Fame in one field doesn't make someone an authority in another.",
+  "entry": "appeal-to-authority",
+  "reviewed": false
+ },
+ {
+  "id": 96,
+  "scene": "\"Sure, cars get broken into on this street all the time. But it won't happen to mine.\"",
+  "options": [
+   "Optimism Bias",
+   "Negativity Bias",
+   "Status Quo Bias",
+   "Fundamental Attribution Error"
+  ],
+  "answer": 0,
+  "why": "We all tend to assume bad things happen to other people.",
+  "entry": "optimism-bias",
+  "reviewed": false
+ },
+ {
+  "id": 97,
+  "scene": "\"I text while I drive all the time. I'm a better driver than most people.\"",
+  "options": [
+   "False Cause (Post Hoc)",
+   "Fundamental Attribution Error",
+   "Sunk Cost Fallacy",
+   "Overconfidence"
+  ],
+  "answer": 3,
+  "why": "Most drivers say that about themselves, and we can't all be above average.",
+  "entry": "overconfidence",
+  "reviewed": false
+ },
+ {
+  "id": 98,
+  "scene": "After watching a video of an elevator accident, he takes the stairs to the 10th floor, but he drives every day without buckling his seatbelt.",
+  "options": [
+   "Decoy Effect",
+   "Availability Heuristic",
+   "False Analogy",
+   "Halo Effect"
+  ],
+  "answer": 1,
+  "why": "The accident he saw stays vivid in his mind, so it feels like the biggest danger. The bigger risk is the seatbelt he isn't wearing.",
+  "entry": "availability",
+  "reviewed": false
+ },
+ {
+  "id": 99,
+  "scene": "\"Nobody has ever proven this house isn't haunted, so it's haunted.\"",
+  "options": [
+   "Dunning–Kruger Effect",
+   "Appeal to Popularity",
+   "Genetic Fallacy",
+   "Appeal to Ignorance"
+  ],
+  "answer": 3,
+  "why": "No one disproving a claim isn't evidence for it. Sometimes the honest answer is: we don't know.",
+  "entry": "appeal-to-ignorance",
+  "reviewed": false
+ },
+ {
+  "id": 100,
+  "scene": "\"A wedding has to be in a big banquet hall. That's how it's been done since Grandpa's day.\"",
+  "options": [
+   "Appeal to Tradition",
+   "Appeal to Ignorance",
+   "False Analogy",
+   "Authority Bias"
+  ],
+  "answer": 0,
+  "why": "Something being done a certain way in the past isn't enough reason that it's the best choice for you today.",
+  "entry": "appeal-to-tradition",
+  "reviewed": false
+ },
+ {
+  "id": 101,
+  "scene": "\"A famous dentist said in a TikTok that gold is the best investment right now.\"",
+  "options": [
+   "Appeal to Authority",
+   "Negativity Bias",
+   "Anchoring",
+   "In-Group Bias"
+  ],
+  "answer": 0,
+  "why": "His expertise is teeth, not investing. A \"Dr.\" in front of a name doesn't carry over to every field.",
+  "entry": "appeal-to-authority",
+  "reviewed": false
+ },
+ {
+  "id": 102,
+  "scene": "\"Lots of famous musicians dropped out of school. So school must kill talent.\"",
+  "options": [
+   "Decoy Effect",
+   "Loss Aversion",
+   "Survivorship Bias",
+   "Equivocation"
+  ],
+  "answer": 2,
+  "why": "You don't see the thousands who dropped out and never made it, because nobody makes documentaries about them.",
+  "entry": "survivorship",
+  "reviewed": false
+ },
+ {
+  "id": 103,
+  "scene": "Your friend says, \"Exercise is good for you, because all the famous athletes do it.\" You reply, \"That's a weak argument, so exercise isn't good for you.\"",
+  "options": [
+   "Straw Man",
+   "Hindsight Bias",
+   "Fallacy Fallacy",
+   "Survivorship Bias"
+  ],
+  "answer": 2,
+  "why": "The argument really is weak, but the conclusion is true. Exercise is good for you for plenty of other reasons.",
+  "entry": "fallacy-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 104,
+  "scene": "\"We've had three girls. The fourth one is definitely going to be a boy.\"",
+  "options": [
+   "Hasty Generalization",
+   "Gambler's Fallacy",
+   "Halo Effect",
+   "Spotlight Effect"
+  ],
+  "answer": 1,
+  "why": "Each pregnancy starts fresh. What happened before doesn't change the odds next time.",
+  "entry": "gamblers-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 105,
+  "scene": "\"I've put five years into this business and it's still losing money. No way I'm closing it after all that work.\"",
+  "options": [
+   "Sunk Cost Fallacy",
+   "Genetic Fallacy",
+   "Begging the Question",
+   "In-Group Bias"
+  ],
+  "answer": 0,
+  "why": "The past effort isn't coming back. The real question is whether the business will make money from here on.",
+  "entry": "sunk-cost",
+  "reviewed": false
+ },
+ {
+  "id": 106,
+  "scene": "\"I could renew my license online in five minutes, but I'll go stand in line at the DMV like I always do.\"",
+  "options": [
+   "False Analogy",
+   "Cherry Picking",
+   "Whataboutism",
+   "Status Quo Bias"
+  ],
+  "answer": 3,
+  "why": "He's picking the old way just because he's used to it.",
+  "entry": "status-quo",
+  "reviewed": false
+ },
+ {
+  "id": 107,
+  "scene": "He picked accounting as his college major and was torn about it at the time. Now he says every other major is \"a dead end.\"",
+  "options": [
+   "Appeal to Ignorance",
+   "Choice-Supportive Bias",
+   "Overconfidence",
+   "Status Quo Bias"
+  ],
+  "answer": 1,
+  "why": "Once he chose, he started remembering his choice as better than it really was, and talking down the rest.",
+  "entry": "choice-supportive",
+  "reviewed": false
+ },
+ {
+  "id": 108,
+  "scene": "A nurse notices an unusual dose on a prescription but doesn't ask about it, because the senior attending physician wrote it.",
+  "options": [
+   "Tu Quoque",
+   "Availability Heuristic",
+   "Authority Bias",
+   "Straw Man"
+  ],
+  "answer": 2,
+  "why": "The big title kept her quiet about a doubt that was justified. A polite question could save a patient.",
+  "entry": "authority-bias",
+  "reviewed": false
+ },
+ {
+  "id": 109,
+  "scene": "\"These herbal supplements are 100% natural, so you can take them with any medication.\"",
+  "options": [
+   "Appeal to Nature",
+   "False Cause (Post Hoc)",
+   "Negativity Bias",
+   "False Dilemma"
+  ],
+  "answer": 0,
+  "why": "\"Natural\" doesn't mean \"safe with everything.\" Some herbs interact with medications. Ask your doctor or pharmacist; this isn't medical advice.",
+  "entry": "appeal-to-nature",
+  "reviewed": false
+ },
+ {
+  "id": 110,
+  "scene": "\"Why do you always pretend to be busy whenever we need you?\"",
+  "options": [
+   "Loaded Question",
+   "Framing Effect",
+   "No True Scotsman",
+   "Dunning–Kruger Effect"
+  ],
+  "answer": 0,
+  "why": "The question assumes you're faking being busy, and that it happens all the time. Any direct answer seems to confirm the accusation.",
+  "entry": "loaded-question",
+  "reviewed": false
+ },
+ {
+  "id": 111,
+  "scene": "A great day all around. Then someone is rude to you on the bus ride home, and you sum it up: \"What a terrible day.\"",
+  "options": [
+   "Loss Aversion",
+   "Ad Hominem",
+   "Negativity Bias",
+   "False Cause (Post Hoc)"
+  ],
+  "answer": 2,
+  "why": "One bad moment wiped the whole good day out of your mind.",
+  "entry": "negativity-bias",
+  "reviewed": false
+ },
+ {
+  "id": 112,
+  "scene": "One pack of ground beef says \"80% lean.\" Another says \"20% fat.\" Same meat, yet people rate the first one as better and less greasy.",
+  "options": [
+   "Framing Effect",
+   "Fallacy of Composition / Division",
+   "Hindsight Bias",
+   "Genetic Fallacy"
+  ],
+  "answer": 0,
+  "why": "Same fact, but the way it was presented changed how people judged the meat.",
+  "entry": "framing",
+  "reviewed": false
+ },
+ {
+  "id": 113,
+  "scene": "\"He's definitely telling the truth, because he's not lying.\"",
+  "options": [
+   "Anchoring",
+   "Dunning–Kruger Effect",
+   "Appeal to Nature",
+   "Begging the Question"
+  ],
+  "answer": 3,
+  "why": "\"Telling the truth\" and \"not lying\" are the same thing. The evidence just repeats the claim in different words.",
+  "entry": "begging-the-question",
+  "reviewed": false
+ },
+ {
+  "id": 114,
+  "scene": "\"Flying is obviously more dangerous than driving. Every few months I hear about another plane crash.\"",
+  "options": [
+   "Choice-Supportive Bias",
+   "Availability Heuristic",
+   "Shifting the Burden of Proof",
+   "False Dilemma"
+  ],
+  "answer": 1,
+  "why": "Plane crashes get huge news coverage, so they stick in your memory. Car crashes are far more common.",
+  "entry": "availability",
+  "reviewed": false
+ },
+ {
+  "id": 115,
+  "scene": "\"Two people from the new apartment building parked like jerks. Everyone in that building is careless.\"",
+  "options": [
+   "Argument from Personal Incredulity",
+   "Shifting the Burden of Proof",
+   "Hasty Generalization",
+   "Hindsight Bias"
+  ],
+  "answer": 2,
+  "why": "Two people out of a 40-unit building isn't enough to judge everyone who lives there.",
+  "entry": "hasty-generalization",
+  "reviewed": false
+ },
+ {
+  "id": 116,
+  "scene": "\"How could anyone know where I am from my phone when location services are off? Impossible. That's nonsense.\"",
+  "options": [
+   "Survivorship Bias",
+   "Optimism Bias",
+   "Straw Man",
+   "Argument from Personal Incredulity"
+  ],
+  "answer": 3,
+  "why": "There are other ways to estimate location besides that one setting. Not being able to picture how something works doesn't mean it can't happen.",
+  "entry": "personal-incredulity",
+  "reviewed": false
+ },
+ {
+  "id": 117,
+  "scene": "\"I think kids need more time to play.\" \"So you want them to skip homework entirely and flunk out?\"",
+  "options": [
+   "Overconfidence",
+   "Red Herring",
+   "Straw Man",
+   "Loss Aversion"
+  ],
+  "answer": 2,
+  "why": "\"More playtime\" turned into \"no studying at all.\" That's answering something nobody said.",
+  "entry": "straw-man",
+  "reviewed": false
+ },
+ {
+  "id": 118,
+  "scene": "\"You said studying is exhausting. Doctors say exhaustion is a health problem. So studying is bad for your health.\"",
+  "options": [
+   "Appeal to Nature",
+   "Tu Quoque",
+   "Equivocation",
+   "Loss Aversion"
+  ],
+  "answer": 2,
+  "why": "The first \"exhausting\" means normal effort; the second \"exhaustion\" means a medical condition. Same word, two meanings.",
+  "entry": "equivocation",
+  "reviewed": false
+ },
+ {
+  "id": 119,
+  "scene": "In a salary negotiation, the first number on the table was $48,000, and the whole conversation stayed near it, even though the market pays around $72,000.",
+  "options": [
+   "Anchoring",
+   "Argument from Personal Incredulity",
+   "Appeal to Ignorance",
+   "Confirmation Bias"
+  ],
+  "answer": 0,
+  "why": "The first number became the reference point everyone measured against, even though it was far from reality.",
+  "entry": "anchoring",
+  "reviewed": false
+ },
+ {
+  "id": 120,
+  "scene": "\"One expert says this medication is safe and has studies to back it up. Another says it causes diseases, with no evidence. So the truth must be somewhere in the middle.\"",
+  "options": [
+   "Loaded Question",
+   "False Compromise",
+   "Status Quo Bias",
+   "Optimism Bias"
+  ],
+  "answer": 1,
+  "why": "When one side has evidence and the other doesn't, meeting in the middle isn't fair. It shortchanges the evidence.",
+  "entry": "false-compromise",
+  "reviewed": false
+ },
+ {
+  "id": 121,
+  "scene": "\"Why do we need a license to drive? Nobody needs a license to walk.\"",
+  "options": [
+   "False Analogy",
+   "Overconfidence",
+   "Appeal to Authority",
+   "Availability Heuristic"
+  ],
+  "answer": 0,
+  "why": "Walking and driving are wildly different in speed and in risk to other people. The comparison ignores the most important difference.",
+  "entry": "false-analogy",
+  "reviewed": false
+ },
+ {
+  "id": 122,
+  "scene": "Phone data plans: 10 GB for $30, 25 GB for $57, and 20 GB for $55.",
+  "options": [
+   "Decoy Effect",
+   "Spotlight Effect",
+   "Appeal to Ignorance",
+   "Negativity Bias"
+  ],
+  "answer": 0,
+  "why": "The 20 GB plan exists to make the 25 GB plan look like a win. Nobody is meant to pick it.",
+  "entry": "decoy-effect",
+  "reviewed": false
+ },
+ {
+  "id": 123,
+  "scene": "\"That company makes billions, so everyone who works there must earn a huge salary.\"",
+  "options": [
+   "Bandwagon Effect",
+   "Fundamental Attribution Error",
+   "Fallacy of Composition / Division",
+   "Appeal to Tradition"
+  ],
+  "answer": 2,
+  "why": "The whole company being rich doesn't mean every part of it is. This is the reverse direction: reasoning from the whole to the parts.",
+  "entry": "composition-division",
+  "reviewed": false
+ },
+ {
+  "id": 124,
+  "scene": "A guy who started learning to code last week thinks programmers exaggerate and that any app can be built in a day.",
+  "options": [
+   "Anchoring",
+   "Cherry Picking",
+   "Dunning–Kruger Effect",
+   "Hindsight Bias"
+  ],
+  "answer": 2,
+  "why": "When you're just starting out, you can't see the difficulties that experts know are there.",
+  "entry": "dunning-kruger",
+  "reviewed": false
+ },
+ {
+  "id": 125,
+  "scene": "\"Beans and greens? That was poor people's food back in the day, so it can't be very nutritious.\"",
+  "options": [
+   "Spotlight Effect",
+   "Genetic Fallacy",
+   "Appeal to Ignorance",
+   "Equivocation"
+  ],
+  "answer": 1,
+  "why": "Where a dish came from doesn't decide its value. Plenty of simple, humble dishes are very nutritious.",
+  "entry": "genetic-fallacy",
+  "reviewed": false
+ },
+ {
+  "id": 126,
+  "scene": "You said the wrong word in a Zoom meeting and spent a week convinced everyone was talking about it. Nobody even remembered.",
+  "options": [
+   "Gambler's Fallacy",
+   "Spotlight Effect",
+   "Availability Heuristic",
+   "Loss Aversion"
+  ],
+  "answer": 1,
+  "why": "We overestimate how much attention other people pay to us.",
+  "entry": "spotlight-effect",
+  "reviewed": false
+ },
+ {
+  "id": 127,
+  "scene": "You say the refs robbed your team today. Your friend fires back: \"Oh yeah? What about last week, when your team won on a garbage penalty call?\"",
+  "options": [
+   "False Cause (Post Hoc)",
+   "Gambler's Fallacy",
+   "Whataboutism",
+   "Cherry Picking"
+  ],
+  "answer": 2,
+  "why": "That's not a response about today's game. \"What about…\" changes the subject instead of answering.",
+  "entry": "whataboutism",
+  "reviewed": false
+ },
+ {
+  "id": 128,
+  "scene": "You ask the delivery company why your package is two days late. They reply: \"We're one of the largest delivery services in the country, with over a million happy customers.\"",
+  "options": [
+   "Argument from Personal Incredulity",
+   "False Compromise",
+   "Overconfidence",
+   "Red Herring"
+  ],
+  "answer": 3,
+  "why": "The reply has nothing to do with your question. It points you somewhere else instead of answering.",
+  "entry": "red-herring",
+  "reviewed": false
+ },
+ {
+  "id": 129,
+  "scene": "He's convinced his neighbor hates him. When the neighbor doesn't wave: \"See?\" When the neighbor does wave: \"He's just faking it.\"",
+  "options": [
+   "Fallacy Fallacy",
+   "Authority Bias",
+   "Confirmation Bias",
+   "In-Group Bias"
+  ],
+  "answer": 2,
+  "why": "Nothing the neighbor does could change his mind. Every behavior becomes proof of the same idea.",
+  "entry": "confirmation-bias",
+  "reviewed": false
+ },
+ {
+  "id": 130,
+  "scene": "\"A real mom never gets tired of her kids.\" \"But every mom gets worn out sometimes.\" \"Then she's not a real mom.\"",
+  "options": [
+   "Cherry Picking",
+   "No True Scotsman",
+   "Appeal to Tradition",
+   "Anecdotal Evidence"
+  ],
+  "answer": 1,
+  "why": "He changed the definition of \"real mom\" to dodge the example that breaks his claim.",
+  "entry": "no-true-scotsman",
+  "reviewed": false
+ },
+ {
+  "id": 131,
+  "scene": "\"People who drink a lot of coffee get further at work, so coffee is what makes you successful.\"",
+  "options": [
+   "False Cause (Post Hoc)",
+   "Framing Effect",
+   "Appeal to Nature",
+   "Negativity Bias"
+  ],
+  "answer": 0,
+  "why": "It could run the other way: long work hours make people drink more coffee. Correlation isn't causation.",
+  "entry": "false-cause",
+  "reviewed": false
+ },
+ {
+  "id": 132,
+  "scene": "At trivia night, he said \"I'm 100% sure\" about every answer, and got half of them wrong.",
+  "options": [
+   "Appeal to Nature",
+   "Overconfidence",
+   "Loss Aversion",
+   "Appeal to Tradition"
+  ],
+  "answer": 1,
+  "why": "His confidence was way higher than his accuracy.",
+  "entry": "overconfidence",
+  "reviewed": false
+ },
+ {
+  "id": 133,
+  "scene": "\"This app listens to you through your mic. I'm sure of it. If you don't believe me, prove it doesn't.\"",
+  "options": [
+   "Survivorship Bias",
+   "False Compromise",
+   "Shifting the Burden of Proof",
+   "Ad Hominem"
+  ],
+  "answer": 2,
+  "why": "The person making the claim is the one who has to bring the evidence.",
+  "entry": "burden-of-proof",
+  "reviewed": false
+ },
+ {
+  "id": 134,
+  "scene": "The store manager says sales are way up, shows only the December holiday numbers, and says nothing about the rest of the year.",
+  "options": [
+   "Appeal to Tradition",
+   "False Analogy",
+   "Overconfidence",
+   "Cherry Picking"
+  ],
+  "answer": 3,
+  "why": "He picked the month that supports his point and left out the rest. Look at the whole picture.",
+  "entry": "cherry-picking",
+  "reviewed": false
+ },
+ {
+  "id": 135,
+  "scene": "\"Her novels are brilliant, so her take on the economy must be right too.\"",
+  "options": [
+   "Halo Effect",
+   "False Analogy",
+   "False Compromise",
+   "Survivorship Bias"
+  ],
+  "answer": 0,
+  "why": "Her talent as a writer colored how she's seen in everything, even outside her field.",
+  "entry": "halo-effect",
+  "reviewed": false
+ },
+ {
+  "id": 136,
+  "scene": "\"If you really love your mom, you'll buy her this blood pressure monitor today.\"",
+  "options": [
+   "Overconfidence",
+   "Slippery Slope",
+   "Appeal to Emotion",
+   "Straw Man"
+  ],
+  "answer": 2,
+  "why": "It ties your love for your mom to a purchase. The real question: is this monitor accurate and worth the price?",
+  "entry": "appeal-to-emotion",
+  "reviewed": false
+ },
+ {
+  "id": 137,
+  "scene": "An online course ad: \"Sign up now, or stay stuck at the same paycheck forever.\"",
+  "options": [
+   "Appeal to Nature",
+   "In-Group Bias",
+   "Cherry Picking",
+   "False Dilemma"
+  ],
+  "answer": 3,
+  "why": "There are lots of other ways to raise your income. The ad boxes you into two options so you'll pay.",
+  "entry": "false-dilemma",
+  "reviewed": false
+ },
+ {
+  "id": 138,
+  "scene": "\"That student bombed the exam because he's just not smart.\" The truth: his dad was in the hospital during finals week.",
+  "options": [
+   "Fundamental Attribution Error",
+   "Anecdotal Evidence",
+   "False Dilemma",
+   "Straw Man"
+  ],
+  "answer": 0,
+  "why": "We judged his character and never asked about his circumstances.",
+  "entry": "fundamental-attribution",
+  "reviewed": false
+ },
+ {
+  "id": 139,
+  "scene": "\"This project will be done in two weeks.\" Even though every similar project before it took two months.",
+  "options": [
+   "Appeal to Ignorance",
+   "Equivocation",
+   "Optimism Bias",
+   "Survivorship Bias"
+  ],
+  "answer": 2,
+  "why": "We expect better for ourselves than what actually happened before, with no new reason to.",
+  "entry": "optimism-bias",
+  "reviewed": false
+ },
+ {
+  "id": 140,
+  "scene": "\"Stuff made by companies in our hometown is better than anything else.\" He hasn't compared a single product.",
+  "options": [
+   "Equivocation",
+   "In-Group Bias",
+   "Halo Effect",
+   "Optimism Bias"
+  ],
+  "answer": 1,
+  "why": "Loyalty to his own group made him judge without comparing anything.",
+  "entry": "in-group",
+  "reviewed": false
+ },
+ {
+  "id": 141,
+  "scene": "A dad tells his son that smoking is bad for him. The son shoots back: \"You smoke a pack a day!\"",
+  "options": [
+   "Appeal to Authority",
+   "Hindsight Bias",
+   "Tu Quoque",
+   "Straw Man"
+  ],
+  "answer": 2,
+  "why": "The dad's behavior may not match his words, but what he said about the harm is still true.",
+  "entry": "tu-quoque",
+  "reviewed": false
+ },
+ {
+  "id": 142,
+  "scene": "\"Why switch to accounting software? The paper ledger has worked for us for 30 years.\"",
+  "options": [
+   "Fallacy Fallacy",
+   "Appeal to Tradition",
+   "Anchoring",
+   "Begging the Question"
+  ],
+  "answer": 1,
+  "why": "The ledger working for 30 years doesn't mean it's the best tool now. The question is whether the software would save time or money.",
+  "entry": "appeal-to-tradition",
+  "reviewed": false
+ },
+ {
+  "id": 143,
+  "scene": "\"90% of the people in my Facebook group said this tea helps you lose weight, so I'm buying it.\"",
+  "options": [
+   "Appeal to Popularity",
+   "Gambler's Fallacy",
+   "Appeal to Authority",
+   "Fundamental Attribution Error"
+  ],
+  "answer": 0,
+  "why": "A poll in a Facebook group isn't a scientific study. The number of votes isn't evidence.",
+  "entry": "appeal-to-majority",
+  "reviewed": false
+ },
+ {
+  "id": 144,
+  "scene": "He refuses to sell his old house and buy a better, cheaper one, because he can't stand the idea of giving up something that's his.",
+  "options": [
+   "Loss Aversion",
+   "No True Scotsman",
+   "False Dilemma",
+   "Gambler's Fallacy"
+  ],
+  "answer": 0,
+  "why": "Giving up something we already have hurts more than the value of what we'd gain.",
+  "entry": "loss-aversion",
+  "reviewed": false
+ },
+ {
+  "id": 145,
+  "scene": "\"If we let employees work from home one day a week, pretty soon nobody in the company will do any work at all.\"",
+  "options": [
+   "Availability Heuristic",
+   "Slippery Slope",
+   "Spotlight Effect",
+   "False Analogy"
+  ],
+  "answer": 1,
+  "why": "Going from one remote day to \"the whole company stops working\" is a huge leap with no evidence.",
+  "entry": "slippery-slope",
+  "reviewed": false
+ },
+ {
+  "id": 146,
+  "scene": "\"All the stats say seatbelts save lives, but I knew a guy who was wearing one and still died in a crash.\"",
+  "options": [
+   "Optimism Bias",
+   "Equivocation",
+   "Halo Effect",
+   "Anecdotal Evidence"
+  ],
+  "answer": 3,
+  "why": "One sad case doesn't cancel out numbers drawn from thousands of crashes.",
+  "entry": "anecdotal-evidence",
+  "reviewed": false
+ },
+ {
+  "id": 147,
+  "scene": "Everyone at your office started wearing a smartwatch, so you bought one too, even though you don't need it.",
+  "options": [
+   "Availability Heuristic",
+   "Bandwagon Effect",
+   "False Dilemma",
+   "Survivorship Bias"
+  ],
+  "answer": 1,
+  "why": "You bought it because everyone else did, not because you needed it.",
+  "entry": "bandwagon",
+  "reviewed": false
+ },
+ {
+  "id": 148,
+  "scene": "\"Your opinion on the movie doesn't count. You can't even act.\"",
+  "options": [
+   "Argument from Personal Incredulity",
+   "Fallacy Fallacy",
+   "Ad Hominem",
+   "Equivocation"
+  ],
+  "answer": 2,
+  "why": "You don't have to be an actor to judge a movie. This attacks the person instead of the opinion.",
+  "entry": "ad-hominem",
+  "reviewed": false
+ },
+ {
+  "id": 149,
+  "scene": "After the company went bankrupt: \"It was obvious from day one that the CEO had no clue.\" Even though he used to be the CEO's biggest fan.",
+  "options": [
+   "Overconfidence",
+   "Hindsight Bias",
+   "Availability Heuristic",
+   "Genetic Fallacy"
+  ],
+  "answer": 1,
+  "why": "Once we know how things ended, the warning signs look obvious, and we forget we didn't see them at the time.",
+  "entry": "hindsight",
+  "reviewed": false
+ },
+ {
+  "id": 150,
+  "scene": "\"No one has proven that aliens don't visit the Grand Canyon at night, so they do.\"",
+  "options": [
+   "Appeal to Ignorance",
+   "Sunk Cost Fallacy",
+   "Confirmation Bias",
+   "Choice-Supportive Bias"
+  ],
+  "answer": 0,
+  "why": "A lack of proof against something isn't proof for it. The honest answer: we have no evidence for that.",
+  "entry": "appeal-to-ignorance",
+  "reviewed": false
+ }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "slug": "anxiety",
+    "title": "I'm Anxious About Tomorrow",
+    "feel": "Your mind runs worst-case scenarios all night about things that haven't happened yet, and your body is exhausted even though you haven't done anything.",
+    "answers": [
+      {
+        "school": "stoicism",
+        "says": "Epictetus would tell you: split your worries in two, what's up to you and what isn't. How tomorrow's interview turns out isn't up to you. How you prepare today is. Seneca wrote, roughly, that we suffer more often in imagination than in reality. So work on what's in your hands, and let the rest come when it comes.",
+        "try": "Write down everything you're worried about, and put a check next to the ones you can actually do something about today. Then take one small step on just one of them."
+      },
+      {
+        "school": "epicurus",
+        "says": "Epicurus believed the goal of life is peace of mind, and that many fears are “empty”: they come from unnecessary desires, or from picturing a future nobody can know. He also said that what you truly need is simple and easy to get. Anxiety sometimes quiets down when you remember how little you need to be okay.",
+        "try": "Spend 10 minutes today with something simple you enjoy: coffee with someone you're close to, or a short walk. Notice that this moment, right here, has no problem in it."
+      },
+      {
+        "school": "skepticism",
+        "says": "The ancient skeptics, going back to Pyrrho, would ask: are you sure tomorrow will be bad? You don't know that. They noticed that when you stop judging that something is “definitely bad,” calm tends to show up on its own. Anxiety needs certainty that something bad is coming, and doubt breaks that certainty.",
+        "try": "Take the thought that worries you most and ask: what's my evidence this will happen? Then write down three other things that could happen instead."
+      }
+    ],
+    "note": "If this feeling is intense or ongoing and it's affecting your sleep, work or relationships, talking with a licensed mental health professional can make a real difference. What's here is philosophical reflection, not therapy."
+  },
+  {
+    "slug": "hard-choice",
+    "title": "I Have a Hard Decision and Can't Choose",
+    "feel": "You've got two paths, and every time you lean toward one, you feel you'll regret the other, so you stay stuck right where you are.",
+    "answers": [
+      {
+        "school": "existentialism",
+        "says": "Sartre would tell you something uncomfortable: there's no answer written down somewhere, waiting for you. You are “condemned to be free,” and even if you don't choose, you've chosen not to choose. The upside is that your choices define who you are. So the question isn't “Which one is right?” It's “Which person do I want to be?”",
+        "try": "For each option, write a sentence that starts with “If I choose this, I'll be someone who...” Read both out loud and notice which one sounds more like you."
+      },
+      {
+        "school": "pragmatism",
+        "says": "William James would ask: what's the practical difference between these two options in your actual day? Sometimes we agonize over a decision when the gap between the paths is much smaller than we think. And sometimes you can test it small before you commit big.",
+        "try": "See if you can try an option on a small scale: a call with someone who took that path, or a one-week trial. If that's not possible, set a deadline for the decision and write it down."
+      },
+      {
+        "school": "utilitarianism",
+        "says": "Bentham and John Stuart Mill would tell you: count everyone the decision affects, not just you. Which choice brings more good and less harm for everyone, over the long run? The math never comes out exact, but it widens the picture in front of you.",
+        "try": "Draw a table: the two options across the top, the people affected down the side. In each box, write one good effect and one bad effect."
+      }
+    ]
+  },
+  {
+    "slug": "unfair",
+    "title": "I Feel Wronged",
+    "feel": "You feel like someone took what was yours or treated you badly, and it's sitting on your chest, and you don't know what to do with it.",
+    "answers": [
+      {
+        "school": "socrates",
+        "says": "In the dialogue Gorgias, Socrates says something strange: doing wrong is worse than being wronged. The person who wronged you harmed himself before he harmed you. That doesn't mean you stay quiet about what you're owed. It means you don't let injustice turn you into someone who treats others unjustly.",
+        "try": "Write what happened in three lines, with no adjectives and no insults: who did what, and when. You'll find the picture gets clearer and easier to deal with."
+      },
+      {
+        "school": "stoicism",
+        "says": "Marcus Aurelius was an emperor, and he still faced betrayal and unfairness. He wrote to himself that the best response, the best revenge, is not to become like the person who hurt you. He also reminded himself each morning that he'd run into difficult people that day, so he wouldn't be caught off guard. What they did isn't up to you. How you respond is.",
+        "try": "Before you reply to whoever upset you, wait 24 hours. Then ask: what response will I be proud of a year from now?"
+      },
+      {
+        "school": "kant",
+        "says": "Kant would tell you that you have dignity, and nobody has the right to treat you as a mere tool for their own ends. So standing up for yourself isn't selfish. It's respect for the humanity in you. But the same principle binds you too: while you claim what's yours, don't treat the other person as a tool.",
+        "try": "Write what you want in one clear sentence, and pick a calm way to ask for it: a direct conversation, a written complaint, or a neutral person to mediate."
+      }
+    ]
+  },
+  {
+    "slug": "comparison",
+    "title": "I Keep Comparing Myself to People on Social Media",
+    "feel": "You open your phone and everyone's traveling, getting engaged or getting promoted, and you feel like you're behind the entire world.",
+    "answers": [
+      {
+        "school": "epicurus",
+        "says": "Epicurus distinguished between desires that are natural and necessary, like food, safety and friends, and empty desires that never end, like fame and luxury. Most of what you see while scrolling is the second kind. He also believed real friendship is one of the biggest sources of happiness.",
+        "try": "Write down three things you actually have from the “natural desires” list: people who love you, your health, a roof over your head. And today, call a real friend instead of scrolling through their photos."
+      },
+      {
+        "school": "stoicism",
+        "says": "Epictetus would tell you: other people's lives, their opinion of you and who has what are all outside your control. What's in your control is what you do with your day. And the photo you're looking at isn't their whole life. It's the moment they chose to show you.",
+        "try": "Today, whenever you feel the comparison kick in, tell yourself: “That's a post, not a life.” Then go back to one thing in your control and take one step on it."
+      },
+      {
+        "school": "nietzsche",
+        "says": "Nietzsche was against following the herd, and he championed the idea of “becoming who you are.” Comparison makes you measure yourself with someone else's ruler. His bigger question: did I build myself my own way, or am I copying?",
+        "try": "Compare yourself to yourself: write down one thing you've gotten better at since last year, and one thing you want to grow in next year."
+      }
+    ]
+  },
+  {
+    "slug": "meaning",
+    "title": "I Feel Like Nothing I Do Means Anything",
+    "feel": "You wake up, go to work, come home, go to sleep, and at some point you ask yourself: why am I even doing all this?",
+    "answers": [
+      {
+        "school": "existentialism",
+        "says": "Sartre said that “existence precedes essence”: you aren't born with a ready-made meaning; you make it through your choices. That's scary, but there's freedom in it. Meaning isn't something hidden that you find. It's something you build. Simone de Beauvoir added that your freedom becomes complete when it's bound up with the freedom of the people around you.",
+        "try": "Pick one small thing to do today because you decided it matters, not because anyone asked you to. Tonight, write one line: why did I choose it?"
+      },
+      {
+        "school": "absurdism",
+        "says": "Camus understood this feeling well. He said “the absurd” is what happens when we search for meaning and the universe stays silent. But his answer isn't despair. It's to live fully aware and to rebel against the absurd. He concluded that we must imagine Sisyphus happy as he pushes his rock.",
+        "try": "In the most routine moment of your day, on your commute or at work, find one thing you genuinely enjoy, even something small, and live it while actually paying attention."
+      },
+      {
+        "school": "aristotle",
+        "says": "Aristotle thought true happiness, which he called eudaimonia, isn't a feeling that comes and goes. It's living while using the best in you: doing something well, being a good person, among people you love. For him, meaning comes from activity, not from waiting.",
+        "try": "Remember the last time you felt really good at something while you were doing it. Do something similar today, even for half an hour."
+      }
+    ],
+    "note": "If this feeling is intense or ongoing and it's affecting your sleep, work or relationships, talking with a licensed mental health professional can make a real difference. What's here is philosophical reflection, not therapy."
+  },
+  {
+    "slug": "anger",
+    "title": "I Lose My Temper Fast",
+    "feel": "Something small sets you off, and you say things you regret five minutes later.",
+    "answers": [
+      {
+        "school": "stoicism",
+        "says": "Seneca wrote a whole book, On Anger, and repeated the old saying that anger is a brief madness. His main advice: delay. Anger is strongest at the start, but if you hold off on responding for a bit, it cools down on its own. He also reviewed his day every night: when did I get angry? Was it worth it?",
+        "try": "When you feel like you're about to blow up today, step out of the room for a minute or count to ten before you respond. Tonight, write down one moment you got angry and whether it was worth it."
+      },
+      {
+        "school": "aristotle",
+        "says": "Aristotle wasn't against anger altogether. He said the hard part is getting angry with the right person, to the right degree, at the right time, for the right reason, and that not just anyone can pull that off. So for him, the problem isn't anger itself. It's too much of it, or anger aimed at the wrong place.",
+        "try": "The first time something bugs you today, ask yourself four questions: Is this person really the cause? How big a deal is this? Is now the time? And what exactly am I upset about?"
+      },
+      {
+        "school": "epicurus",
+        "says": "The Epicureans, like Philodemus, who wrote about anger, distinguished between natural anger, which comes when someone really harms you, and “empty” anger, which comes from inflated expectations and the feeling that the world ought to go your way. The second kind is what wrecks peace of mind, the thing they valued most.",
+        "try": "Write down the last three times you got angry, and next to each one: was this real harm, or was I expecting things to go my way?"
+      }
+    ],
+    "note": "If this feeling is intense or ongoing and it's affecting your sleep, work or relationships, talking with a licensed mental health professional can make a real difference. What's here is philosophical reflection, not therapy."
+  },
+  {
+    "slug": "failure",
+    "title": "I Failed at Something That Mattered",
+    "feel": "You worked on something and waited for the result, and in the end it didn't happen. Now you feel like you're the failure, not the attempt.",
+    "answers": [
+      {
+        "school": "stoicism",
+        "says": "The Stoics separated your effort from your outcome. Cicero passed along their image of the archer: he can aim and draw the bow well, but the wind isn't in his hands. His job is to shoot well, not to control everything. So if you did your part, it's the outcome that didn't come through, not you who failed.",
+        "try": "Make three columns: “What I did well,” “What wasn't up to me” and “One thing I'll do better next time.”"
+      },
+      {
+        "school": "falsifiability",
+        "says": "Karl Popper thought science advances through error: every idea gets tested, and when one falls, we learn something new. Failure isn't the opposite of knowledge. It's the road to it. The key question after any failure: what did this experiment show me that I didn't know before?",
+        "try": "Write down the “hypothesis” you were working with, like “If I study this way, I'll pass.” Underneath: what did the experiment say? And what new hypothesis will you test next?"
+      },
+      {
+        "school": "nietzsche",
+        "says": "In Twilight of the Idols, Nietzsche wrote the line that became a proverb: “What does not kill me makes me stronger.” He saw hardship as part of human growth, not something to run from. That doesn't mean every pain is useful on its own. It means you can turn it into strength.",
+        "try": "Think of an old hardship you got through and came out of with something. Write that something down, and ask: what could this failure give me that's like it?"
+      }
+    ]
+  },
+  {
+    "slug": "regret",
+    "title": "I Regret Something I Did",
+    "feel": "An old moment keeps replaying in your head, you keep thinking “I wish I hadn't done that,” and you can't close the chapter.",
+    "answers": [
+      {
+        "school": "stoicism",
+        "says": "The past is one of the clearest examples of what isn't up to you. The Stoics would say: what happened, happened, and what's in your hands now is what you do with the lesson. Marcus Aurelius wrote to himself that if he slipped up, he shouldn't get disgusted or give up, but come back and start again.",
+        "try": "Write the moment in two lines, then “The lesson I took,” then “What I'll do if it happens again.” Then fold the paper and put it away."
+      },
+      {
+        "school": "nietzsche",
+        "says": "Nietzsche had an idea called amor fati, “love of fate”: not wishing anything in your life had gone differently, even the bad parts, because they're part of what got you here. And he asked a hard question: if you had to live this exact life over again, would you accept it?",
+        "try": "Write down one thing in your life right now that wouldn't have happened without that mistake, even something small."
+      },
+      {
+        "school": "virtue-ethics",
+        "says": "Virtue ethics, going back to Aristotle, sees shame over a mistake, in someone who's still learning, as a good sign: it means they care about getting better. But regret alone isn't enough, because virtue is a habit built through repetition. So turn the regret into a new habit.",
+        "try": "If the mistake hurt someone, think of a simple step to make it right: an apology or a message. If that's not possible, pick a small habit that keeps it from happening again and start it today."
+      }
+    ]
+  }
+]

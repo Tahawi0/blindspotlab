@@ -1,0 +1,517 @@
+[
+  {
+    "slug": "cave",
+    "title": "Plato's Cave",
+    "by": "Plato, Republic, Book VII, around 375 BCE",
+    "story": "Imagine you've been chained inside a cave since you were a kid, facing a wall. Behind you a fire burns, and people walk past it carrying objects, so all you ever see are their shadows on the wall. Those shadows are your whole world. You and the guy next to you even bet on which shadow comes next. Then one day someone unchains you and drags you outside. The sun hurts your eyes and everything looks strange. But slowly it sinks in: what you were watching all those years was only shadows.",
+    "question": "If you got out and saw the real thing, would you go back into the cave to tell your friends?",
+    "options": [
+      "I'd go back, even if they laughed at me",
+      "I wouldn't. They're happy the way they are"
+    ],
+    "views": [
+      {
+        "who": "Plato",
+        "says": "He thought whoever gets out has a duty to go back, even if the others mock him or hurt him. He also warned that someone returning from the light will look clumsy in the dark at first, because his eyes haven't adjusted yet. For Plato, education isn't stuffing information into someone's head. It's turning their head toward the right thing."
+      },
+      {
+        "who": "The skeptics",
+        "says": "They ask an unsettling question: how do you know the outside isn't just a bigger cave? The feeling that you've “woken up” isn't, by itself, proof that you actually have."
+      },
+      {
+        "who": "The empiricists (like Locke and Hume)",
+        "says": "They held that all our knowledge comes from the senses and experience. So the fix isn't escaping experience into a world of perfect ideas, the way Plato pictured it. The fix is to experience more and keep checking what you think you see."
+      }
+    ],
+    "why": "Everyone has a cave: the group chat you get your news from, or the feed your phone keeps serving you. When someone says something that doesn't match your “wall,” the first reflex is to roll your eyes. Plato's advice: hold on. Maybe they're the one who got out.",
+    "related": [
+      "plato",
+      "confirmation-bias",
+      "empiricism"
+    ],
+    "sources": [
+      "Plato, Republic, Book VII (514a–520a)",
+      "Stanford Encyclopedia of Philosophy: Plato"
+    ]
+  },
+  {
+    "slug": "evil-demon",
+    "title": "Descartes' Evil Demon",
+    "by": "René Descartes, Meditations on First Philosophy, 1641",
+    "story": "You're sitting on your porch, watching the street, hearing car horns, holding a hot cup of coffee. Now imagine there's a being who is extremely smart and extremely malicious, and whose only job is to fool you. He's the one putting the street, the horns and the warm mug into your mind. Even “2 + 3 = 5” might be something he tricked you into believing. How would you prove this isn't happening right now?",
+    "question": "Is there anything you can be 100% sure of?",
+    "options": [
+      "Yes, there's one thing he can't fool me about",
+      "No, anything could be a trick"
+    ],
+    "views": [
+      {
+        "who": "Descartes",
+        "says": "He said the demon could fool him about everything except one thing: that he exists and is thinking. To be fooled at all, he has to exist. That's where the famous line comes from: “I think, therefore I am.” He then tried to rebuild the rest of his knowledge on top of it."
+      },
+      {
+        "who": "David Hume",
+        "says": "He thought total doubt like this is something you can entertain alone in your study, but you can't live by it. The moment you get up, talk to people and go about your day, nature beats doubt, and you find yourself believing the chair is there."
+      },
+      {
+        "who": "Charles S. Peirce (pragmatism)",
+        "says": "He criticized Descartes, saying doubt you only perform on paper isn't real doubt. Real doubt shows up when something specific breaks your expectations. That's when you dig in and test."
+      }
+    ],
+    "why": "You don't need a demon to get fooled. Edited photos, AI-generated videos, texts that look like they came from your bank: they're all playing the same game. Descartes' lesson: before you believe it, ask, “What actually makes me sure?”",
+    "related": [
+      "descartes",
+      "skepticism",
+      "rationalism"
+    ],
+    "sources": [
+      "René Descartes, Meditations on First Philosophy (1641), Meditations I–II",
+      "David Hume, A Treatise of Human Nature (1739), Book 1, Part 4, Section 7",
+      "Charles S. Peirce, 'Some Consequences of Four Incapacities', Journal of Speculative Philosophy (1868)",
+      "Stanford Encyclopedia of Philosophy: Descartes' Epistemology"
+    ]
+  },
+  {
+    "slug": "veil-of-ignorance",
+    "title": "The Veil of Ignorance",
+    "by": "John Rawls, A Theory of Justice, 1971",
+    "story": "You and ten other people are writing the rules for a brand-new country: wages, health care, schools, who gets what. There's one catch. None of you knows who you'll turn out to be in that country. You might be born into a family that owns factories, or to a day laborer in a small town far from everything. You could be a man or a woman, perfectly healthy or living with a disability. The curtain hiding your place from you is called the “veil of ignorance.”",
+    "question": "Not knowing who you'll be, which system do you pick?",
+    "options": [
+      "One that makes sure the worst-off still live decently",
+      "One with big chances to win, even if some people fall"
+    ],
+    "views": [
+      {
+        "who": "John Rawls",
+        "says": "He believed rational people behind the veil would choose equal basic liberties for everyone, and would accept differences in money and status only if those differences work to the benefit of the least advantaged. He called this the “difference principle.”"
+      },
+      {
+        "who": "John Harsanyi (utilitarianism)",
+        "says": "He argued that a rational person behind the veil would play the odds and pick the system with the highest average well-being, not the one that focuses only on the worst case. He and Rawls had a famous debate about this in the 1970s."
+      },
+      {
+        "who": "Robert Nozick",
+        "says": "He rejected the whole approach. Justice, he said, isn't about the final pattern of who has what. It's about whether each person got what they have in a clean way, without theft or fraud. If they did, you can't forcibly redistribute it."
+      }
+    ],
+    "why": "Try it at home. If you're splitting chores with your roommates, imagine you don't know which roommate you'll be. At work, if you're writing a PTO policy, picture yourself as the newest hire instead of the manager. Suddenly rules that seemed “normal” can start to look pretty unfair.",
+    "related": [
+      "social-contract",
+      "utilitarianism",
+      "in-group"
+    ],
+    "sources": [
+      "John Rawls, A Theory of Justice (1971)",
+      "John C. Harsanyi, 'Can the Maximin Principle Serve as a Basis for Morality?', American Political Science Review 69 (1975)",
+      "Robert Nozick, Anarchy, State, and Utopia (1974)",
+      "Stanford Encyclopedia of Philosophy: Original Position"
+    ]
+  },
+  {
+    "slug": "chinese-room",
+    "title": "The Chinese Room",
+    "by": "John Searle, “Minds, Brains, and Programs,” 1980",
+    "story": "You're locked in a room, and you don't know a single character of Chinese. You have a huge rulebook in English: “If you get this symbol, answer with that symbol.” Through a slot in the door, people pass you notes written in Chinese. You look things up in the book and pass back the reply. The people outside read the answers and say, “Whoever's in there clearly speaks Chinese.” But inside, you don't understand a word.",
+    "question": "If a computer answers exactly like a person, does it understand?",
+    "options": [
+      "Yes, if it answers right, it understands",
+      "No, shuffling symbols isn't understanding"
+    ],
+    "views": [
+      {
+        "who": "John Searle",
+        "says": "He said a computer does exactly what you did in the room: it moves symbols around according to rules. Moving symbols, by itself, doesn't produce meaning. So a program can imitate understanding without understanding anything."
+      },
+      {
+        "who": "The “systems reply”",
+        "says": "Many people answered Searle: sure, you alone don't understand, but the whole room does, meaning you, the book and the notes together. Searle replied in the same paper: fine, suppose I memorize the whole book and become the entire system. I still won't understand Chinese."
+      },
+      {
+        "who": "Alan Turing",
+        "says": "Thirty years earlier, in 1950, he proposed setting aside the vague question “Can machines think?” and asking instead: if you can't tell a machine's answers from a person's in a written conversation, what grounds do you have for saying it isn't thinking?"
+      }
+    ],
+    "why": "Today there are AI programs that write your emails, explain lessons and even comfort you. So the question is practical now: when a program says “I understand how you feel,” does it really? Your answer shapes how much you trust it and lean on it.",
+    "related": [
+      "descartes",
+      "equivocation",
+      "pragmatism"
+    ],
+    "sources": [
+      "John R. Searle, 'Minds, Brains, and Programs', Behavioral and Brain Sciences 3 (1980)",
+      "Alan M. Turing, 'Computing Machinery and Intelligence', Mind 59 (1950)",
+      "Stanford Encyclopedia of Philosophy: The Chinese Room Argument"
+    ]
+  },
+  {
+    "slug": "brain-in-vat",
+    "title": "The Brain in a Vat",
+    "by": "A modern version of Descartes' demon, made famous by Hilary Putnam in Reason, Truth and History, 1981",
+    "story": "Imagine a scientist removes your brain while you sleep and puts it in a vat of fluid that keeps it alive. He wires its nerves to a powerful computer that sends exactly the signals your eyes, ears and hands used to send. Right now you “feel” awake, heading to work, stuck in traffic. None of it is real. And from the inside, there's no way to tell the difference.",
+    "question": "Can you prove you're not a brain in a vat?",
+    "options": [
+      "Yes, there's a way to prove it",
+      "No, it's impossible to prove"
+    ],
+    "views": [
+      {
+        "who": "The skeptics",
+        "says": "They say: since everything you experience would be identical either way, you have no evidence that tells the two apart. And if you can't rule out being a brain in a vat, then you don't really “know” you have hands."
+      },
+      {
+        "who": "Hilary Putnam",
+        "says": "He offered a clever reply. For a brain in a vat, the word “vat” refers to the computer's images, not to real vats, because it has never dealt with a real one. So if it says “I am a brain in a vat,” what it says comes out false. The sentence undermines itself."
+      },
+      {
+        "who": "G. E. Moore",
+        "says": "He answered with common sense. He held up his hand and said, “Here is one hand.” He thought we're more certain of something like that than of any philosophical argument claiming otherwise. So if an argument concludes you have no hands, the problem is with the argument."
+      }
+    ],
+    "why": "With VR and computer-generated video, the gap between “real” and “fake” shrinks every day. This thought experiment teaches you to ask: what evidence actually tells the two apart? And if there isn't any, keep your confidence in line with the evidence.",
+    "related": [
+      "skepticism",
+      "descartes",
+      "empiricism"
+    ],
+    "sources": [
+      "Hilary Putnam, Reason, Truth and History (1981), Chapter 1",
+      "G. E. Moore, 'Proof of an External World', Proceedings of the British Academy (1939)",
+      "Stanford Encyclopedia of Philosophy: Skepticism and Content Externalism"
+    ]
+  },
+  {
+    "slug": "mary-room",
+    "title": "Mary's Room",
+    "by": "Frank Jackson, “Epiphenomenal Qualia,” 1982",
+    "story": "Mary is a brilliant scientist who has spent her whole life in a black-and-white room, learning from a black-and-white screen. She has studied everything about color: the wavelength of red, how the eye takes it in, exactly what happens in the brain. She knows every scientific fact there is about red. Then one day the door opens, Mary walks out, and she sees a ripe red tomato for the first time.",
+    "question": "Did Mary learn something new when she saw red?",
+    "options": [
+      "Yes, she learned something she didn't know",
+      "No, she already knew everything"
+    ],
+    "views": [
+      {
+        "who": "Frank Jackson (at first)",
+        "says": "He argued that Mary definitely learned something new: what it's like to see red. Since she already knew all the physical facts, there must be something about consciousness that isn't physical. The twist: years later, Jackson himself changed his mind and came to think the argument goes wrong somewhere."
+      },
+      {
+        "who": "David Lewis (the “ability hypothesis”)",
+        "says": "He said Mary didn't gain a new fact. She gained new abilities: to recognize red, imagine it and remember it. It's like the difference between reading about riding a bike and knowing how to ride one."
+      },
+      {
+        "who": "Daniel Dennett",
+        "says": "He questioned the setup itself. We can't really imagine what it means to know “all” the physical facts, he said. If Mary truly knew everything, maybe she wouldn't be surprised at all, and she'd even catch it if someone tried to trick her with a banana painted blue."
+      }
+    ],
+    "why": "We've all been there: you read about moving to a new city, getting married or becoming a parent, and you think you get it. Then you live it and discover something the words left out. Mary's room makes you ask: when is information enough, and when should you listen to someone who's actually been through it before you judge?",
+    "related": [
+      "empiricism",
+      "descartes",
+      "personal-incredulity"
+    ],
+    "sources": [
+      "Frank Jackson, 'Epiphenomenal Qualia', Philosophical Quarterly 32 (1982)",
+      "David Lewis, 'What Experience Teaches' (1988)",
+      "Daniel C. Dennett, Consciousness Explained (1991)",
+      "Stanford Encyclopedia of Philosophy: Qualia: The Knowledge Argument"
+    ]
+  },
+  {
+    "slug": "prisoners-dilemma",
+    "title": "The Prisoner's Dilemma",
+    "by": "Merrill Flood and Melvin Dresher at the RAND Corporation, 1950; Albert Tucker framed it as a story about two prisoners and gave it its name",
+    "story": "You and your buddy get arrested, and the police put each of you in a separate room. The detective tells you: if you testify against your buddy and he stays quiet, you walk free and he gets 10 years. If you both testify against each other, you each get 5. If you both stay quiet, you each get just 1 year. Your buddy is hearing the same offer, and you have no idea what he'll do.",
+    "question": "Do you stay quiet or testify against your buddy?",
+    "options": [
+      "Stay quiet and trust him",
+      "Testify and protect myself"
+    ],
+    "views": [
+      {
+        "who": "Game theory",
+        "says": "By cold math, testifying is better for you no matter what your buddy does: if he stays quiet, you walk; if he testifies, you get 5 instead of 10. The problem is that he's doing the same math, so you both end up with 5, when staying quiet together would have gotten you just 1 each."
+      },
+      {
+        "who": "Thomas Hobbes (social contract)",
+        "says": "Many scholars see this as close to Hobbes's idea of the “state of nature”: without rules everyone respects and an authority to back them up, everyone looks out for himself and everyone loses. That's why people agree to laws that make trust possible."
+      },
+      {
+        "who": "Axelrod's tournaments (around 1980)",
+        "says": "Robert Axelrod ran a contest between computer programs that played this game many times in a row. The winner was a simple strategy submitted by Anatol Rapoport called “Tit for Tat”: start by cooperating, then do whatever the other player did last round."
+      }
+    ],
+    "why": "When every owner in the condo waits for someone else to chip in first to fix the elevator, or when every driver pulls into the intersection because “if I don't, someone else will” and the whole thing gridlocks, that's a prisoner's dilemma. The lesson: when the situation repeats and people know each other, cooperating is the truly smart move.",
+    "related": [
+      "social-contract",
+      "utilitarianism",
+      "in-group"
+    ],
+    "sources": [
+      "William Poundstone, Prisoner's Dilemma (1992)",
+      "Robert Axelrod, The Evolution of Cooperation (1984)",
+      "Thomas Hobbes, Leviathan (1651), Chapter 13",
+      "Stanford Encyclopedia of Philosophy: Prisoner's Dilemma"
+    ]
+  },
+  {
+    "slug": "buridans-donkey",
+    "title": "Buridan's Donkey",
+    "by": "Attributed to the French philosopher Jean Buridan (14th century), though the donkey doesn't appear in his writings, and the idea goes back to Aristotle",
+    "story": "A very hungry donkey stands exactly halfway between two piles of hay. The piles are the same size, smell the same and sit the same distance away. There's no reason to choose one over the other. So he stands there looking left, then right, left, then right. And he starves to death with a week's worth of food on either side of him.",
+    "question": "When two options are exactly equal, what do you do?",
+    "options": [
+      "Pick either one and move on",
+      "Keep looking for a reason to tip the scale"
+    ],
+    "views": [
+      {
+        "who": "Al-Ghazali",
+        "says": "In The Incoherence of the Philosophers, this 11th-century thinker gave the example of a hungry man facing two dates that are exactly alike. The man will obviously take one, he said, because the will itself can choose between two equal things without any outside reason to tip it."
+      },
+      {
+        "who": "Leibniz",
+        "says": "He held that nothing happens without a sufficient reason. Perfect equality like this never actually happens, he said, because the world isn't split into two identical halves. There's always some small difference nudging you one way, even if you don't notice it."
+      },
+      {
+        "who": "By pragmatist logic",
+        "says": "If the two options make no practical difference, arguing with yourself is pointless, and the only real loss is the time you waste. Pick one, or flip a coin, and eat."
+      }
+    ],
+    "why": "Standing in a store for 20 minutes between two nearly identical shirts. Scrolling a streaming app for 40 minutes and never picking a show. We often lose more to indecision than we would by choosing “wrong.” If the difference is small, give yourself a deadline and stick to it.",
+    "related": [
+      "al-ghazali",
+      "pragmatism",
+      "status-quo"
+    ],
+    "sources": [
+      "Aristotle, On the Heavens II.13 (295b)",
+      "al-Ghazali, Tahafut al-Falasifa (The Incoherence of the Philosophers), First Discussion",
+      "G. W. Leibniz, Theodicy (1710), §49",
+      "Stanford Encyclopedia of Philosophy: John Buridan"
+    ]
+  },
+  {
+    "slug": "gettier",
+    "title": "Gettier Cases",
+    "by": "Edmund Gettier, “Is Justified True Belief Knowledge?,” 1963",
+    "story": "You and your coworker Jones are up for the same promotion. Your boss tells you herself that Jones is getting it, and you just watched Jones count ten coins in his pocket. So you conclude: “The person who gets the promotion has ten coins in his pocket.” The next day, surprise: the boss changed her mind, and you got the promotion. And when you reach into your own pocket, you find ten coins you didn't know were there.",
+    "question": "Did you “know” that the person getting the promotion had ten coins in his pocket?",
+    "options": [
+      "Yes, it was a true belief backed by evidence",
+      "No, it was luck dressed up as knowledge"
+    ],
+    "views": [
+      {
+        "who": "Edmund Gettier",
+        "says": "The classic definition of knowledge was a belief that is true and justified. In a paper only three pages long, he described two cases like this one: all three conditions are met, yet nobody would say you “knew.” So the definition is incomplete."
+      },
+      {
+        "who": "Michael Clark (1963)",
+        "says": "That same year, he suggested the problem is that your conclusion rests on a false belief: that Jones would get the promotion. So add a condition: knowledge can't depend on any false belief. But later philosophers came up with cases that involve no false belief at all, and there's still no knowledge."
+      },
+      {
+        "who": "Timothy Williamson",
+        "says": "He thinks philosophers spent decades hunting for the “fourth condition” and never found it because knowledge can't be broken down into simpler parts. Knowledge itself is the basic thing, and belief is what we understand through it."
+      }
+    ],
+    "why": "The sports-radio caller who says “Told you so!” because his upset pick came true, even though his reasons were totally wrong. Gettier teaches you to tell the difference between someone who “turned out right” and someone who “actually knew.” The first can be luck. Only the second deserves your trust next time.",
+    "related": [
+      "plato",
+      "skepticism",
+      "updating-beliefs"
+    ],
+    "sources": [
+      "Edmund L. Gettier, 'Is Justified True Belief Knowledge?', Analysis 23 (1963), 121–123",
+      "Michael Clark, 'Knowledge and Grounds: A Comment on Mr. Gettier's Paper', Analysis 24 (1963)",
+      "Timothy Williamson, Knowledge and Its Limits (2000)",
+      "Plato, Theaetetus 201c–210b",
+      "Stanford Encyclopedia of Philosophy: The Analysis of Knowledge"
+    ]
+  },
+  {
+    "slug": "sorites",
+    "title": "The Paradox of the Heap",
+    "by": "Attributed to Eubulides of Miletus, of the Megarian school in Greece, 4th century BCE",
+    "story": "In front of you is a big heap of rice. Take away one grain. Still a heap? Of course. Another grain? Still a heap. No single grain makes a difference. Now keep going, grain by grain. Eventually you're left with one grain, and your logic says it's still a “heap,” because no single step changed anything. Where's the mistake?",
+    "question": "Is there one particular grain where the heap stops being a heap?",
+    "options": [
+      "Yes, there's a cutoff, even if we don't know where",
+      "No, the word is just stretchy and has no cutoff"
+    ],
+    "views": [
+      {
+        "who": "Chrysippus the Stoic",
+        "says": "According to the reports we have, his advice was this: if someone keeps asking “Still a heap?” grain by grain, stop answering a little before you reach the zone where you're unsure. Better to stay silent than to say something false."
+      },
+      {
+        "who": "Timothy Williamson",
+        "says": "In his 1994 book Vagueness, he defended a surprising view: there really is exactly one grain that separates “heap” from “not a heap,” but we can never know which one. The vagueness is in our knowledge, not in the word."
+      },
+      {
+        "who": "“Degrees of truth” theorists",
+        "says": "They argue that “This is a heap” doesn't have to be 100% true or 100% false. It can be 90% true, then 60%, then 10%. Close to this idea is the “fuzzy logic” that Lotfi Zadeh developed starting in the 1960s."
+      }
+    ],
+    "why": "“One cigarette won't matter.” “One more hour of overtime is fine.” “One little cookie won't wreck the diet.” Each step really is small, but small steps make a heap. When you catch yourself saying “just this once,” ask: where am I drawing the line, or is there no line at all?",
+    "related": [
+      "slippery-slope",
+      "equivocation",
+      "false-dilemma"
+    ],
+    "sources": [
+      "Diogenes Laërtius, Lives of Eminent Philosophers, II.108",
+      "Sextus Empiricus, Against the Logicians, I.416",
+      "Timothy Williamson, Vagueness (1994)",
+      "Lotfi A. Zadeh, 'Fuzzy Sets', Information and Control 8 (1965)",
+      "Stanford Encyclopedia of Philosophy: Sorites Paradox",
+      "Cicero, Academica II.93"
+    ]
+  },
+  {
+    "slug": "newcomb",
+    "title": "Newcomb's Problem",
+    "by": "Physicist William Newcomb; published by Robert Nozick in “Newcomb's Problem and Two Principles of Choice,” 1969",
+    "story": "Two boxes sit in front of you. The first is clear, and you can see $1,000 inside. The second is closed, and it holds either $1 million or nothing. You can take the closed box alone, or both boxes. Here's the twist: a “Predictor” who has never been wrong guessed what you'd choose before you walked in. If it predicted you'd take only the closed box, it put the million inside. If it predicted you'd take both, it left the box empty. The money was placed yesterday. It's done.",
+    "question": "What do you take?",
+    "options": [
+      "Just the closed box",
+      "Both boxes"
+    ],
+    "views": [
+      {
+        "who": "The one-boxers",
+        "says": "Look at the results: people who take only the closed box walk away with a million, and people who take both walk away with a thousand. The Predictor has never been wrong, so your choice is strong evidence of what's in the box. Take the closed one."
+      },
+      {
+        "who": "David Lewis and the two-boxers",
+        "says": "The money went in yesterday, and your choice today can't change what's inside. If the million is there, taking both gets you $1,000 more. If it isn't, taking both still gets you $1,000 more. In 1981, Lewis wrote a paper with the cheeky title “Why Ain'cha Rich?” in reply to people who told him, “If you were so smart, you'd be a millionaire.”"
+      },
+      {
+        "who": "Robert Nozick",
+        "says": "He noticed something odd: almost everyone he asked found the answer perfectly obvious, yet people split roughly in half, and each half was baffled that the other couldn't see it. He said the problem reveals two principles of choice that both seem convincing and that disagree here. He himself leaned toward taking both boxes."
+      }
+    ],
+    "why": "Apps today predict what you'll buy and watch before you decide. And someone who knows you well, like your mom, can predict your answer before you open your mouth. So the question gets practical: do you act in a way that makes people “predict” good things from you, even when today's opportunity would let you grab a little extra?",
+    "related": [
+      "illusion-of-control",
+      "second-order",
+      "pragmatism"
+    ],
+    "sources": [
+      "Robert Nozick, 'Newcomb's Problem and Two Principles of Choice', in Essays in Honor of Carl G. Hempel (1969)",
+      "David Lewis, 'Why Ain'cha Rich?', Noûs 15 (1981)",
+      "Stanford Encyclopedia of Philosophy: Causal Decision Theory"
+    ]
+  },
+  {
+    "slug": "molyneux",
+    "title": "Molyneux's Question",
+    "by": "William Molyneux in a letter to John Locke; Locke published it in the second edition of An Essay Concerning Human Understanding, 1694",
+    "story": "A man born blind has learned to tell a cube from a sphere by touch alone: the cube has sharp corners, the sphere is smooth all over. One day, surgery gives him sight. Someone sets a cube and a sphere on the table in front of him and doesn't let him touch them.",
+    "question": "Can he tell, by sight alone, which is the cube and which is the sphere?",
+    "options": [
+      "Yes, he already knows both shapes",
+      "No, his eyes still have to learn"
+    ],
+    "views": [
+      {
+        "who": "Molyneux and Locke",
+        "says": "Both said no. The man has experience that “a sharp corner pokes my hand,” but no experience of what that corner “looks like.” The link between touch and sight is learned through experience. It isn't there from the start."
+      },
+      {
+        "who": "Leibniz",
+        "says": "He said yes, on one condition: that the man is told “one of these is a cube and the other is a sphere.” Then he could reason it out: the shape with corners and straight edges is the cube. Geometry is the same whether you touch it or see it."
+      },
+      {
+        "who": "Richard Held, Pawan Sinha and team (2011)",
+        "says": "They tested the question with a small group of children and teens in India who were born with dense cataracts and then had them treated. Right after surgery, they could tell shapes apart well by touch and well by sight, but when they touched a shape and had to pick it out by sight, they did little better than guessing. Within a few days, they improved quickly. The study leans toward Locke's answer, with caveats: the shapes weren't a cube and a sphere, and their vision right after surgery was still weak."
+      }
+    ],
+    "why": "You watched 100 videos about driving, then got behind the wheel and realized you knew nothing. Knowledge that comes in through one channel doesn't always transfer to another on its own. That's why hands-on practice isn't a luxury. It's the bridge between “I get it” and “I can do it.”",
+    "related": [
+      "john-locke",
+      "empiricism",
+      "rationalism"
+    ],
+    "sources": [
+      "John Locke, An Essay Concerning Human Understanding, 2nd ed. (1694), Book II, ch. 9, §8",
+      "G. W. Leibniz, New Essays on Human Understanding, Book II, ch. 9",
+      "Richard Held et al., 'The Newly Sighted Fail to Match Seen with Felt', Nature Neuroscience 14 (2011), 551–553",
+      "Stanford Encyclopedia of Philosophy: Molyneux's Problem"
+    ]
+  },
+  {
+    "slug": "twin-earth",
+    "title": "Twin Earth",
+    "by": "Hilary Putnam, “The Meaning of ‘Meaning,’” 1975",
+    "story": "Imagine a faraway planet so much like Earth that there's a copy of you on it. Same looks, same memories, same brain, atom for atom. The only difference: the liquid in the oceans and faucets there, which people call “water,” isn't H2O. It's a completely different chemical that looks and tastes exactly like water. Now go back to 1750, before anyone knew what water is made of. You and your twin both say, “I'd like a glass of water,” with exactly the same picture in your heads.",
+    "question": "Does the word “water” mean the same thing when you and your twin say it?",
+    "options": [
+      "Yes, what's in our heads is the same",
+      "No, each of us is talking about a different substance"
+    ],
+    "views": [
+      {
+        "who": "Hilary Putnam",
+        "says": "He said no: you mean H2O, and your twin means the other stuff, even though what's in your heads is identical. So meaning isn't all inside the head. Part of it is fixed by the world around you. His famous line: “Meanings just ain't in the head.” He added that you can say “gold” without being able to tell it from fake gold, because you rely on experts."
+      },
+      {
+        "who": "Tyler Burge",
+        "says": "In 1979, he extended the idea: not just nature, but society too helps fix what your words and thoughts mean. A man complains to his doctor that he has “arthritis” in his thigh, even though arthritis affects only the joints. What his words mean is set by medical usage in his community, even though he has it wrong."
+      },
+      {
+        "who": "The internalists (like Jerry Fodor)",
+        "says": "They hold that part of meaning, which they call “narrow content,” is shared by you and your twin. That part is what explains your behavior: you both drink when you're thirsty and go looking for the same thing. So we shouldn't say you think differently just because the world outside is different."
+      }
+    ],
+    "why": "You say “I've got the flu” and mean one thing, and your doctor hears another. You buy “probiotics” without knowing exactly what they are, trusting the pharmacist or the label. Putnam reminds you that your words are tied to the world and to the people around you, and that sometimes a disagreement isn't about ideas at all, but about what the word is actually pointing to.",
+    "related": [
+      "wittgenstein",
+      "equivocation"
+    ],
+    "sources": [
+      "Hilary Putnam, 'The Meaning of \"Meaning\"', Minnesota Studies in the Philosophy of Science 7 (1975)",
+      "Tyler Burge, 'Individualism and the Mental', Midwest Studies in Philosophy 4 (1979)",
+      "Jerry Fodor, Psychosemantics (1987)",
+      "Stanford Encyclopedia of Philosophy: Externalism About the Mind"
+    ]
+  },
+  {
+    "slug": "utility-monster",
+    "title": "The Utility Monster",
+    "by": "Robert Nozick, Anarchy, State, and Utopia, 1974",
+    "story": "Imagine a strange creature living in your neighborhood who feels happiness many times more intensely than any human. If you eat a slice of cake, you're a little happy. If it eats the slice, it's a thousand times happier than you. Same with money, time and houses. No matter how much we take from ourselves and give to it, the happiness it gains outweighs what we lose.",
+    "question": "If our goal is the most happiness in the world, do we give the monster everything?",
+    "options": [
+      "Yes, the math is the math",
+      "No, something's wrong with the math itself"
+    ],
+    "views": [
+      {
+        "who": "Robert Nozick",
+        "says": "He invented the monster to expose a problem with utilitarianism: if all that matters is total happiness, we'd have to sacrifice everyone for one creature that feels more. That looks wrong, so something must be missing from the theory."
+      },
+      {
+        "who": "John Rawls",
+        "says": "Three years earlier, in A Theory of Justice, he'd made a related point: utilitarianism treats society as if it were one big person, and doesn't take seriously that each of us is a separate individual with a life of our own. The monster's joy doesn't make up for someone else's misery."
+      },
+      {
+        "who": "Defenders of utilitarianism",
+        "says": "They reply that the monster is impossible in real life, because the more anyone has, the less each extra bit makes them happy. And our gut reactions to sci-fi stories like this aren't strong evidence. A related view that Derek Parfit laid out and was sympathetic to, called “prioritarianism,” gives extra weight to the happiness of those who are worse off, which shrinks the monster's advantage a lot, though not always completely."
+      }
+    ],
+    "why": "In some families, one sibling is loud and slow to calm down, so everyone keeps the peace at everyone else's expense. At work, one “more important” department eats the whole budget. And as people start asking whether AI might someday “feel,” the question comes back: should whoever feels the most get the most? Nozick's answer: each person has rights, not just a share of the total.",
+    "related": [
+      "utilitarianism",
+      "social-contract",
+      "kant"
+    ],
+    "sources": [
+      "Robert Nozick, Anarchy, State, and Utopia (1974), p. 41",
+      "John Rawls, A Theory of Justice (1971)",
+      "Derek Parfit, 'Equality or Priority?', The Lindley Lecture, University of Kansas (delivered 1991; published 1995)",
+      "Stanford Encyclopedia of Philosophy: The History of Utilitarianism"
+    ]
+  }
+]

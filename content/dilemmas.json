@@ -1,0 +1,578 @@
+[
+ {
+  "slug": "lost-wallet",
+  "title": "The Wallet in the Cab",
+  "scene": "You find a wallet on the back seat of a cab with $500 in cash and no cards or ID. The cab has already driven off, and there's no way to figure out who it belongs to.",
+  "question": "What do you do?",
+  "options": [
+   "Turn it in to the nearest police station or lost-and-found, even if it probably won't make it back to the owner",
+   "Give it to someone who really needs it, or donate it"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics (Kant)",
+    "text": "The money isn't yours. And if everyone followed the rule “Take what isn't yours when nobody's watching,” trust between people would collapse. So you do what duty says, whatever the outcome."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "The question is which choice does the most good. If the money truly can't get back to its owner, letting it go to someone in need might do more good. But you also have to count the harm if everyone thought this way."
+   },
+   {
+    "school": "Virtue ethics (Aristotle)",
+    "text": "Ask yourself: what would the honest person I want to be do here? This decision isn't only about the money. It's about the kind of person you're building on the inside."
+   }
+  ]
+ },
+ {
+  "slug": "friend-cheating",
+  "title": "Your Friend on the Exam",
+  "scene": "You see your best friend cheating on a major exam. If he gets caught, he could be expelled. Other classmates studied hard, and his cheating hurts them in the class rankings.",
+  "question": "What do you do?",
+  "options": [
+   "Talk to him myself after the exam and tell him it's wrong, without reporting him",
+   "Report it to the proctor or the school"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Fairness is a duty, and your other classmates have rights. Staying silent could count as taking part in the unfairness, even if the cheater is your friend."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "Human relationships carry real moral weight. Confronting your friend yourself and trying to set him straight may be kinder and more useful than reporting him."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Weigh the outcomes: the harm of expulsion to your friend, against the harm to your classmates, against the chance the cheating keeps happening if nobody stops it."
+   }
+  ]
+ },
+ {
+  "slug": "trolley",
+  "title": "The Runaway Trolley",
+  "scene": "You're standing next to a track switch. A trolley car with failed brakes is heading toward five workers on the track. If you pull the switch, it'll go onto another track where there's only one worker.",
+  "question": "Do you pull the switch?",
+  "options": [
+   "Yes, I pull it. One is better than five",
+   "No, I stay out of it. I won't be the one who chose who dies"
+  ],
+  "views": [
+   {
+    "school": "Utilitarianism",
+    "text": "Five lives are more than one. Whatever choice reduces the number of deaths is the right one."
+   },
+   {
+    "school": "Duty ethics",
+    "text": "There's a difference between letting something bad happen and doing something that kills someone. Many people feel that steering death toward someone who was otherwise safe isn't your call to make."
+   },
+   {
+    "school": "Note",
+    "text": "This is the famous “trolley problem,” introduced by the philosopher Philippa Foot in 1967 and developed by Judith Jarvis Thomson. Most people pull the switch here. But when the scenario changes a little, like having to push someone with your own hands, most refuse, even though the numbers are the same."
+   }
+  ]
+ },
+ {
+  "slug": "white-lie",
+  "title": "The White Lie",
+  "scene": "Your friend bought an expensive dress for a wedding, and she loves it. She asks you, “Does it look good on me?” Honestly, you don't think it does, and the wedding is tomorrow, so there's no time to change it.",
+  "question": "What do you say?",
+  "options": [
+   "Tell the truth, gently",
+   "Say it looks great. The truth won't help now"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Kant held that lying is always wrong, even small lies, because it treats the other person as if they can't handle the truth."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "If the truth won't change anything right now except upset her, then this small lie reduces pain and doesn't hurt anyone."
+   },
+   {
+    "school": "Virtue ethics",
+    "text": "Honesty is a virtue, and so is kindness. Practical wisdom means finding words that are honest and kind at the same time, like praising something about her look tonight that really does work."
+   }
+  ]
+ },
+ {
+  "slug": "wrong-email",
+  "title": "The Email You Weren't Supposed to Get",
+  "scene": "You and a coworker are both up for the same promotion. Your manager accidentally emails you your coworker's performance review, and it points out a major weakness. If you use it in your interview, your chances go way up.",
+  "question": "What do you do?",
+  "options": [
+   "Delete the email and tell my manager I got it by mistake",
+   "Use the information. They made the mistake, not me"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Winning with information that was never meant to reach you is unfair to your coworker, even though you did nothing to get it."
+   },
+   {
+    "school": "Social contract",
+    "text": "Work runs on unspoken rules that everyone competes on equal footing. If you break that rule, you lose the right to complain when someone does it to you."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Weigh what you gain against the harm to your coworker, and against the damage to your reputation if it comes out later."
+   }
+  ]
+ },
+ {
+  "slug": "old-parent",
+  "title": "The Parent Who Needs Care",
+  "scene": "Your father is getting older and needs care around the clock. You've got a dream job offer in another state, and it won't come around again. Your siblings aren't able to take on the responsibility.",
+  "question": "What do you do?",
+  "options": [
+   "Turn down the offer and stay with my father",
+   "Take the offer and use the new salary to arrange care for my father"
+  ],
+  "views": [
+   {
+    "school": "Ethics of care",
+    "text": "Close relationships create special duties. Staying with your father isn't just a practical decision. It's an expression of the relationship itself."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "If the new job would pay for better professional care and a better future for the whole family, it may be the choice that does more good."
+   },
+   {
+    "school": "Virtue ethics",
+    "text": "Loyalty is a virtue, and pursuing your own potential is also part of a good life. The question is: what balance can you live with, without regret?"
+   }
+  ]
+ },
+ {
+  "slug": "self-driving",
+  "title": "The Self-Driving Car",
+  "scene": "A company is programming a self-driving car. It has to decide: if a crash can't be avoided, should the car protect the passengers inside, or the pedestrians on the street if there are more of them?",
+  "question": "Who should the car protect?",
+  "options": [
+   "The passengers inside the car",
+   "The greater number of people, even if that's the pedestrians"
+  ],
+  "views": [
+   {
+    "school": "Utilitarianism",
+    "text": "The car should minimize the number of victims, whether they're inside or outside."
+   },
+   {
+    "school": "Duty and contract ethics",
+    "text": "Whoever bought the car has a right to expect it won't choose to sacrifice them. And if cars were programmed to sacrifice their passengers, maybe nobody would buy them, which would delay a technology that could save a lot of lives."
+   },
+   {
+    "school": "Note",
+    "text": "A large study called the “Moral Machine” asked millions of people around the world, and found that their answers varied with their culture. In other words, there's no single answer everyone agrees on."
+   }
+  ]
+ },
+ {
+  "slug": "ai-artist",
+  "title": "The Artist and the AI",
+  "scene": "Your friend made a painting with AI, entered it in an art contest and won. He didn't tell anyone he didn't make it by hand.",
+  "question": "Did your friend do something wrong?",
+  "options": [
+   "Yes, it's cheating, because the contest was for handmade art",
+   "No, the idea and the choices were his. The tool doesn't matter"
+  ],
+  "views": [
+   {
+    "school": "Contract and honesty",
+    "text": "If the contest rules, even the unwritten ones, implied the art was made by hand, then staying quiet is a kind of deception."
+   },
+   {
+    "school": "Philosophy of art",
+    "text": "There's an old question: is art in the hand skill, or in the idea and the vision? Many people point out that photography might once have been seen as “cheating,” and today it's a recognized art form."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Weigh your friend's joy against the unfairness to the contestants who painted by hand, and against people's trust in contests."
+   }
+  ]
+ },
+ {
+  "slug": "change-mistake",
+  "title": "The Extra Change",
+  "scene": "You buy $60 worth of groceries at a big supermarket chain and pay with a $100 bill. The cashier hands you $60 back instead of $40. You notice once you're already in the car.",
+  "question": "Do you go back and return the money?",
+  "options": [
+   "Go back. The cashier might have to answer for it",
+   "Not going back. It's a big company, and they made the mistake"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "The money isn't yours, and who made the mistake doesn't change that. “Take what isn't yours if the owner messes up” can't work as a rule for everyone."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Think about who actually gets hurt. In a lot of stores, a drawer that comes up short can get the cashier written up, or worse. So the harm lands on one specific person, not on a corporation."
+   },
+   {
+    "school": "Virtue ethics",
+    "text": "Honesty is built in the small moments nobody sees. Ask yourself: do you want to be the person who goes back, or the one who says “Not my problem”?"
+   }
+  ]
+ },
+ {
+  "slug": "sick-day",
+  "title": "The Sick Day",
+  "scene": "You're not sick, but you're completely stressed out and need a day off. Your company doesn't allow last-minute time off unless it's a sick day.",
+  "question": "Do you call in sick?",
+  "options": [
+   "No. I'll go in, or honestly ask for a regular day off, even if it gets denied",
+   "Yes. Mental health is health too"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Saying you're sick when you're not is a lie, and lying treats your manager as if they have no right to know the truth."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "If a day of rest prevents a bigger breakdown or mistakes at work, the benefit to everyone may outweigh the harm of a small lie."
+   },
+   {
+    "school": "Social contract",
+    "text": "Maybe the real problem is the rule itself. When rules don't recognize stress, people turn to lying. The deeper fix is pushing for a fairer rule."
+   }
+  ]
+ },
+ {
+  "slug": "neighbor-noise",
+  "title": "The Noisy Neighbor",
+  "scene": "Your upstairs neighbor makes noise every night until 2 a.m. You've talked to him twice, and nothing changed. And you've got an important exam next week.",
+  "question": "What do you do?",
+  "options": [
+   "File a complaint with the landlord or the city",
+   "Put up with it and try other ways. Good neighbors matter"
+  ],
+  "views": [
+   {
+    "school": "Rights ethics",
+    "text": "You have a right to peace in your own home. Standing up for that right through official channels, after you've tried a friendly conversation, isn't shameful or hostile."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "Relationships with neighbors last for years. Maybe there's something you don't know about, like a new baby or a night-shift job. Trying to understand more might solve it better than a complaint."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Weigh the harm to you and your exam against the harm a fight does to the relationship. Sometimes an official complaint fixes the problem fast without anyone losing much."
+   }
+  ]
+ },
+ {
+  "slug": "secret-friend",
+  "title": "Your Friend's Secret",
+  "scene": "Your best friend told you a secret: he's quitting his job and moving across the country without telling his family. Two days later, his mom calls you, very worried, and asks if you know anything.",
+  "question": "Do you tell her?",
+  "options": [
+   "No, a secret is a trust",
+   "Yes, or at least let her know he's okay"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "You promised to keep this secret, and that's a commitment. Breaking it without a strong reason erodes the trust people depend on."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "His mom's worry is real, and she has a place in your friend's life. You might find a middle path: talk to your friend and push him to call his family himself."
+   },
+   {
+    "school": "Note",
+    "text": "Most philosophers think a secret can be broken if someone's life is in real danger. The question here: is this a dangerous situation, or just a painful one?"
+   }
+  ]
+ },
+ {
+  "slug": "exam-leak",
+  "title": "The Leaked Exam",
+  "scene": "The night before the exam, someone posts a photo in the class group chat that looks like the exam questions. Nobody's sure if it's real.",
+  "question": "Do you open the photo?",
+  "options": [
+   "No, I won't open it",
+   "I'll open it. If it's real, everyone's seen it anyway"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "If the questions are real, using them is cheating, even if everyone else does it. What's right isn't decided by how many people are doing it."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "If everyone saw the questions and you didn't, your ranking takes a hit. But if everyone thought this way, the whole exam would lose its value."
+   },
+   {
+    "school": "Note",
+    "text": "Notice that “everyone's doing it” is the same appeal-to-popularity (bandwagon) fallacy you'll find in the Atlas. Spotting that doesn't settle the question by itself, but it's worth thinking twice."
+   }
+  ]
+ },
+ {
+  "slug": "used-car",
+  "title": "The Problem Nobody Asked About",
+  "scene": "You're selling your used car. It has a transmission problem that'll show up in a few months, the buyer didn't ask about it, and the car looks great.",
+  "question": "Do you tell the buyer about the problem?",
+  "options": [
+   "Yes, even if the price drops",
+   "No, it's on them to get it inspected before they buy"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Staying silent about a problem you know about is deception, even if you never tell an outright lie. The buyer is deciding based on incomplete information that you're hiding."
+   },
+   {
+    "school": "Market and contract",
+    "text": "One view says buying and selling is a negotiation, and each side looks out for itself. But in the US, even when a private sale is “as is,” actively hiding a known defect can open the door to claims of fraud or misrepresentation, depending on the state. (This isn't legal advice.)"
+   },
+   {
+    "school": "Virtue ethics",
+    "text": "An honest seller's reputation is worth more than the price difference. Ask yourself: if the buyer were your brother, would you tell him?"
+   }
+  ]
+ },
+ {
+  "slug": "promise-vs-help",
+  "title": "The Promise and the Emergency",
+  "scene": "You promised your son you'd be at his school concert today, and he's been looking forward to it all week. On the way, you come across a car accident where someone is hurt and needs a ride to the hospital.",
+  "question": "What do you do?",
+  "options": [
+   "Take them to the hospital, even if I miss the concert",
+   "Call 911 and keep driving to the concert"
+  ],
+  "views": [
+   {
+    "school": "Conflicting duties (Ross)",
+    "text": "The philosopher W. D. Ross said we have many duties, like keeping promises and helping people in need, and when they clash, we have to weigh which one is stronger in that situation."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "Saving a life or preventing serious injury matters far more than a child's disappointment, even if his disappointment is real."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "Your promise to your son is part of his trust in you. If you decide to help, tell him afterward what happened. That's a bigger lesson in ethics than the concert itself."
+   }
+  ]
+ },
+ {
+  "slug": "lifeboat",
+  "title": "The Lifeboat",
+  "scene": "A ship has gone down, and you're in a lifeboat built for 6 with 7 people in it. If all seven stay, the boat could sink with everyone aboard.",
+  "question": "What's the answer?",
+  "options": [
+   "We all stay and try, even if the risk is high",
+   "Someone has to go so the rest can live"
+  ],
+  "views": [
+   {
+    "school": "Utilitarianism",
+    "text": "If the odds that everyone drowns are high, saving 6 beats losing 7. The numbers decide here."
+   },
+   {
+    "school": "Duty ethics",
+    "text": "No one has the right to decide that someone else dies. A person might choose to sacrifice themselves, but no one can be forced."
+   },
+   {
+    "school": "Note",
+    "text": "This dilemma resembles a real American case from 1842, United States v. Holmes, in which crew members threw passengers out of an overcrowded lifeboat. The court convicted a sailor of manslaughter and said that if someone had to go, the choice couldn't be left to one side; it had to be made fairly, for example by drawing lots."
+   }
+  ]
+ },
+ {
+  "slug": "ai-homework",
+  "title": "Homework by AI",
+  "scene": "Your son, who's in middle school, wrote his entire essay assignment with AI and got a perfect score. The school never said it wasn't allowed.",
+  "question": "What do you do?",
+  "options": [
+   "Have him redo it himself, because the point is to learn",
+   "Let it go. It's a tool, and the school didn't ban it"
+  ],
+  "views": [
+   {
+    "school": "Virtue ethics",
+    "text": "The assignment isn't about the grade. It's about learning to write and think. If the tool did all the work, he got the grade and lost the skill."
+   },
+   {
+    "school": "Pragmatism",
+    "text": "The world is changing, and these tools will be part of work in the future. Maybe what matters more is learning to use them well, not being kept away from them."
+   },
+   {
+    "school": "Honesty",
+    "text": "Even without an explicit rule, the teacher assumes those words are your son's. Staying quiet creates a false impression."
+   }
+  ]
+ },
+ {
+  "slug": "robin-hood",
+  "title": "A Modern Robin Hood",
+  "scene": "An employee discovers that his company is illegally overcharging customers. He could tweak the system and refund the customers without anyone knowing.",
+  "question": "Should he do it?",
+  "options": [
+   "No, he should report it through official channels",
+   "Yes, justice matters more than rules"
+  ],
+  "views": [
+   {
+    "school": "Rule of law",
+    "text": "If everyone decided to take justice into their own hands, the chaos would be more dangerous than the original wrong. The legal route is slower, but it protects everyone."
+   },
+   {
+    "school": "Consequentialism",
+    "text": "The customers really were wronged, and getting their money back is a good outcome. But there's a risk he makes a mistake or gets punished, and the evidence of the company's wrongdoing gets lost."
+   },
+   {
+    "school": "Note",
+    "text": "In the US, there are official routes for situations like this, such as the Federal Trade Commission and your state attorney general's consumer protection office."
+   }
+  ]
+ },
+ {
+  "slug": "famous-friend",
+  "title": "Your Influencer Friend",
+  "scene": "An old friend of yours got big on social media and asked you to promote his product to your followers. You tried the product, and you didn't like it.",
+  "question": "Do you post the ad?",
+  "options": [
+   "No, I won't promote something I don't believe in",
+   "Yes, I'll do him a favor and keep it vague without lying"
+  ],
+  "views": [
+   {
+    "school": "Duty ethics",
+    "text": "Your followers trust your opinion. Giving the impression you believe in something you don't is deception, even if no single sentence is a lie."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "Friendship has value. You might find a way to help him without lying, like giving him your honest opinion and helping him improve the product."
+   },
+   {
+    "school": "Note",
+    "text": "In the US, the FTC's guidelines on endorsements say an endorsement has to reflect the endorser's honest opinion, and that a personal or paid connection should be disclosed. So this isn't only an ethics question."
+   }
+  ]
+ },
+ {
+  "slug": "organ-list",
+  "title": "The Waiting List",
+  "scene": "You're a doctor, and you have one kidney available for transplant. There are two patients: one is 25 and has been waiting two months, and the other is 60 and has been waiting three years.",
+  "question": "Who gets it?",
+  "options": [
+   "The younger one. They'll get more years out of it",
+   "The one who's waited longer. Wait your turn means wait your turn"
+  ],
+  "views": [
+   {
+    "school": "Utilitarianism",
+    "text": "The kidney will give the young patient more years of life. If our goal is the greatest benefit, it goes to the young patient."
+   },
+   {
+    "school": "Justice and equality",
+    "text": "Every life has equal value, and age isn't the measure. A waiting list is a fair system that people trust."
+   },
+   {
+    "school": "Note",
+    "text": "In reality, most transplant systems around the world use several criteria together: medical compatibility, time on the waiting list and the patient's condition. And the decision isn't in the hands of a single doctor."
+   }
+  ]
+ },
+ {
+  "slug": "wedding-money",
+  "title": "The Wedding Money",
+  "scene": "You and your fiancée have $30,000 saved. Your families want a big wedding that uses all of it, and the two of you think it would be better spent on a down payment or starting a business.",
+  "question": "What do you do?",
+  "options": [
+   "A simple wedding, and the money goes to the future",
+   "A big wedding. It's a once-in-a-lifetime day, and the families will be hurt otherwise"
+  ],
+  "views": [
+   {
+    "school": "Personal autonomy",
+    "text": "It's your life and your money, so it's your decision. Your families get a say, but not the final word."
+   },
+   {
+    "school": "Care and community ethics",
+    "text": "For a lot of families, a wedding isn't just a party for two. It's an event for the whole family. Hurting your parents has a real cost to the relationship."
+   },
+   {
+    "school": "Note",
+    "text": "Notice that “either a huge wedding or no wedding” can turn into the false dilemma fallacy (black-and-white thinking). There are plenty of options in between."
+   }
+  ]
+ },
+ {
+  "slug": "report-colleague",
+  "title": "The Coworker Who Steals Time",
+  "scene": "Your coworker clocks in and then leaves early every day. He's dealing with a tough situation at home, and his work does get done, but it's against the rules.",
+  "question": "Do you report him?",
+  "options": [
+   "No, I'll talk to him myself and give him some advice",
+   "Yes, the rules apply to everyone"
+  ],
+  "views": [
+   {
+    "school": "Fairness",
+    "text": "The rest of your coworkers follow the rules, and this is unfair to them. Looking the other way teaches people that rules are optional."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "A person's circumstances are part of the picture. Talking to him might solve the problem without hurting him, like encouraging him to formally request flexible hours."
+   },
+   {
+    "school": "Utilitarianism",
+    "text": "The work does get done, so the harm to the company is small. But if it comes out later, you could be held accountable for knowing."
+   }
+  ]
+ },
+ {
+  "slug": "lost-dog",
+  "title": "The Dog You Found",
+  "scene": "You found a lost dog on the street and took him home. A month later you're really attached, and then you see a post from his owner looking for him. But from the post, it looks like the owner was neglecting him.",
+  "question": "Do you give him back?",
+  "options": [
+   "Yes, he's the owner's dog",
+   "No, the dog's life is better with me"
+  ],
+  "views": [
+   {
+    "school": "Property and duty",
+    "text": "In most places, the dog legally still belongs to his owner, and judging him as neglectful based on one post might be a rushed call."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "The animal's own well-being matters too. You could talk to the owner, find out what's really going on, and offer to adopt the dog if he can't take care of it."
+   },
+   {
+    "school": "Note",
+    "text": "Notice that judging the owner from a single post could involve a “hasty generalization” or an “attribution error.” Maybe he was going through something."
+   }
+  ]
+ },
+ {
+  "slug": "truth-diagnosis",
+  "title": "Telling the Patient the Truth",
+  "scene": "Your father has a serious illness, and the doctors told you. He's very sensitive and anxious, and he asks you point-blank: “Do I have something serious?”",
+  "question": "Do you tell him the truth?",
+  "options": [
+   "Yes, gently. He has a right to know",
+   "No, I'll keep it from him to protect his peace of mind"
+  ],
+  "views": [
+   {
+    "school": "Autonomy",
+    "text": "The patient is in charge of his own life and treatment. Hiding the truth takes away his chance to decide how to live the time ahead."
+   },
+   {
+    "school": "Ethics of care",
+    "text": "How and when you say it is part of compassion. You could share the truth in stages, with the doctor there, and with support around him."
+   },
+   {
+    "school": "Note",
+    "text": "Modern medical ethics leans toward the patient's right to know his condition. This isn't a diagnosis or medical advice; a decision like this is made together with the medical team."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1062 @@
+[
+  {
+    "slug": "ads",
+    "title": "7 Days to Stop Getting Played by Ads",
+    "intro": "Every ad tries to stir something in you before you think. In 7 days you'll learn the 7 most common tricks, and you'll start seeing them everywhere.",
+    "days": [
+      {
+        "entry": "anchoring",
+        "lesson": "“Was $90, now $39.” That first number is there to be an anchor, so everything after it looks cheap.",
+        "task": "Today, the first time you see a discount, ask: if I'd never seen the old price, would $39 still look cheap?",
+        "q": {
+          "q": "A phone is labeled “Was $1,499, now $899.” Which question breaks the spell of the first number?",
+          "opts": [
+            "What percent off is that?",
+            "Would this phone be worth $899 to me if I'd never seen the $1,499?",
+            "When does the sale end?"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "decoy-effect",
+        "lesson": "The medium popcorn at the movies isn't really there to be sold. It's there to make the large look like a deal.",
+        "task": "Find a price menu with three options and try to figure out which one is the decoy.",
+        "q": {
+          "q": "Gym membership: 1 month for $50, 6 months for $290, or 1 year for $300. Why is the 6-month option probably there?",
+          "opts": [
+            "Because most people pick it",
+            "Because the gym makes the most money on it",
+            "To make the yearly plan look like a steal next to it"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "bandwagon",
+        "lesson": "“Best seller” and “a million people tried it” don't tell you the product is good. They tell you a lot of people bought it.",
+        "task": "Today, count how many ads use the number of customers instead of telling you what the product actually does.",
+        "q": {
+          "q": "An ad says “Over a million customers chose us.” What does that sentence prove?",
+          "opts": [
+            "That lots of people bought it, not that it's right for you",
+            "That it's the best product on the market",
+            "That nobody has ever complained about it"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "authority-bias",
+        "lesson": "The white coat in a commercial doesn't necessarily belong to a doctor. And even if it does, that person is being paid.",
+        "task": "When you see an expert in an ad, ask: are they an expert in this exact thing? And are they being paid to say it?",
+        "q": {
+          "q": "A toothpaste ad shows someone in a white coat saying “I recommend it.” What should you think first?",
+          "opts": [
+            "White coat, so it must be a dentist",
+            "Are they really a specialist? And are they getting paid to say this?",
+            "If a doctor said it, that settles it"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "framing",
+        "lesson": "“95% fat-free” and “contains 5% fat” are the exact same fact. The first one just sells better.",
+        "task": "Take a line from an ad and rewrite it the opposite way. Is it still convincing?",
+        "q": {
+          "q": "One yogurt says “97% sugar-free.” Another says “contains 3% sugar.” What's the difference?",
+          "opts": [
+            "No difference. It's the same fact, worded differently",
+            "The first one has less sugar",
+            "The second one is more accurate"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "loss-aversion",
+        "lesson": "“Offer ends tonight.” “Don't miss out.” Ads scare you about losing, because a loss stings more than a gain feels good.",
+        "task": "If you feel like you have to buy something right now today, wait 24 hours and see whether the feeling sticks around.",
+        "q": {
+          "q": "You get a text: “Your reward points expire tomorrow unless you make a purchase today.” What is this playing on?",
+          "opts": [
+            "The decoy effect",
+            "Anchoring",
+            "Loss aversion"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "halo-effect",
+        "lesson": "The actor you love isn't an expert on cooking oil or banking. But your fondness for them rubs off on the product.",
+        "task": "Think of the last thing you bought because of someone famous. Would you have bought it if a regular person had been in the ad?",
+        "q": {
+          "q": "A famous NFL star appears in ads for an investing company. Why do so many people find the ad convincing?",
+          "opts": [
+            "Because he must know a lot about investing",
+            "Because our admiration for him on the field rubs off on the company",
+            "Because the company is guaranteed to be safe"
+          ],
+          "a": 1
+        }
+      }
+    ],
+    "level": "Beginner"
+  },
+  {
+    "slug": "arguments",
+    "title": "7 Days to Win Arguments Without Being a Jerk",
+    "intro": "A discussion isn't a fight. In 7 days you'll learn to spot the tricks that wreck any conversation, and answer them without raising your voice.",
+    "days": [
+      {
+        "entry": "straw-man",
+        "lesson": "Step one in any discussion: make sure you've understood the other person correctly before you respond.",
+        "task": "In your first disagreement today, say “So what you're saying is…?” before you reply.",
+        "q": {
+          "q": "You said “Tests need more questions that check understanding,” and someone replied, “So you want to get rid of tests?!” What's the best response?",
+          "opts": [
+            "“Yes, let's get rid of them.”",
+            "“You just don't get it.”",
+            "“No. I said add more understanding questions, not get rid of tests.”"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "ad-hominem",
+        "lesson": "When someone attacks you instead of answering your point, it usually means they don't have an answer.",
+        "task": "Scroll through the comments on any post and notice how many replies attack the person instead of the idea.",
+        "q": {
+          "q": "In a discussion about traffic, someone replies: “You don't even own a car, so why are you talking?” What's going on in that reply?",
+          "opts": [
+            "Ad hominem",
+            "Straw man",
+            "Shifting the burden of proof"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "false-dilemma",
+        "lesson": "“You're either with me or against me.” There are almost always more than two options.",
+        "task": "When someone boxes you into two choices, look for a third.",
+        "q": {
+          "q": "“Either you study 10 hours a day, or you fail.” What's wrong with this?",
+          "opts": [
+            "Nothing. That's just the truth",
+            "There are other options, like studying fewer hours with more focus",
+            "You actually need to study 12 hours"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "whataboutism",
+        "lesson": "“Well, what about so-and-so?” moves the conversation somewhere else. A good reply: “Fair, let's talk about that later. Let's finish this first.”",
+        "task": "Try that reply once today, or notice who uses this move.",
+        "q": {
+          "q": "You tell your manager your team's projects are running late, and they reply, “Well, isn't the sales team even further behind?” What is this move called?",
+          "opts": [
+            "“You too”",
+            "Black-and-white thinking",
+            "“What about…?”"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "burden-of-proof",
+        "lesson": "Whoever makes the claim has to bring the evidence. It's not your job to prove them wrong.",
+        "task": "When someone says “Prove me wrong,” answer: “You made the claim. Show me your evidence.”",
+        "q": {
+          "q": "Your friend says, “Green tea cures diabetes, and you can't prove it doesn't.” Who has to provide the evidence?",
+          "opts": [
+            "Your friend, because they made the claim",
+            "You, because you're the one doubting it",
+            "Nobody. It's just a matter of opinion"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "tu-quoque",
+        "lesson": "“Well, you do it too” might be true, but it doesn't make the point itself wrong.",
+        "task": "Think of advice you rejected because the person giving it didn't follow it. Was the advice itself right?",
+        "q": {
+          "q": "Your dad says “Quit smoking,” and you answer, “But you smoke!” What does that change about the advice?",
+          "opts": [
+            "It proves the advice is wrong",
+            "Nothing. Smoking is harmful whether he smokes or not",
+            "It makes the advice only half right"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "fallacy-fallacy",
+        "lesson": "The last lesson is the most important: someone using a fallacy doesn't mean their view is wrong. They could be right for a bad reason.",
+        "task": "In a discussion today, instead of saying “That's a fallacy,” look for the strongest argument that could support the other side.",
+        "q": {
+          "q": "Someone says, “We should drink plenty of water, because my mom said so.” That's a weak argument. What does that mean?",
+          "opts": [
+            "The argument is bad, but the idea itself could still be right",
+            "So drinking water doesn't matter",
+            "So we should do the opposite"
+          ],
+          "a": 0
+        }
+      }
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "slug": "news",
+    "title": "7 Days to Read the News Without Panicking",
+    "intro": "News stories and posts scare and generalize more than reality does. In 7 days you'll learn to read any story with a calm head.",
+    "days": [
+      {
+        "entry": "availability",
+        "lesson": "If the news talks about something a lot, it feels like it happens a lot. But most talked-about isn't the same as most common.",
+        "task": "Pick a story that scared you today and look for a number: how often does this actually happen?",
+        "q": {
+          "q": "After a week of shark attack headlines, you're nervous about swimming at the beach. What's the first question to ask?",
+          "opts": [
+            "How often do shark attacks happen compared with how many people swim every year?",
+            "Why isn't anyone doing something?",
+            "I'll just stay out of the ocean, period"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "negativity-bias",
+        "lesson": "Bad news grabs your attention far more than good news. That's not a flaw in you. It's a brain that evolved to survive.",
+        "task": "Write down 3 good things that happened in the news today. You'll find it surprisingly hard, and that's the lesson.",
+        "q": {
+          "q": "A news site notices that scary headlines get far more clicks. What is it exploiting?",
+          "opts": [
+            "Confirmation bias",
+            "The availability heuristic",
+            "Negativity bias"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "anecdotal-evidence",
+        "lesson": "“My cousin had this happen” is a story, not a statistic. Stories move us, but they don't prove anything.",
+        "task": "When you hear a story used as evidence today, ask: and how many people did this not happen to?",
+        "q": {
+          "q": "A post says: “My neighbor took this new cold medicine and felt sick for a week, so it's dangerous.” What's the problem?",
+          "opts": [
+            "No problem. It really happened",
+            "One story tells you nothing about the thousands who took it and were fine",
+            "We'd need two neighbors before we believe it"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "hasty-generalization",
+        "lesson": "One video of one incident says nothing about an entire group of people or a whole profession.",
+        "task": "Find a post that generalizes from a single case, and write a polite reply to it.",
+        "q": {
+          "q": "A video of a delivery driver yelling at a customer goes viral, and the comments say, “All delivery drivers are like this.” What's this called?",
+          "opts": [
+            "Hasty generalization",
+            "The halo effect",
+            "Cherry-picking"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "false-cause",
+        "lesson": "Two things happening one after the other doesn't mean one caused the other.",
+        "task": "Find a headline with “after” or “because of” in it, and ask: could a third factor be behind both?",
+        "q": {
+          "q": "Headline: “Break-ins rose in the neighborhood after the new mall opened.” Before you believe the mall caused it, what do you ask?",
+          "opts": [
+            "How big is the mall?",
+            "Who owns the mall?",
+            "Did anything else change, like the population or the way police log reports?"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "cherry-picking",
+        "lesson": "Anyone can pick the numbers that suit them and leave out the rest. The question is: where's the rest of the picture?",
+        "task": "On any chart you see today, look at the time range it shows. If you zoomed out, would the picture change?",
+        "q": {
+          "q": "A chart shows a price plunging, but it only covers the last 3 days. What's the right question?",
+          "opts": [
+            "Who made the chart?",
+            "If I looked at a full year, would it still look like this?",
+            "Why did they pick those colors?"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "confirmation-bias",
+        "lesson": "We believe stories that agree with us without checking them. It's the most dangerous bias when it comes to reading the news.",
+        "task": "Today, read one article by someone you disagree with, all the way to the end, without replying.",
+        "q": {
+          "q": "A story lands in the family group chat that backs up your opinion, so you forward it to every group you're in without checking. What's most likely behind that?",
+          "opts": [
+            "The halo effect",
+            "Negativity bias",
+            "Confirmation bias"
+          ],
+          "a": 2
+        }
+      }
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "slug": "philosophy-intro",
+    "title": "Intro to Philosophy in 7 Days",
+    "level": "Beginner",
+    "intro": "Philosophy isn't big words in heavy books. It's questions we ask every day without noticing. In 7 days you'll meet 7 ideas that changed how humans think, and you'll try each one out in your own day.",
+    "days": [
+      {
+        "entry": "socrates",
+        "lesson": "Socrates didn't hand out answers. He kept asking “What do you mean by that?” until people realized they didn't understand what they thought they understood.",
+        "task": "In your first conversation today, when someone uses a big word like “respectful” or “successful,” calmly ask: “What exactly do you mean by that?”",
+        "q": {
+          "q": "What was Socrates best known for doing?",
+          "opts": [
+            "Asking questions until people rethought their ideas",
+            "Writing lots of books",
+            "Giving lectures with ready-made answers"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "plato",
+        "lesson": "Plato thought what we see around us might be just a shadow of a deeper reality, like people chained in a cave who see only shadows on the wall.",
+        "task": "Pick something you're very sure of and ask: how do I know it? Did I see it myself, or is it a “shadow” someone described to me?",
+        "q": {
+          "q": "In Plato's cave, what did the chained prisoners see?",
+          "opts": [
+            "The sun",
+            "Shadows on the wall",
+            "The world outside the cave"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "aristotle",
+        "lesson": "Aristotle said virtue usually sits in the middle between two bad extremes: courage between cowardice and recklessness, generosity between stinginess and wastefulness.",
+        "task": "Pick one of your traits and think: are you closer to too little, too much, or the middle?",
+        "q": {
+          "q": "For Aristotle, where does courage sit?",
+          "opts": [
+            "In recklessness",
+            "In never being afraid of anything",
+            "In the middle, between cowardice and recklessness"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "stoicism",
+        "lesson": "The Stoics split the world in two: things in your control, like your judgments and your reactions, and things outside it, like traffic and other people's opinions.",
+        "task": "Today, every time you get annoyed, ask: is this in my control or not? Then spend your energy only on what is.",
+        "q": {
+          "q": "Which of these is “in your control,” according to the Stoics?",
+          "opts": [
+            "Your reaction to what happened",
+            "Tomorrow's weather",
+            "What people think of you"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "descartes",
+        "lesson": "Descartes decided to doubt everything he possibly could, to find a solid foundation to build on. He found that the one thing he couldn't doubt was that he was thinking, and therefore he existed.",
+        "task": "Pick something you heard today and doubt it for real: what could make it wrong?",
+        "q": {
+          "q": "What did Descartes find he could not doubt?",
+          "opts": [
+            "That his senses never fool him",
+            "That he was thinking, so he existed",
+            "That everything he'd been taught was true"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "kant",
+        "lesson": "Kant proposed a test for any action: if everyone did what you're doing, would the world still work? He also said people must be treated as ends in themselves, never merely as tools.",
+        "task": "Before doing something “small” today, like cutting in line, ask: what would happen if everyone did this?",
+        "q": {
+          "q": "What does Kant's test for any action ask?",
+          "opts": [
+            "Will this make me happy?",
+            "Will anyone see me?",
+            "If everyone did it, would it still work?"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "existentialism",
+        "lesson": "The existentialists said humans are born without a ready-made meaning, and we create ourselves through our choices. Huge freedom, and even bigger responsibility.",
+        "task": "Write down one choice you made today, and under it: what does this choice say about the person I want to be?",
+        "q": {
+          "q": "For the existentialists, where does the meaning of your life come from?",
+          "opts": [
+            "From your own choices",
+            "It was written before you were born",
+            "From what other people think of you"
+          ],
+          "a": 0
+        }
+      }
+    ]
+  },
+  {
+    "slug": "know-your-brain",
+    "title": "Know Your Brain",
+    "level": "Beginner",
+    "intro": "Your brain is fast and clever, but it takes shortcuts that trip it up in predictable ways. In 7 days you'll meet 7 of them and start catching them as they happen.",
+    "days": [
+      {
+        "entry": "confirmation-bias",
+        "lesson": "Your brain looks for whatever confirms what you already believe, and slides right past whatever contradicts it.",
+        "task": "Pick an opinion you're sure about, find the strongest argument against it today, and read it all the way through without replying.",
+        "q": {
+          "q": "What does confirmation bias mean?",
+          "opts": [
+            "You change your mind quickly",
+            "You look for things that agree with what you already think",
+            "You doubt everything"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "availability",
+        "lesson": "Whatever gets talked about a lot and sticks in your head feels common, even when it's rare.",
+        "task": "Pick something you're afraid of and look up a real number: how often does it actually happen?",
+        "q": {
+          "q": "Why are so many people more afraid of flying than driving?",
+          "opts": [
+            "Because flying is more dangerous by the numbers",
+            "Because cars never crash",
+            "Because plane crashes get far more news coverage and stick in memory"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "base-rate-neglect",
+        "lesson": "When you hear a description of someone, you forget to ask: how many people like that are there in the first place? The description grabs your attention, and the base rates get forgotten.",
+        "task": "Today, when you judge someone or something by how it “looks,” ask: out of everyone, how many does this actually describe?",
+        "q": {
+          "q": "Someone is quiet and loves books. Are they more likely a librarian or a salesperson?",
+          "opts": [
+            "A salesperson, because there are far more salespeople",
+            "Definitely a librarian",
+            "Exactly equal odds"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "anchoring",
+        "lesson": "The first number you hear becomes an anchor, and every estimate after it circles around it.",
+        "task": "Before you ask the price of something today, guess it yourself first and write it down.",
+        "q": {
+          "q": "The salesperson says, “This is $200, but I'll do it for you at $120.” What role is the $200 playing?",
+          "opts": [
+            "It's definitely a real discount",
+            "It's an anchor that makes $120 look cheap",
+            "It's what the product costs to make"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "hindsight",
+        "lesson": "After something happens, you feel like you “knew it all along.” But that's your brain rewriting the memory.",
+        "task": "Write down one prediction today about something that will happen this week. Keep the note and check it at the end of the week.",
+        "q": {
+          "q": "Saying “I knew that would happen” after the game is usually a sign of what?",
+          "opts": [
+            "That you can predict the future",
+            "That you're a sports expert",
+            "Hindsight bias, the “knew-it-all-along” effect"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "fundamental-attribution",
+        "lesson": "When someone else messes up, you think “they're careless.” When you mess up, you think “circumstances.” That's the fundamental attribution error.",
+        "task": "The next time someone annoys you today, look for one thing about their situation that could explain what they did.",
+        "q": {
+          "q": "A driver cuts you off. Which thought pushes back against the attribution error?",
+          "opts": [
+            "Maybe they're dealing with some kind of emergency",
+            "They're obviously a jerk",
+            "All drivers around here are like that"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "self-serving-bias",
+        "lesson": "We credit our successes to our own skill and blame our failures on luck and other people. It protects how we feel about ourselves, but it keeps us from learning.",
+        "task": "Think of your last success and your last failure. For each, write one cause that came from you and one from outside.",
+        "q": {
+          "q": "A student who passed says “I'm smart,” and when he fails he says “The test was unfair.” What's this called?",
+          "opts": [
+            "Humility",
+            "Self-serving bias",
+            "Critical thinking"
+          ],
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "slug": "money-decisions",
+    "title": "Money Decisions",
+    "level": "Intermediate",
+    "intro": "Money isn't just math. Your brain brings its biases and feelings to every money decision. In 7 days you'll learn 7 traps that drain your wallet without you noticing, from credit card rewards to “Pay in 4.” This is practice in thinking, not financial or investment advice.",
+    "days": [
+      {
+        "entry": "sunk-cost",
+        "lesson": "You've already put a lot into something, so you keep going even when it's losing, so the money “isn't wasted.” But what you paid is gone either way.",
+        "task": "Think of a subscription or anything else you keep paying for just because you've already paid so much. Ask: if I were starting from zero today, would I sign up?",
+        "q": {
+          "q": "You paid for a concert ticket, and on the day of the show you feel awful. What's the clear-headed way to think about it?",
+          "opts": [
+            "I have to go so the money isn't wasted",
+            "Buy a ticket to a sooner show",
+            "The money is spent either way. I'll decide based on how I feel right now"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "loss-aversion",
+        "lesson": "Losing $500 hurts more than winning $500 feels good. That can make you cling to losing bets and shy away from good decisions, like panicking every time you check your 401(k) after a bad week.",
+        "task": "Today, when you turn something down because “I might lose,” write next to it: and what could I gain? Then compare them calmly.",
+        "q": {
+          "q": "What does loss aversion mean?",
+          "opts": [
+            "A loss hurts more than a gain of the same size feels good",
+            "You never lose",
+            "You love taking risks"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "scarcity",
+        "lesson": "“Only 3 left in stock” and “deal ends in 1 hour” make things seem more valuable, because your brain values whatever is rare.",
+        "task": "If you see “limited quantity” today, ask: if this were available all year, would I still buy it?",
+        "q": {
+          "q": "The product page says “Only 2 left!” What is it playing on?",
+          "opts": [
+            "The product's quality",
+            "A sense of scarcity",
+            "A lower price"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "decoy-effect",
+        "lesson": "Sometimes an option is put in the middle not to be sold, but to make the pricier option look like a deal.",
+        "task": "On the first price menu you see, mentally remove one option and see if your choice changes.",
+        "q": {
+          "q": "Coffee: small $2.95, medium $4.75, large $4.95. Why is the medium probably there?",
+          "opts": [
+            "Because it's the best seller",
+            "Because the shop loses money on it",
+            "To make the large look like a steal"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "gamblers-fallacy",
+        "lesson": "“I've lost 5 times in a row, so I'm due for a win.” But each round is independent, and luck doesn't keep a ledger.",
+        "task": "If you hear someone say “I'm due” at a casino, a scratch-off, or a fantasy league, think: does the coin or the dice remember what happened before?",
+        "q": {
+          "q": "A fair coin lands tails 5 times in a row. What are the odds of heads on the next flip?",
+          "opts": [
+            "Exactly 50%",
+            "More than 50%",
+            "Less than 50%"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "planning-fallacy",
+        "lesson": "We almost always estimate that a project will take less time and money than it really does, even when we've been through it before. The kitchen remodel that will “be done in a month” is a classic.",
+        "task": "Take an upcoming expense or project, and instead of asking “What will it cost?”, ask: “What did something similar actually cost last time?”",
+        "q": {
+          "q": "What's the best way to fight the planning fallacy?",
+          "opts": [
+            "Be more optimistic",
+            "Look at similar projects from the past and how long they really took",
+            "Shrink the budget to pressure yourself"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "second-order",
+        "lesson": "The first result of a decision isn't the only one. Splitting a purchase into four “interest-free” payments feels easy this month, but what happens when you've stacked five of them? Always ask: “And then what?”",
+        "task": "Before any Buy Now, Pay Later purchase or new subscription, write down: what happens in a month? And in a year?",
+        "q": {
+          "q": "What does second-order thinking ask?",
+          "opts": [
+            "Will this decision make me happy right now?",
+            "Who did this before me?",
+            "And then what? What happens after the first result?"
+          ],
+          "a": 2
+        }
+      }
+    ]
+  },
+  {
+    "slug": "health-quackery",
+    "title": "Health and Hype",
+    "level": "Intermediate",
+    "intro": "Detox teas, miracle supplements, and “the cure doctors don't want you to know about” are all over your feed. In 7 days you'll learn to spot the tricks wellness hucksters use. Important: this is practice in thinking, not medical advice. Make any decision about your health or treatment with a doctor, and never stop a medication without asking them first.",
+    "days": [
+      {
+        "entry": "appeal-to-nature",
+        "lesson": "“100% natural” doesn't mean safe. Some plants and mushrooms are natural and poisonous. And natural products can also interact with medications you take.",
+        "task": "Read the label of a product that says “natural” and look for what it says about safety or dosage. If you take any medication, ask a doctor or pharmacist before combining them.",
+        "q": {
+          "q": "“This product is natural, so it has no side effects.” What's going on in that sentence?",
+          "opts": [
+            "The appeal-to-nature fallacy",
+            "Nothing wrong with it",
+            "Enough scientific evidence"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "anecdotal-evidence",
+        "lesson": "“My aunt tried it and got better” is a story, not a study. She may have gotten better for other reasons, and you'll never hear from the people it didn't help.",
+        "task": "If someone tells you today about a remedy that “worked like magic,” ask: and how many people tried it and got nothing?",
+        "q": {
+          "q": "Why isn't a personal story enough to show that a treatment works?",
+          "opts": [
+            "Because people always lie",
+            "Because we don't know how many people tried it with no result, or what else might explain the improvement",
+            "Because stories are boring"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "regression-to-mean",
+        "lesson": "People try the unusual remedy when they feel their worst. And many aches get better on their own after they peak. So the improvement gets credited to the remedy, when it was coming anyway.",
+        "task": "Think of a time you tried something when you felt your worst and then improved. Could you have gotten better without it? You don't need the answer. The question is what matters.",
+        "q": {
+          "q": "Someone drinks an herbal tonic on the worst day of a cold, and the next day feels better. Which possibility should we consider?",
+          "opts": [
+            "The tonic must be the reason",
+            "Colds never get better on their own",
+            "Maybe the cold was going to improve after its peak anyway"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "false-cause",
+        "lesson": "Two things happening one after the other doesn't mean the first caused the second. “Ever since I started wearing this bracelet, my back feels better” could be a coincidence.",
+        "task": "Find a health ad or influencer post that says “after I started using it,” and ask: what else could explain the improvement?",
+        "q": {
+          "q": "“Ever since I cut out that food, my headaches went away.” What's the first question to ask?",
+          "opts": [
+            "Did anything else change at the same time?",
+            "Should I cut out other foods too?",
+            "That food must be poison"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "authority-bias",
+        "lesson": "Someone in a white coat in a video isn't proof on their own. Ask: are they a specialist in this exact topic? And do they profit from selling the product?",
+        "task": "If you see a “doctor” promoting a product today, ask both questions: what's their specialty? And do they profit from the sale?",
+        "q": {
+          "q": "A “doctor” in an Instagram ad is selling a supplement. What's the most important question?",
+          "opts": [
+            "Is he wearing a white coat?",
+            "Is he a specialist in this topic, and does he profit from the sale?",
+            "Does he sound convincing?"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "falsifiability-test",
+        "lesson": "If a product “cures everything,” and when it doesn't work it's because “you didn't use it right,” then the claim is built so it can never be proven wrong. That's a red flag.",
+        "task": "Take a health claim you've heard and ask: what result would make the person admit they were wrong? If there isn't one, be careful.",
+        "q": {
+          "q": "The seller says: “If it didn't work, you just weren't committed enough.” What does that tell you?",
+          "opts": [
+            "The claim is very strong",
+            "You need to buy another bottle",
+            "The claim is built so it can never be proven wrong"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "burden-of-proof",
+        "lesson": "Whoever says “this blend cures diabetes” has to bring the evidence. It's not your job to prove it doesn't. Real treatments are tested in studies before they're sold.",
+        "task": "If someone says “Prove it doesn't work,” answer: “You're the one selling it. Show me the evidence.” And for anything involving your health, ask a doctor.",
+        "q": {
+          "q": "Who has to prove that a new treatment works?",
+          "opts": [
+            "The person claiming it works",
+            "The person who doubts it",
+            "Nobody. It's enough that people have tried it"
+          ],
+          "a": 0
+        }
+      }
+    ]
+  },
+  {
+    "slug": "social-media",
+    "title": "Social Media Without Getting Sucked In",
+    "level": "Beginner",
+    "intro": "Apps are designed to keep you scrolling. In 7 days you'll learn the tricks that hook you and the mistakes your brain makes while you scroll, and you'll be the one holding the phone again.",
+    "days": [
+      {
+        "entry": "survivorship",
+        "lesson": "You only see the people who made it: the one who quit their job, started a business, and got rich. The one who quit and went broke doesn't make a TikTok about it.",
+        "task": "If you see a success story today, ask: where are the people who did the same thing and didn't make it?",
+        "q": {
+          "q": "“Everyone who dropped out of college to start a company succeeded.” What's wrong with that?",
+          "opts": [
+            "Nothing",
+            "We never see the ones who dropped out and failed",
+            "College makes no difference at all"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "spotlight-effect",
+        "lesson": "You think everyone noticed the post you deleted or the unflattering photo. In reality, everyone is busy thinking about themselves.",
+        "task": "Think of a post or comment you once worried about. Does anyone still remember it? Do you remember other people's posts from last month?",
+        "q": {
+          "q": "What does the spotlight effect mean?",
+          "opts": [
+            "People really are watching you all the time",
+            "Brightly lit photos get more likes",
+            "You overestimate how much people notice you"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "bandwagon",
+        "lesson": "A million likes doesn't mean something is true. It means a million people tapped a button.",
+        "task": "Before you share something today, cover the like count with your thumb and ask: if this post had only 3 likes, would I believe it?",
+        "q": {
+          "q": "A post has 100,000 shares. What does that prove?",
+          "opts": [
+            "That it's popular, nothing more",
+            "That it's true",
+            "That the person who posted it is an expert"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "barnum-effect",
+        "lesson": "“You're a sensitive person but you hide it, and you have untapped potential.” That fits almost anyone, which is why personality quizzes and horoscopes feel so accurate.",
+        "task": "If you come across a “What's your personality type?” quiz today, read the result to someone next to you and ask: does this fit you?",
+        "q": {
+          "q": "Why do online personality quiz results feel so accurate?",
+          "opts": [
+            "Because they're very scientific",
+            "Because they're written in general terms that fit almost anyone",
+            "Because they read your mind"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "negativity-bias",
+        "lesson": "Upsetting posts and scary headlines grab your brain more. And the apps notice when you stop on them, so they show you more.",
+        "task": "After 15 minutes of scrolling today, ask yourself: how do I feel right now? Better or worse than before I opened the app?",
+        "q": {
+          "q": "Why do outrage posts spread more?",
+          "opts": [
+            "Because they're always right",
+            "Because they're shorter",
+            "Because our brains pay more attention to the negative"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "groupthink",
+        "lesson": "In a group, when everyone agrees, nobody wants to be the different voice. So the whole group can follow a bad idea without anyone objecting.",
+        "task": "In one of your group chats, think about the last time someone disagreed with the majority. What happened to them? And if you disagreed and kept quiet, why?",
+        "q": {
+          "q": "When does groupthink happen?",
+          "opts": [
+            "When people are afraid to disagree because they don't want to be left out",
+            "When the group is small",
+            "When nobody talks at all"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "moving-goalposts",
+        "lesson": "You bring the evidence they asked for, and they say, “No, I want something else.” It happens all the time in comment sections, and it means the argument never ends.",
+        "task": "Before you jump into a comment-section debate today, ask the other person: “What evidence would change your mind?” If the answer is nothing, save your time.",
+        "q": {
+          "q": "You send them the study they asked for, and they say, “That's not enough, I want 10.” What's this called?",
+          "opts": [
+            "Scientific thinking",
+            "Moving the goalposts",
+            "Humility"
+          ],
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "slug": "parents",
+    "title": "For Parents: Teach Your Kids to Think",
+    "level": "Beginner",
+    "intro": "Critical thinking can be learned early, through games and questions, not lectures. For 7 days, there's one simple activity a day to do with your kids at dinner or in the car. Adjust it to their age.",
+    "days": [
+      {
+        "entry": "appeal-to-majority",
+        "lesson": "“All my friends have one” is one of the first arguments kids learn. It's a great chance to teach them that popular isn't always right.",
+        "task": "Play a game: each person names something “everybody does,” and the others decide: is it that way because it's right, or just because everyone does it?",
+        "q": {
+          "q": "Your son says, “Everyone in my class has this phone.” Which response teaches him to think?",
+          "opts": [
+            "“No, end of discussion.”",
+            "“I'll get you one tomorrow.”",
+            "“Even if they all have it, is that by itself a good enough reason it's right for you?”"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "false-cause",
+        "lesson": "Kids connect things fast: “I wore these socks and my team won, so they're my lucky socks.” That's a great doorway to understanding cause and effect.",
+        "task": "Ask your kids about something they think is “lucky,” and talk it through: if we wore different socks, would the team definitely lose? Why not?",
+        "q": {
+          "q": "“Every time I wash the car, it rains.” What's the lesson here?",
+          "opts": [
+            "Two things happening one after another doesn't mean one caused the other",
+            "Washing the car makes it rain",
+            "Never wash the car again"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "hasty-generalization",
+        "lesson": "“Boys are all annoying,” because one boy bothered your daughter. We often teach kids to generalize from one incident without meaning to.",
+        "task": "When your child generalizes today, calmly ask: “All of them? Or one? Do you know anyone who's different?” And have them count on their fingers.",
+        "q": {
+          "q": "After a fight with one girl, your daughter says, “All the girls on the bus are mean.” What do you say?",
+          "opts": [
+            "“You're right.”",
+            "“Who exactly? Is anyone on the bus nice to you?”",
+            "“Don't talk to any of them.”"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "ad-hominem",
+        "lesson": "“You're just a crybaby,” instead of answering what was said. Kids do it in their fights, and so do adults.",
+        "task": "At dinner, tell a story: a kid shares a great idea, but he isn't popular in class. Does that make the idea bad? Let everyone give their opinion.",
+        "q": {
+          "q": "Her brother says, “Don't listen to him, he's the youngest.” What is that reply attacking?",
+          "opts": [
+            "The point itself",
+            "Nothing at all",
+            "The person, not the point"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "straw-man",
+        "lesson": "“Mom wants me to never play at all!” when you said one hour. Blowing someone's words up into a worse version is a trick that starts early.",
+        "task": "Play “telephone” with a long sentence, then talk about it: how did the message change? And why does it matter to repeat what people said the way they said it?",
+        "q": {
+          "q": "You tell your son, “Only one hour of games today,” and he says, “You want me to never play at all!” What's this called?",
+          "opts": [
+            "A straw man: exaggerating what was said into something that wasn't said",
+            "An innocent question",
+            "A hasty generalization"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "steelman",
+        "lesson": "The opposite of a straw man: stating the other person's view in its best form before you respond. It's a skill that teaches kids to listen before they fight.",
+        "task": "In any disagreement between siblings today, before anyone responds, they have to restate the other's view until the other says, “Yes, that's exactly what I mean.”",
+        "q": {
+          "q": "What does “steelmanning” mean?",
+          "opts": [
+            "Weakening the other person's view",
+            "Stating the other person's view in its strongest form before you respond",
+            "Not responding at all"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "updating-beliefs",
+        "lesson": "The most important lesson: changing your mind when new evidence comes in isn't losing, it's smart. Kids learn this by watching their parents do it.",
+        "task": "Tell your kids about something you used to believe that turned out to be wrong, and how you changed your mind. Then ask: have you ever changed your mind about something?",
+        "q": {
+          "q": "When is changing your mind a good thing?",
+          "opts": [
+            "When someone yells at you",
+            "Never. You should stick to your opinion",
+            "When you get new, stronger evidence"
+          ],
+          "a": 2
+        }
+      }
+    ]
+  },
+  {
+    "slug": "thinking-tools",
+    "title": "Thinking Tools",
+    "level": "Advanced",
+    "intro": "Good scientists, engineers, and detectives carry a toolbox for thinking: simple tools that save them from a lot of trouble. In 7 days you'll pick up 7 tools and try each one on a real situation from your day.",
+    "days": [
+      {
+        "entry": "occams-razor",
+        "lesson": "Occam's razor: if there are two explanations, start with the simpler one that needs fewer assumptions. That doesn't mean it's always right. It means it's the first one to test. The power went out in your building? Probably a fault, not a plot by the neighbors.",
+        "task": "Today, when you catch yourself explaining something with a complicated story, write the simpler explanation next to it and count the assumptions each one needs.",
+        "q": {
+          "q": "What does Occam's razor say?",
+          "opts": [
+            "Start with the explanation that needs fewer assumptions",
+            "The more complicated explanation is the smarter one",
+            "The simplest explanation is always right"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "hanlons-razor",
+        "lesson": "Hanlon's razor: don't blame on bad intent what can be explained by oversight or carelessness. Your friend didn't answer your text? They're probably busy, not mad at you.",
+        "task": "The first time today you feel someone is “doing it on purpose” to bug you, write two explanations that have nothing to do with intent, and ask: which is more likely?",
+        "q": {
+          "q": "A coworker forgot to send you the file. What does Hanlon's razor tell you?",
+          "opts": [
+            "They're obviously trying to sabotage you",
+            "First consider that they may have forgotten or been swamped",
+            "Report them to your manager right away"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "steelman",
+        "lesson": "Before you answer a view, state it in its strongest form, one its holder would agree with. If you can answer that strong version, your answer is worth something.",
+        "task": "Pick a view you disagree with and write the 3 strongest arguments for it. Only then write your response.",
+        "q": {
+          "q": "What's the goal of steelmanning?",
+          "opts": [
+            "Winning the argument by any means",
+            "Avoiding the argument",
+            "Responding to the strongest version of the other view"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "chestertons-fence",
+        "lesson": "Chesterton's fence: if you find a fence in the middle of a road and don't know why it's there, don't tear it down until you find out. There may be an important reason you can't see. The idea comes from a 1929 book by the English writer G. K. Chesterton.",
+        "task": "Find a rule at home or at work that seems pointless. Before you push to get rid of it, ask someone who's been around longer: why was it made in the first place?",
+        "q": {
+          "q": "Before you scrap an old rule, what does Chesterton's fence advise?",
+          "opts": [
+            "Find out why it was made first",
+            "Scrap it right away if you don't like it",
+            "Never scrap any rule, ever"
+          ],
+          "a": 0
+        }
+      },
+      {
+        "entry": "inversion",
+        "lesson": "Instead of asking “How do I succeed?”, flip the question: “What would guarantee that I fail?” Then avoid it. Working backward sometimes shows you what you've been missing.",
+        "task": "Pick one of your goals and write down 5 things that would guarantee you fail at it. You may find you're doing a few of them right now.",
+        "q": {
+          "q": "What does inversion make you ask?",
+          "opts": [
+            "Who is more successful than me?",
+            "What would make me fail, so I can avoid it?",
+            "What will I do tomorrow morning?"
+          ],
+          "a": 1
+        }
+      },
+      {
+        "entry": "second-order",
+        "lesson": "The first result is obvious, but what comes after it? Raising your prices earns you more today, but your customers might go elsewhere next month. Ask “And then what?” twice.",
+        "task": "Take a decision you'll make today, write down its first result, and then the result that first result will lead to.",
+        "q": {
+          "q": "“I'll stay up late and finish the work.” What does second-order thinking add?",
+          "opts": [
+            "The work will get done",
+            "I'll be a hero",
+            "Tomorrow I'll be exhausted, work slower, and make more mistakes"
+          ],
+          "a": 2
+        }
+      },
+      {
+        "entry": "premortem",
+        "lesson": "Before you start any project, imagine it's 6 months later and it failed completely, then ask: what happened? This exercise surfaces problems nobody would have dared to mention.",
+        "task": "Take an upcoming plan, like a wedding, a trip, or a project, and write “The plan failed because…” and finish it 5 times. Then come up with a fix for the most dangerous reason.",
+        "q": {
+          "q": "In a “premortem,” what do you imagine?",
+          "opts": [
+            "That the project failed, and you look for the reasons",
+            "That the project was a huge success",
+            "That the project got canceled before it started"
+          ],
+          "a": 0
+        }
+      }
+    ]
+  }
+]

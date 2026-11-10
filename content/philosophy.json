@@ -1,0 +1,939 @@
+[
+  {
+    "slug": "socrates",
+    "kind": "philosopher",
+    "name": "Socrates",
+    "intl": "Socrates",
+    "era": "Athens, c. 470–399 BCE",
+    "oneLine": "The man who walked around the marketplace asking people questions until they realized they didn't know what they thought they knew.",
+    "idea": "Socrates never wrote a single word. Everything we know about him comes from his students, mainly Plato. His method was to ask: “What is courage? What is justice?” Every time someone answered, he asked another question that showed the definition had a hole in it. The goal wasn't to win the argument. The goal was for both people to understand the thing better. He's credited with the idea that the first step toward wisdom is knowing that you don't know.",
+    "life": "Your friend says, “Dave's a good guy.” You ask, “What makes someone a good guy?” He says, “He coaches Little League and never swears.” You ask, “What if someone never swears but quietly stiffs his contractors?” Now your friend is actually thinking about what “good guy” means. That's the Socratic method.",
+    "useIt": "In any heated argument, try asking before you answer: “What exactly do you mean by that word?” Half of all fights end once both sides realize they're using the same word to mean two different things.",
+    "critique": "Athens sentenced him to death on charges of corrupting the youth and not honoring the city's gods. Some people also find his style more embarrassing than educational: he takes answers apart but rarely offers one of his own.",
+    "related": [
+      "equivocation",
+      "plato",
+      "skepticism"
+    ],
+    "sources": [
+      "Plato, Apology (c. 399 BCE)",
+      "Stanford Encyclopedia of Philosophy: Socrates"
+    ]
+  },
+  {
+    "slug": "plato",
+    "kind": "philosopher",
+    "name": "Plato",
+    "intl": "Plato",
+    "era": "Athens, c. 427–347 BCE",
+    "oneLine": "He believed what we see with our eyes is only shadows, and that the real thing lives in a world of unchanging Forms that we reach through reason.",
+    "idea": "Plato was Socrates' student and wrote down his dialogues. His most famous image is the Allegory of the Cave: people chained in a cave since childhood see only shadows on the wall and take them for reality. If one of them got out and saw the sun, he'd realize everything he knew was an illusion. And if he went back to tell the others, they'd laugh at him or hurt him. Plato also founded the Academy, one of the first great schools in history.",
+    "life": "Someone who spends every evening scrolling Instagram starts to believe everyone else's life is beach trips, brunch and promotions. Those posts are the shadows on the cave wall. Real life, the part off-camera, looks very different.",
+    "useIt": "Before you judge something, ask yourself: am I looking at the thing itself, or at its shadow? Did I read the story, or just the headline and the thumbnail?",
+    "critique": "His own student Aristotle pushed back, arguing there's no need for a separate world of Forms because reality is found in things themselves. And in the Republic, Plato proposed rule by philosophers, which many readers see as a threat to freedom.",
+    "related": [
+      "socrates",
+      "aristotle",
+      "availability"
+    ],
+    "sources": [
+      "Plato, Republic, Book VII",
+      "Stanford Encyclopedia of Philosophy: Plato"
+    ]
+  },
+  {
+    "slug": "aristotle",
+    "kind": "philosopher",
+    "name": "Aristotle",
+    "intl": "Aristotle",
+    "era": "Greece, 384–322 BCE",
+    "oneLine": "“The First Teacher”: the first to lay out the rules of logic, and the thinker who saw virtue as a middle point between two extremes.",
+    "idea": "Aristotle wrote about nearly everything: logic, ethics, politics, biology, poetry. He was the first to set down the rules of the syllogism: if all humans are mortal, and Socrates is a human, then Socrates is mortal. In ethics, he argued that a virtue sits between two vices: courage between cowardice and recklessness, generosity between stinginess and wastefulness. The philosophers of the medieval Arabic-speaking world called him “the First Teacher.”",
+    "life": "One guy puts every group dinner on his credit card to look generous and can't make rent. Another guy has never picked up a check in his life. Neither one is generous. Generosity means giving in the right place, in the right amount.",
+    "useIt": "When you notice yourself leaning hard into a trait, ask: am I in the middle, or have I drifted to an extreme? Too much bluntness turns into rudeness. Too much politeness turns into fakeness.",
+    "critique": "Some of his views on nature turned out to be wrong, like the claim that heavier objects fall faster. He also held views about slaves and women that are rightly rejected today. But his method in logic stayed the foundation for centuries.",
+    "related": [
+      "plato",
+      "virtue-ethics",
+      "ibn-rushd",
+      "false-compromise"
+    ],
+    "sources": [
+      "Aristotle, Nicomachean Ethics, Book II",
+      "Aristotle, Prior Analytics"
+    ]
+  },
+  {
+    "slug": "epicurus",
+    "kind": "philosopher",
+    "name": "Epicurus",
+    "intl": "Epicurus",
+    "era": "Greece, 341–270 BCE",
+    "oneLine": "He said the goal of life is happiness, but for him happiness meant peace of mind, not partying.",
+    "idea": "His name became shorthand for indulgence, which is unfair to him. Epicurus lived very simply: bread, water and friends. His idea was that most of our unhappiness comes from unnecessary desires and from fear, especially fear of death. He sorted desires into three kinds: natural and necessary, like food; natural but not necessary; and empty ones, like fame and piles of money.",
+    "life": "Someone picks up extra shifts so he can upgrade to the newest phone every year, and never has time to hang out with his friends. Epicurus would tell him: you're paying with the most valuable things you own, your time and your peace of mind, for an empty desire.",
+    "useIt": "Before you buy something or chase something, sort it: is this necessary, natural but not necessary, or empty?",
+    "critique": "Some argue his philosophy is a retreat from public life and responsibility. Others say happiness is more than the absence of pain, and that some things are worth struggling for.",
+    "related": [
+      "stoicism",
+      "loss-aversion"
+    ],
+    "sources": [
+      "Epicurus, Letter to Menoeceus",
+      "Stanford Encyclopedia of Philosophy: Epicurus"
+    ]
+  },
+  {
+    "slug": "ibn-sina",
+    "kind": "philosopher",
+    "name": "Avicenna (Ibn Sina)",
+    "intl": "Avicenna",
+    "era": "Bukhara and Hamadan, 980–1037 CE",
+    "oneLine": "The physician-philosopher whose medical textbook was taught in Europe for centuries, and who asked: if you were created floating in midair with no sensations at all, would you still know you exist?",
+    "idea": "Avicenna, known in Arabic as Ibn Sina, was born near Bukhara in Central Asia and worked across Persia. He wrote The Canon of Medicine, which was used in European universities into the 1600s, and The Book of Healing, a huge work of philosophy. His most famous thought experiment is the “Floating Man”: imagine a person created suddenly in midair, eyes closed, touching nothing, not even feeling his own body. Avicenna argued that this person would still know he exists. In other words, self-awareness comes first. It doesn't come from the senses.",
+    "life": "When you sit alone in the dark and hear your own thoughts, you know you exist without needing any outside evidence. Avicenna was trying to catch that moment and understand it.",
+    "useIt": "When you think about the question “Who am I?”, separate what you know about yourself from the inside from what other people have told you. They're not the same thing.",
+    "critique": "Al-Ghazali attacked some of his philosophical views fiercely in The Incoherence of the Philosophers. And modern philosophers point out that the thought experiment may prove nothing, because a person like that wouldn't have any language or concepts to think with in the first place.",
+    "related": [
+      "descartes",
+      "al-ghazali",
+      "rationalism"
+    ],
+    "sources": [
+      "Ibn Sina (Avicenna), The Book of Healing (Kitab al-Shifa), On the Soul (De Anima)",
+      "Stanford Encyclopedia of Philosophy: Ibn Sina [Avicenna]"
+    ]
+  },
+  {
+    "slug": "al-ghazali",
+    "kind": "philosopher",
+    "name": "Al-Ghazali",
+    "intl": "Al-Ghazali",
+    "era": "Tus and Baghdad, 1058–1111 CE",
+    "oneLine": "The scholar who doubted everything he knew in order to find certainty, and wrote about his crisis of doubt with rare honesty.",
+    "idea": "Al-Ghazali was one of the most celebrated scholars of his time in Baghdad when he fell into a crisis of doubt. In his autobiography, Deliverance from Error, he describes asking: how can I trust my senses, when my eye sees a star as tiny even though it's bigger than the Earth? And how can I trust reason itself? He reached total doubt before finding his way out through Sufism, a mystical, experience-based path. In The Incoherence of the Philosophers he criticized thinkers like Avicenna, and he also argued that the link between cause and effect, like fire and burning, is something we see out of habit. We never actually observe a necessary connection.",
+    "life": "You're sure that pressing the elevator button brings the elevator, because you've done it a thousand times. But you've never actually seen the link between the button and the elevator. You've seen one thing happen after another. Al-Ghazali noticed this about 600 years before David Hume did.",
+    "useIt": "When you're very sure about something, ask: how do I actually know this? Did I see it, was I told it, or am I just used to it?",
+    "critique": "Averroes answered him with an entire book, The Incoherence of the Incoherence. Some historians think Al-Ghazali's attack weakened philosophy in the Islamic world. Others think that view is exaggerated and that philosophy stayed very much alive after him.",
+    "related": [
+      "ibn-rushd",
+      "hume",
+      "skepticism",
+      "false-cause"
+    ],
+    "sources": [
+      "Al-Ghazali, Deliverance from Error (al-Munqidh min al-Dalal)",
+      "Al-Ghazali, The Incoherence of the Philosophers (Tahafut al-Falasifa)",
+      "Stanford Encyclopedia of Philosophy: al-Ghazali"
+    ]
+  },
+  {
+    "slug": "ibn-rushd",
+    "kind": "philosopher",
+    "name": "Averroes (Ibn Rushd)",
+    "intl": "Averroes",
+    "era": "Córdoba and Marrakesh, 1126–1198 CE",
+    "oneLine": "The judge and philosopher who explained Aristotle to the world, and argued that careful reasoning and religious belief don't have to be enemies.",
+    "idea": "Averroes, known in Arabic as Ibn Rushd, was a judge, physician and philosopher in Muslim Spain (al-Andalus). His commentaries on Aristotle were so thorough that medieval Europe simply called him “the Commentator.” In The Decisive Treatise he argued that rational inquiry isn't opposed to religion, because truth cannot contradict truth. He answered Al-Ghazali in The Incoherence of the Incoherence. His ideas had a huge influence on European thought, and a whole movement there, Latin Averroism, was named after him.",
+    "life": "If someone tells you, “Don't overthink it, thinking just makes things worse,” Averroes would answer: thinking is a tool. The problem isn't the tool. It's using it badly.",
+    "useIt": "When someone forces you to pick between “science or tradition” or “head or heart,” remember that the choice may be a false one. There's often a third path.",
+    "critique": "Late in life he was exiled and some of his books were burned, for political reasons. And some philosophers think his attempt to reconcile the two sides didn't resolve every conflict.",
+    "related": [
+      "aristotle",
+      "al-ghazali",
+      "false-dilemma"
+    ],
+    "sources": [
+      "Ibn Rushd (Averroes), The Decisive Treatise (Fasl al-Maqal)",
+      "Ibn Rushd (Averroes), The Incoherence of the Incoherence (Tahafut al-Tahafut)",
+      "Stanford Encyclopedia of Philosophy: Ibn Rushd [Averroes]"
+    ]
+  },
+  {
+    "slug": "ibn-khaldun",
+    "kind": "philosopher",
+    "name": "Ibn Khaldun",
+    "intl": "Ibn Khaldun",
+    "era": "Tunis and Cairo, 1332–1406 CE",
+    "oneLine": "One of the first people to ask why states rise and fall, and to insist that a historian should question a report before passing it on.",
+    "idea": "Ibn Khaldun was born in Tunis, served many North African courts, and spent his last years in Cairo as a judge. In his Muqaddimah (“Introduction”) he did something new: instead of just telling history, he tried to find its patterns. His best-known idea is asabiyyah, or group solidarity: a group bound by strong ties can build a state, but after a few generations comfort and luxury loosen those ties, and the state falls. He also criticized historians who repeated impossible stories without asking: could this really have happened?",
+    "life": "Grandpa starts a hardware store from nothing and works himself to the bone. His son grows it into a chain. The grandson, who grew up with everything, runs it into the ground. Americans have a saying for this, “shirtsleeves to shirtsleeves in three generations,” and it's close to Ibn Khaldun's idea.",
+    "useIt": "Before you believe a story, do what Ibn Khaldun did and ask: does this number make sense? Could this even happen the way they say it did?",
+    "critique": "His theory of the cycle of states has been stretched too far; not every state follows that pattern. And some of his judgments about particular peoples reflected the prejudices of his time.",
+    "related": [
+      "hasty-generalization",
+      "in-group",
+      "anecdotal-evidence"
+    ],
+    "sources": [
+      "Ibn Khaldun, The Muqaddimah: An Introduction to History",
+      "Stanford Encyclopedia of Philosophy: Ibn Khaldun"
+    ]
+  },
+  {
+    "slug": "descartes",
+    "kind": "philosopher",
+    "name": "René Descartes",
+    "intl": "René Descartes",
+    "era": "France, the Netherlands and Sweden, 1596–1650",
+    "oneLine": "He decided to doubt everything he possibly could, and found one thing he couldn't doubt: that he was thinking.",
+    "idea": "Descartes wanted a rock-solid foundation for knowledge. So he said: I'll doubt my senses, because they fool me. I'll doubt that I'm awake, because I might be dreaming. I'll even doubt arithmetic. But there's one thing I can't doubt: that someone is doing the doubting. That's where his famous line comes from: “I think, therefore I am.” He also gave us the coordinate system you used in algebra class, which is why it's called the Cartesian plane.",
+    "life": "You wake up from a very realistic dream and need a few seconds to be sure you're actually awake. That's the same question Descartes started with: how do I know this isn't a dream right now?",
+    "useIt": "When you're facing a big decision, try his approach: write down everything you think you know, then cross out anything that could be wrong. What's left is your foundation.",
+    "critique": "His split between mind and body as two separate substances has been heavily criticized, because it doesn't explain how the two affect each other. And some argue that the “I” in “I think” is itself an assumption.",
+    "related": [
+      "ibn-sina",
+      "rationalism",
+      "skepticism"
+    ],
+    "sources": [
+      "Descartes, Meditations on First Philosophy (1641)",
+      "Descartes, Discourse on the Method (1637)"
+    ]
+  },
+  {
+    "slug": "hume",
+    "kind": "philosopher",
+    "name": "David Hume",
+    "intl": "David Hume",
+    "era": "Scotland, 1711–1776",
+    "oneLine": "He pointed out that the sun rising every day so far isn't logical proof it will rise tomorrow, and that we live by habit more than by reason.",
+    "idea": "Hume was an empiricist: all our knowledge comes from experience. But when he looked closely at experience, he found a problem. We see things happen one after another, but we never see the “cause” itself. Expecting the future to be like the past is habit, not logic. This is called the problem of induction. He also wrote that reason is “the slave of the passions,” meaning we decide with our feelings and then reason shows up with the justifications.",
+    "life": "A turkey gets fed every morning at 9 a.m. Day after day, it concludes that food arrives at 9 a.m. Then comes the week before Thanksgiving. The example came after Hume, but it captures his point perfectly.",
+    "useIt": "When you catch yourself saying “That's never happened, so it won't happen,” remember the turkey. The past is a clue, not a guarantee.",
+    "critique": "Kant said Hume woke him from his “dogmatic slumber,” and spent years trying to answer him. Philosophers of science like Karl Popper argued that science doesn't need to solve the problem of induction at all: science tests ideas and tries to prove them false.",
+    "related": [
+      "al-ghazali",
+      "empiricism",
+      "kant",
+      "falsifiability",
+      "false-cause"
+    ],
+    "sources": [
+      "Hume, An Enquiry Concerning Human Understanding (1748)",
+      "Hume, A Treatise of Human Nature (1739)"
+    ]
+  },
+  {
+    "slug": "kant",
+    "kind": "philosopher",
+    "name": "Immanuel Kant",
+    "intl": "Immanuel Kant",
+    "era": "Germany (Prussia), 1724–1804",
+    "oneLine": "He said the right thing to do is whatever you could accept as a rule for everyone, and that a person is always an end in themselves, never just a means.",
+    "idea": "Kant tried to bring the rationalists and the empiricists together. He argued that the mind isn't a blank slate: it organizes experience through built-in frameworks like space, time and causation. In ethics he gave his famous rule, the categorical imperative: act only on a principle you could accept as a universal law. If everyone lied whenever it was convenient, lying itself would stop working, because nobody would believe anybody. He also said: always treat people as ends in themselves, never merely as tools for your goals.",
+    "life": "You're in a hurry, so you want to cut the line at the coffee shop. Ask Kant: if everyone in a hurry cut the line, would there even be a line? No. So it's wrong.",
+    "useIt": "Before you do something you're unsure about, ask: if everyone did this, what would the world look like? And ask: am I using this person, or respecting them?",
+    "critique": "His strict rule leads to hard conclusions; he argued that lying is wrong even to a murderer at your door asking where your friend is hiding. Utilitarians find it unreasonable to ignore consequences that completely.",
+    "related": [
+      "hume",
+      "utilitarianism",
+      "rationalism",
+      "empiricism"
+    ],
+    "sources": [
+      "Kant, Groundwork of the Metaphysics of Morals (1785)",
+      "Kant, Critique of Pure Reason (1781)"
+    ]
+  },
+  {
+    "slug": "nietzsche",
+    "kind": "philosopher",
+    "name": "Friedrich Nietzsche",
+    "intl": "Friedrich Nietzsche",
+    "era": "Germany, 1844–1900",
+    "oneLine": "The philosopher who challenged people to re-examine every value they inherited, and to live a life they'd be glad to repeat forever.",
+    "idea": "Nietzsche wrote in a style closer to poetry than to textbook prose, which is why he's so often misunderstood. He believed modern people had lost the foundation they used to build their values on, and needed to face that with courage instead of sliding into nihilism. One of his ideas is the “eternal recurrence”: if you had to live your exact same life again, and again, a million times, would you be thrilled or horrified? He also wrote that if you have a “why” to live for, you can bear almost any “how.”",
+    "life": "Someone lives to please his parents, his neighbors and his coworkers, and has never once asked himself what he actually wants. Nietzsche would tell him: you inherited those values. Test them before you live by them.",
+    "useIt": "Try the eternal-recurrence question on today: if you had to repeat this exact day forever, what would you change?",
+    "critique": "After his death his sister edited and distorted his writings, and some Nazis used them, even though he had attacked antisemitism and German nationalism. Some critics also worry that his ideas about the “higher” human being can be used to justify cruelty.",
+    "related": [
+      "existentialism",
+      "absurdism",
+      "appeal-to-tradition"
+    ],
+    "sources": [
+      "Nietzsche, The Gay Science (1882), §341",
+      "Nietzsche, Thus Spoke Zarathustra (1883–85)",
+      "Stanford Encyclopedia of Philosophy: Friedrich Nietzsche"
+    ]
+  },
+  {
+    "slug": "stoicism",
+    "kind": "school",
+    "name": "Stoicism",
+    "intl": "Stoicism",
+    "era": "Greece and Rome, from the 3rd century BCE",
+    "oneLine": "Separate what's in your control from what isn't, and spend your energy only on the first.",
+    "idea": "Stoicism was founded in Athens by Zeno of Citium and named after the Stoa, the painted porch where its followers met. Its best-known voices include Epictetus, a formerly enslaved man who became a teacher, and Marcus Aurelius, a Roman emperor. The core idea: some things are up to you, like your opinions, your choices and your reactions. Other things aren't, like traffic, the weather and what people think of you. Unhappiness comes from clinging to the second kind.",
+    "life": "You're stuck in traffic on the freeway and you're going to be late for work. The traffic isn't up to you. What is up to you: sending your boss a quick message, calming down, and putting on a podcast worth hearing. Leaning on the horn won't clear the road.",
+    "useIt": "When something upsets you, split a sheet of paper into two columns: “Up to me” and “Not up to me.” Work only on the first column.",
+    "critique": "Some see it as an excuse to give up and accept injustice instead of fighting it. The Stoics replied that what's in your control includes resisting injustice in the right way.",
+    "related": [
+      "epicurus",
+      "optimism-bias",
+      "negativity-bias"
+    ],
+    "sources": [
+      "Epictetus, Enchiridion",
+      "Marcus Aurelius, Meditations",
+      "Stanford Encyclopedia of Philosophy: Stoicism"
+    ]
+  },
+  {
+    "slug": "skepticism",
+    "kind": "school",
+    "name": "Skepticism",
+    "intl": "Skepticism",
+    "era": "From Pyrrho in ancient Greece to today",
+    "oneLine": "Hold off on judging until the evidence is strong enough, and don't rush to say “definitely.”",
+    "idea": "Ancient skeptics like Pyrrho believed every argument has an equally strong argument against it, so the wise move is to suspend judgment and find peace in that. Later, thinkers like Al-Ghazali and Descartes used philosophical doubt as a tool for reaching certainty. Today, “scientific skepticism” simply means: don't accept a claim without evidence that matches the size of the claim.",
+    "life": "Someone posts in the family group chat that “celery juice on an empty stomach cures high blood pressure for good.” A skeptic won't say it's a lie, and won't say it's true. A skeptic asks: where's the evidence, and who tested it? (And for anything health-related, the person to ask is a doctor, not the group chat.)",
+    "useIt": "Keep three boxes instead of two: “true,” “false,” and “don't know yet.” That third box will protect you from most rumors.",
+    "critique": "Total skepticism undercuts itself: if nothing is certain, then “nothing is certain” isn't certain either. And too much doubt can turn into rejecting things even when the evidence for them is strong.",
+    "related": [
+      "socrates",
+      "al-ghazali",
+      "descartes",
+      "burden-of-proof",
+      "personal-incredulity"
+    ],
+    "sources": [
+      "Sextus Empiricus, Outlines of Pyrrhonism",
+      "Stanford Encyclopedia of Philosophy: Ancient Skepticism"
+    ]
+  },
+  {
+    "slug": "rationalism",
+    "kind": "school",
+    "name": "Rationalism",
+    "intl": "Rationalism",
+    "era": "Europe, 17th century",
+    "oneLine": "Reason is the main source of knowledge, and some things can be known without testing them.",
+    "idea": "Rationalists like Descartes, Spinoza and Leibniz thought the senses can deceive us, and that the most solid knowledge is what we reach through reason alone, like mathematics. You don't need to measure every triangle on Earth to know its angles add up to 180 degrees in the geometry you learned in school. Their big debate was with the empiricists, who argued the opposite.",
+    "life": "If someone tells you, “I've got a square circle,” you don't need to see it to know it's impossible. Your mind figured that out on its own. That's an example of knowledge from reason.",
+    "useIt": "Before you go hunting for an “experiment” to prove something, check first: does this claim contradict itself? Sometimes logic alone is enough to reject it.",
+    "critique": "Empiricists replied that reason alone can build beautiful systems with no connection to reality, and that the history of science is full of “logical” ideas that fell apart once someone tested them.",
+    "related": [
+      "descartes",
+      "empiricism",
+      "kant",
+      "begging-the-question"
+    ],
+    "sources": [
+      "Stanford Encyclopedia of Philosophy: Rationalism vs. Empiricism"
+    ]
+  },
+  {
+    "slug": "empiricism",
+    "kind": "school",
+    "name": "Empiricism",
+    "intl": "Empiricism",
+    "era": "Britain, 17th and 18th centuries",
+    "oneLine": "Everything we know comes from experience and the senses; the mind starts as a blank slate.",
+    "idea": "John Locke said the mind is born like a blank slate, and experience is what writes on it. George Berkeley and David Hume came after him and pushed the idea further. Empiricism is the grandparent of the scientific method: don't claim something until you've tested it and seen it. But Hume showed that if you take empiricism all the way, you run into hard problems, like the problem of induction.",
+    "life": "You'll never know what a mango tastes like from a description, no matter how good the description is. You have to taste it. That's the heart of empiricism.",
+    "useIt": "When you disagree with someone about something that can be measured, stop arguing and propose a test: “Let's try it both ways for a week and see.”",
+    "critique": "Rationalists answered that some knowledge doesn't come from experience at all, like math and logic. Kant said both sides were partly right: experience gives us the material, and the mind gives us the structure.",
+    "related": [
+      "hume",
+      "rationalism",
+      "falsifiability",
+      "anecdotal-evidence"
+    ],
+    "sources": [
+      "John Locke, An Essay Concerning Human Understanding (1689)",
+      "Stanford Encyclopedia of Philosophy: Rationalism vs. Empiricism"
+    ]
+  },
+  {
+    "slug": "utilitarianism",
+    "kind": "school",
+    "name": "Utilitarianism",
+    "intl": "Utilitarianism",
+    "era": "Britain, late 18th and 19th centuries",
+    "oneLine": "The right action is the one that brings the greatest good to the greatest number of people.",
+    "idea": "Jeremy Bentham and John Stuart Mill argued that morality isn't a set of fixed rules; it's a calculation. Which outcome reduces suffering and increases happiness for everyone affected? This idea sits behind many decisions in public health and public policy. Mill added that some pleasures are higher than others, like the pleasure of understanding something compared with the pleasure of a good meal.",
+    "life": "A county has one budget: build one big hospital downtown, or ten small clinics in rural towns? A utilitarian asks: which choice saves more lives?",
+    "useIt": "When you're torn, list everyone your decision affects, and next to each name write what they gain and what they lose. The picture usually gets clearer.",
+    "critique": "If only the total matters, is it okay to wrong one person to make ten people happy? The classic example of a judge who convicts an innocent man to calm an angry crowd shows the problem. And measuring “happiness” is hard in the first place.",
+    "related": [
+      "kant",
+      "virtue-ethics",
+      "social-contract"
+    ],
+    "sources": [
+      "John Stuart Mill, Utilitarianism (1863)",
+      "Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789)"
+    ]
+  },
+  {
+    "slug": "virtue-ethics",
+    "kind": "school",
+    "name": "Virtue Ethics",
+    "intl": "Virtue Ethics",
+    "era": "From Aristotle to today",
+    "oneLine": "Don't only ask “What should I do?” Ask “What kind of person do I want to be?”",
+    "idea": "Instead of Kant's rules or the utilitarians' math, virtue ethics focuses on character. A good person is someone who has built good habits, like courage, honesty, generosity and fairness, until they become part of who they are. Just as you learn to drive by driving, you learn courage by doing small brave things every day. The approach came back strongly in the 20th century with philosophers like Elizabeth Anscombe and Alasdair MacIntyre.",
+    "life": "You don't become honest overnight just because you decided to. You become honest by telling the truth about small things a hundred times, until lying starts to feel strange to you.",
+    "useIt": "Pick one virtue to work on this month, and look every day for one small moment to practice it.",
+    "critique": "It gives you a general direction but doesn't tell you exactly what to do in a tough situation. And what counts as a “virtue” varies from culture to culture.",
+    "related": [
+      "aristotle",
+      "kant",
+      "utilitarianism"
+    ],
+    "sources": [
+      "Aristotle, Nicomachean Ethics",
+      "Stanford Encyclopedia of Philosophy: Virtue Ethics"
+    ]
+  },
+  {
+    "slug": "social-contract",
+    "kind": "school",
+    "name": "Social Contract",
+    "intl": "Social Contract",
+    "era": "Europe, 17th and 18th centuries",
+    "oneLine": "Governments and laws exist because people agreed, at least implicitly, to give up a little freedom in exchange for safety.",
+    "idea": "Thomas Hobbes argued that without government, life would be a “war of every man against every man,” so people hand their freedom to a strong authority that protects them. John Locke said people have natural rights, like life, liberty and property, and that a government that fails to protect them can rightly be replaced. Jean-Jacques Rousseau wrote about the “general will.” In the 20th century, John Rawls revived the idea with his thought experiment, the “veil of ignorance.”",
+    "life": "A four-way stop: each of us gives up the freedom to roll through whenever we feel like it, in exchange for not getting T-boned. It's a tiny social contract we live out every day.",
+    "useIt": "When a rule annoys you, ask: if it didn't exist, what would everyone do? Sometimes you'll find the rule protects you more than it restricts you.",
+    "critique": "None of us actually signed this contract, so how can it bind us? Critics also point out that it was written from the point of view of certain people, and for long stretches it left out women and the poor.",
+    "related": [
+      "utilitarianism",
+      "status-quo",
+      "in-group"
+    ],
+    "sources": [
+      "Thomas Hobbes, Leviathan (1651)",
+      "John Locke, Second Treatise of Government (1689)",
+      "John Rawls, A Theory of Justice (1971)"
+    ]
+  },
+  {
+    "slug": "existentialism",
+    "kind": "school",
+    "name": "Existentialism",
+    "intl": "Existentialism",
+    "era": "Europe, 19th and 20th centuries",
+    "oneLine": "Nobody is going to hand you a ready-made meaning for your life. You're free, and you're responsible for what you do with that freedom.",
+    "idea": "It began with Kierkegaard and Nietzsche and became famous with Jean-Paul Sartre and Simone de Beauvoir in France. Sartre summed it up as “existence precedes essence”: a paper knife is designed for a specific purpose before it's ever made, but a human being exists first and then defines who they are through their choices. That freedom brings anxiety, because you can't hand the responsibility to anyone else.",
+    "life": "“My parents picked my major.” An existentialist would say: okay, but you chose to stay in it for four years, and you're the one who'll choose what to do after graduation.",
+    "useIt": "Notice how many times today you say “I had no choice.” There usually was a choice. It was just a hard one.",
+    "critique": "Some feel it underestimates the real limits of poverty, circumstance and society, as if everyone had the same amount of freedom. Beauvoir herself wrote about how circumstances shape a woman's freedom differently.",
+    "related": [
+      "nietzsche",
+      "absurdism",
+      "fundamental-attribution"
+    ],
+    "sources": [
+      "Jean-Paul Sartre, Existentialism Is a Humanism (1946)",
+      "Simone de Beauvoir, The Ethics of Ambiguity (1947)"
+    ]
+  },
+  {
+    "slug": "absurdism",
+    "kind": "school",
+    "name": "Absurdism",
+    "intl": "Absurdism",
+    "era": "France, 20th century",
+    "oneLine": "We search for meaning, and the universe stays silent. The answer isn't despair; it's to live fully awake anyway.",
+    "idea": "Albert Camus said “the absurd” is the clash between our hunger for meaning and the silence of the universe. He saw three possible responses: escape from life itself, escape into a ready-made answer without thinking it through, or rebel and live with passion despite the absurd. Camus chose the third. His example was Sisyphus, condemned to push a boulder uphill forever, and he concluded: “One must imagine Sisyphus happy.”",
+    "life": "Same commute, same cubicle, same small talk every day. Camus wouldn't tell you to quit. He'd tell you that you can choose to see each day with fresh eyes, and that choice is itself a kind of rebellion.",
+    "useIt": "In the most routine moment of your day, find one thing to genuinely enjoy: your coffee, the light through the window, a kind word.",
+    "critique": "Some people believe the universe isn't silent at all, and that religion or philosophy offers real answers. Others feel Camus's “revolt” is more poetic than practical.",
+    "related": [
+      "existentialism",
+      "nietzsche",
+      "stoicism"
+    ],
+    "sources": [
+      "Albert Camus, The Myth of Sisyphus (1942)",
+      "Stanford Encyclopedia of Philosophy: Albert Camus"
+    ]
+  },
+  {
+    "slug": "pragmatism",
+    "kind": "school",
+    "name": "Pragmatism",
+    "intl": "Pragmatism",
+    "era": "United States, late 19th century",
+    "oneLine": "The meaning of an idea is the difference it makes in practice. If it makes no difference, arguing about it is a waste of time.",
+    "idea": "It was founded by Charles Sanders Peirce, William James and John Dewey. Their idea: instead of arguing about abstractions, ask what would change if the idea were true. How would you act differently? William James told the story of a camping-trip argument about a squirrel clinging to one side of a tree trunk while a man circles the tree trying to see it. Did the man “go around” the squirrel? James showed that the whole fight was about what “around” means.",
+    "life": "Two roommates argue: is it better to study in the morning or late at night? A pragmatist says: try each for a week, and whichever one helped you remember more is the better one for you.",
+    "useIt": "In any long debate, ask: “If I agreed with you, what would I do differently tomorrow?” If the answer is “nothing,” save your time.",
+    "critique": "If “true” just means “what works,” is a comforting lie true? That's the best-known objection, and Bertrand Russell was one of pragmatism's sharpest critics.",
+    "related": [
+      "equivocation",
+      "empiricism",
+      "utilitarianism"
+    ],
+    "sources": [
+      "William James, Pragmatism (1907)",
+      "Stanford Encyclopedia of Philosophy: Pragmatism"
+    ]
+  },
+  {
+    "slug": "moral-relativism",
+    "kind": "school",
+    "name": "Moral Relativism",
+    "intl": "Moral Relativism",
+    "era": "From the Greek Sophists to today",
+    "oneLine": "Do right and wrong change from one society to another, or are some things wrong everywhere and always?",
+    "idea": "Relativists say there's no single moral standard for all humans; what's right is whatever your society considers right. The idea starts from a real observation: customs vary enormously between cultures. But there's an important difference. That people disagree about morality is a descriptive fact. That there's no right or wrong at all is a much bigger philosophical claim.",
+    "life": "In some countries eating with your hands is rude; in others it's perfectly normal. That's a difference in customs. But could torturing a child for fun ever be “right” anywhere? That's where most people feel relativism hits its limits.",
+    "useIt": "When you disagree with someone from another culture, separate customs, which naturally vary, from principles, like not being cruel and not causing harm. Mixing the two up causes a lot of trouble.",
+    "critique": "If relativism is true, then reformers who fought slavery in their own societies were “wrong,” because they went against their society. Many philosophers find that conclusion unacceptable.",
+    "related": [
+      "appeal-to-majority",
+      "appeal-to-tradition",
+      "in-group",
+      "false-compromise"
+    ],
+    "sources": [
+      "Stanford Encyclopedia of Philosophy: Moral Relativism",
+      "James Rachels, The Elements of Moral Philosophy, ch. 2"
+    ]
+  },
+  {
+    "slug": "falsifiability",
+    "kind": "school",
+    "name": "Falsifiability (Karl Popper)",
+    "intl": "Falsifiability (Karl Popper)",
+    "era": "Karl Popper, 20th century",
+    "oneLine": "A scientific theory is one that could be proven wrong. A theory that explains everything explains nothing.",
+    "idea": "Karl Popper asked: what separates science from things that just look like science? His answer: science doesn't prove anything true once and for all. Science makes predictions that could turn out wrong. If a prediction fails, the theory falls. But a theory that can find an explanation for any result, and could never possibly be wrong, isn't science, no matter how convincing it sounds.",
+    "life": "Your horoscope app says, “This week you'll face challenges, but you'll get through them.” Whatever happens to you will seem to fit. That's not because the horoscope is accurate. It's because it can't possibly be wrong.",
+    "useIt": "When someone is trying to convince you of something, ask: “What would have to happen for you to admit you're wrong?” If the answer is “nothing,” that's not information. That's a belief system.",
+    "critique": "Philosophers of science like Thomas Kuhn and Imre Lakatos pointed out that real scientists don't throw out a theory the moment a prediction fails; they adjust it. And the history of science backs them up in many cases.",
+    "related": [
+      "hume",
+      "empiricism",
+      "confirmation-bias",
+      "no-true-scotsman"
+    ],
+    "sources": [
+      "Karl Popper, The Logic of Scientific Discovery (1934/1959)",
+      "Karl Popper, Conjectures and Refutations (1963)"
+    ]
+  },
+  {
+    "slug": "al-farabi",
+    "kind": "philosopher",
+    "name": "Al-Farabi",
+    "intl": "Al-Farabi",
+    "era": "Farab, Baghdad and Damascus, c. 870–950 CE",
+    "oneLine": "Called “the Second Teacher” after Aristotle, he believed a good city is one whose purpose is the happiness of the people who live in it.",
+    "idea": "Al-Farabi was born in Central Asia, spent most of his life in Baghdad, and died in Damascus. He cared deeply about logic, and said logic is to reason what grammar is to language: a set of rules that protects you from mistakes. In The Opinions of the People of the Virtuous City, he compared a city to a human body: every organ has a role, and the whole thing works toward one goal, happiness. Such a city needs a leader with wisdom and knowledge, not just power. Its opposites are the “ignorant cities,” whose only goal is money, or pleasure, or domination.",
+    "life": "Your HOA: if every homeowner only thinks about their own house, the pool stays broken and the common areas fall apart. Al-Farabi would say the neighborhood is a “small city” that needs a shared goal and someone competent to run it, not whoever sends the angriest emails.",
+    "useIt": "Look at any group you belong to, at work, at home, or online: what is its real goal? Money? Image? Or making the people in it better? Write the answer down honestly.",
+    "critique": "His virtuous city borrows heavily from Plato's Republic and has the same problem: everyone has a fixed place, and power sits with a “wise” elite. Who decides who's wise? And what stops that person from becoming a tyrant?",
+    "related": [
+      "plato",
+      "aristotle",
+      "ibn-sina"
+    ],
+    "sources": [
+      "Al-Farabi, The Opinions of the People of the Virtuous City (Mabadi' Ara' Ahl al-Madina al-Fadila)",
+      "Al-Farabi, The Enumeration of the Sciences (Ihsa' al-'Ulum)",
+      "Stanford Encyclopedia of Philosophy: al-Farabi"
+    ]
+  },
+  {
+    "slug": "ibn-tufayl",
+    "kind": "philosopher",
+    "name": "Ibn Tufayl",
+    "intl": "Ibn Tufayl",
+    "era": "Al-Andalus and Marrakesh, early 12th century–1185 CE",
+    "oneLine": "He wrote the story of a child growing up alone on an island who reaches life's biggest questions through his own reasoning and observation.",
+    "idea": "Ibn Tufayl was a physician and court official for the Almohad rulers in Marrakesh, and he's the one who introduced Averroes to the caliph. His best-known work is a philosophical novel, Hayy ibn Yaqzan (roughly “Alive, Son of Awake”): a boy raised by a gazelle on an island with no other people. When the gazelle dies, he opens her body to find out what had kept her alive. Through observation and trial and error he learns about fire, animals and the stars, and eventually reasons his way to questions about the origin of the universe. The story asks: can a human reach knowledge through reason alone? It was translated into Latin in 1671 and spread across Europe.",
+    "life": "A kid takes the TV remote apart, piece by piece, to see how it works. His parents yell at him, but he's doing exactly what Hayy did: asking a question and going after the answer with his own hands.",
+    "useIt": "Pick something you use every day without understanding how it works, like the fridge or your Wi-Fi. First try to figure it out by observation, then look it up and compare your guess with the real answer.",
+    "critique": "What we know today about children raised in isolation suggests they don't develop language or complex thinking on their own. The mind needs other people. The end of the story also implies that most people can't handle the truth, which is a pretty elitist view.",
+    "related": [
+      "ibn-rushd",
+      "ibn-sina",
+      "empiricism"
+    ],
+    "sources": [
+      "Ibn Tufayl, Hayy ibn Yaqzan",
+      "Lenn Evan Goodman (trans.), Ibn Tufayl's Hayy Ibn Yaqzan: A Philosophical Tale (1972)"
+    ]
+  },
+  {
+    "slug": "taha-hussein",
+    "kind": "philosopher",
+    "name": "Taha Hussein",
+    "intl": "Taha Hussein",
+    "era": "Minya, Cairo and Paris, 1889–1973",
+    "oneLine": "Known as “the Dean of Arabic Literature,” he applied methodical doubt to inherited tradition and fought to make education a right for everyone.",
+    "idea": "Taha Hussein, one of modern Egypt's most influential writers, lost his sight as a small child in a village in Minya, south of Cairo. He studied at the traditional al-Azhar university, then at the new Egyptian University, and later in France. From Descartes he took the idea of starting your research by doubting everything you've been told until evidence proves it. He applied this in On Pre-Islamic Poetry (1926), asking whether poems credited to the pre-Islamic era, before the 7th century, were really that old, or were composed later. The book caused a huge uproar, and he revised and republished it as On Pre-Islamic Literature. In The Future of Culture in Egypt he argued that education is the foundation of a nation's progress. As Egypt's minister of education in 1950, he became known for the line “education is like water and air,” and free public education was expanded.",
+    "life": "Someone shares an inspirational quote on Facebook with “— Mark Twain” underneath. Taha Hussein would ask: says who? Which book, which letter? Or is everyone just passing it along? A huge share of the quotes credited to famous people online have no known source at all.",
+    "useIt": "Take something “everybody knows” in your field or your family. Ask: who said it first, and when? If you can't find a source, file it under “needs proof” until you do.",
+    "critique": "Many scholars think his doubt about early Arabic poetry went too far: some poems were indeed forged later, but not most of them, as he implied. Others have noted that the British scholar D. S. Margoliouth had made a similar argument a year earlier.",
+    "related": [
+      "descartes",
+      "skepticism",
+      "appeal-to-tradition"
+    ],
+    "sources": [
+      "Taha Hussein, On Pre-Islamic Poetry (Fi al-Shi'r al-Jahili, 1926)",
+      "Taha Hussein, The Future of Culture in Egypt (Mustaqbal al-Thaqafa fi Misr, 1938)",
+      "Taha Hussein, The Days (al-Ayyam), autobiography"
+    ]
+  },
+  {
+    "slug": "zaki-naguib-mahmoud",
+    "kind": "philosopher",
+    "name": "Zaki Naguib Mahmoud",
+    "intl": "Zaki Naguib Mahmoud",
+    "era": "Damietta, Cairo and London, 1905–1993",
+    "oneLine": "The Egyptian philosopher who argued that any sentence you can't check by experience has no meaning at all, and later went back to his own heritage looking for what was still useful.",
+    "idea": "Zaki Naguib Mahmoud earned his PhD in London and came home a passionate logical positivist. The idea: a sentence has meaning only if you can check it by experience, like “water boils at 212°F at sea level,” or if it's true by definition, like “a square has four sides.” A statement that no possible experience could confirm or refute isn't false; it's empty of meaning. He laid this out in The Myth of Metaphysics (1953). Later, in Renewing Arab Thought (1971), his tone changed: he argued for keeping the parts of the Arab intellectual tradition that support scientific thinking and setting aside the parts that don't.",
+    "life": "An ad for a bracelet from a made-up brand, AuraBand, says it “recharges your positive energy.” Zaki Naguib Mahmoud would ask: what test could we run to find out whether that's true or false? If no test is even possible, the sentence isn't saying anything at all.",
+    "useIt": "Take any claim you heard today and ask: “What experiment or observation could confirm this or rule it out?” If there's no possible test, be careful: the sentence may not be saying anything.",
+    "critique": "The best-known objection to logical positivism: the principle “a sentence must be checkable by experience” can't itself be checked by experience. So the principle undercuts itself. That's one reason the movement faded in Western philosophy, and Zaki Naguib Mahmoud himself softened his strict version over time.",
+    "related": [
+      "empiricism",
+      "falsifiability",
+      "wittgenstein"
+    ],
+    "sources": [
+      "Zaki Naguib Mahmoud, The Myth of Metaphysics (Khurafat al-Mitafiziqa, 1953)",
+      "Zaki Naguib Mahmoud, Renewing Arab Thought (Tajdid al-Fikr al-'Arabi, 1971)",
+      "Stanford Encyclopedia of Philosophy: Vienna Circle"
+    ]
+  },
+  {
+    "slug": "abdel-rahman-badawi",
+    "kind": "philosopher",
+    "name": "Abdel Rahman Badawi",
+    "intl": "Abdel Rahman Badawi",
+    "era": "Damietta, Cairo and Paris, 1917–2002",
+    "oneLine": "The Egyptian philosopher who brought existentialism into Arabic, and believed every person is a unique existence, not a number in a crowd.",
+    "idea": "Badawi was born in a village in Egypt's Nile Delta and studied philosophy at Fuad I University (today Cairo University). His 1944 doctoral thesis, Existential Time, was strongly influenced by Heidegger. His idea was that a human being isn't a fixed object like a chair; a person is an existence that unfolds in time, through choices, anxiety and freedom. What matters is the individual, not “what people say.” Beyond existentialism, he wrote, edited and translated an enormous number of books, including medieval Arabic translations of ancient Greek texts, and books on Nietzsche and others. He lived for many years in Paris and returned to Cairo a few months before his death in 2002.",
+    "life": "Someone squeezed into a packed subway car at rush hour in New York feels like nobody, one copy out of millions. Badawi would tell him: the crowd is what makes you forget you're an individual. You're not “one of the people.” You're the only one who will ever live this life of yours.",
+    "useIt": "Count how many decisions you made this week because “that's what everyone does.” Pick one and ask yourself: if no one were watching, what would I have done?",
+    "critique": "Critics said his existentialism was mostly Heidegger rendered into Arabic, rather than a philosophy growing out of Egyptian life. His style in these books is also dense and abstract, so they reached only a small circle of specialists.",
+    "related": [
+      "existentialism",
+      "nietzsche",
+      "bandwagon"
+    ],
+    "sources": [
+      "Abdel Rahman Badawi, Existential Time (al-Zaman al-Wujudi)",
+      "Abdel Rahman Badawi, The Story of My Life (Sirat Hayati, 2000)"
+    ]
+  },
+  {
+    "slug": "john-locke",
+    "kind": "philosopher",
+    "name": "John Locke",
+    "intl": "John Locke",
+    "era": "England, 1632–1704",
+    "oneLine": "He said the mind is born like a blank sheet of paper, and that a government's legitimacy comes from the consent of the people.",
+    "idea": "Locke is one of the most important empiricists. In An Essay Concerning Human Understanding, he argued that we aren't born with any ideas: the mind starts like a blank sheet, and experience writes on it. In politics, in his Two Treatises of Government, he said people have natural rights to life, liberty and property. People agree to form a government to protect those rights, and if the government betrays that agreement, the people have the right to replace it. He also wrote A Letter Concerning Toleration.",
+    "life": "“That kid has his dad's temper.” Locke would ask: was he born with a temper, or did he learn it in the house he grew up in? A lot of what we call “just the way he is” might actually be learned.",
+    "useIt": "Pick a habit you describe with “that's just how I am.” Think back: when did you pick it up, and from whom? Anything learned can be changed.",
+    "critique": "The “blank slate” idea is debated today, since psychology suggests we're born with certain tendencies. Politically, Locke himself invested in a company that traded enslaved people, and his theory of property was used to justify taking land from Native Americans.",
+    "related": [
+      "empiricism",
+      "social-contract",
+      "hume"
+    ],
+    "sources": [
+      "John Locke, An Essay Concerning Human Understanding (1689)",
+      "John Locke, Two Treatises of Government (1689)",
+      "Stanford Encyclopedia of Philosophy: John Locke"
+    ]
+  },
+  {
+    "slug": "john-stuart-mill",
+    "kind": "philosopher",
+    "name": "John Stuart Mill",
+    "intl": "John Stuart Mill",
+    "era": "London and Avignon, 1806–1873",
+    "oneLine": "He said your freedom ends only where it harms someone else, and that the majority can be as much of a tyrant as any king.",
+    "idea": "Mill had an extremely strict upbringing: his father started teaching him Greek when he was three. Around age 20 he went through a mental crisis and came out of it convinced that feelings and art matter as much as reason. In On Liberty (1859) he proposed the harm principle: society has no right to stop you from doing something unless it harms others. He warned about the “tyranny of the majority,” meaning social pressure on anyone who's different. He also developed utilitarianism further, and in The Subjection of Women (1869) he argued for women's equality, including their right to vote.",
+    "life": "Your neighbor blasting music at 2 a.m.: that's harm, and you have every right to complain. Your neighbor dyeing his hair green: you may not like it, but it's not harm. Mill would say the difference between those two cases is the difference between freedom and babysitting.",
+    "useIt": "Next time someone's behavior bugs you, ask: did it actually harm me, or did it just clash with my taste? If it's only your taste, let it go.",
+    "critique": "Defining “harm” is hard: do offensive words count? Emotional pain? Mill also spent decades working for the East India Company, and in On Liberty itself he wrote that despotism is acceptable for peoples he considered “backward.”",
+    "related": [
+      "utilitarianism",
+      "appeal-to-majority",
+      "simone-de-beauvoir"
+    ],
+    "sources": [
+      "John Stuart Mill, On Liberty (1859)",
+      "John Stuart Mill, The Subjection of Women (1869)",
+      "Stanford Encyclopedia of Philosophy: John Stuart Mill"
+    ]
+  },
+  {
+    "slug": "wittgenstein",
+    "kind": "philosopher",
+    "name": "Ludwig Wittgenstein",
+    "intl": "Ludwig Wittgenstein",
+    "era": "Vienna and Cambridge, 1889–1951",
+    "oneLine": "He argued that many philosophical problems come from misunderstanding language, and that the meaning of a word is how it's used.",
+    "idea": "Wittgenstein's work has two phases. In the first he wrote the Tractatus Logico-Philosophicus (1921), arguing that a sentence pictures a piece of reality, and that “whereof one cannot speak, thereof one must be silent.” Then he left philosophy and worked as an elementary school teacher in rural Austrian villages. He came back with very different thinking in the Philosophical Investigations, published after his death in 1953: words don't have one fixed meaning; their meaning comes from how they're used in different “language games.” A word like “game” has no single definition covering all its uses, only a “family resemblance.”",
+    "life": "The word “fine.” From your mom, it means “I'll do it.” From your teenager, eyes glued to the phone, it can mean “leave me alone.” From your partner, in a certain tone, it means you're in trouble. Same word; the meaning is in the use.",
+    "useIt": "In any misunderstanding, stop asking “What does this word mean in the dictionary?” Ask instead, “In what situation was he using it, and what was he trying to do with it?”",
+    "critique": "Many people, including his teacher Bertrand Russell, felt his later work shrank philosophy and turned real problems into mere “confusions of language.” And his fragmentary style means interpretations of him vary widely.",
+    "related": [
+      "equivocation",
+      "zaki-naguib-mahmoud",
+      "socrates"
+    ],
+    "sources": [
+      "Ludwig Wittgenstein, Tractatus Logico-Philosophicus (1921)",
+      "Ludwig Wittgenstein, Philosophical Investigations (1953)",
+      "Stanford Encyclopedia of Philosophy: Ludwig Wittgenstein"
+    ]
+  },
+  {
+    "slug": "hypatia",
+    "kind": "philosopher",
+    "name": "Hypatia of Alexandria",
+    "intl": "Hypatia of Alexandria",
+    "era": "Alexandria, born c. 355–370, died 415 CE",
+    "oneLine": "The mathematician and astronomer who taught philosophy in Alexandria, drawing students from far-off places.",
+    "idea": "Hypatia was the daughter of Theon, a mathematician in Alexandria. She taught mathematics, astronomy and Neoplatonist philosophy, and was a highly respected figure in the city. Ancient sources say she wrote commentaries on major mathematical works, like Diophantus' Arithmetica and Apollonius' Conics, but none of her writings has survived with certainty. The best source on her is the letters of her student Synesius, which show her teaching students to reason by proof and to build scientific instruments. She was killed in 415 by an angry mob, amid a political power struggle in the city.",
+    "life": "A high school student asks, “When am I ever going to use geometry?” Hypatia's tradition would answer: geometry teaches you not to believe anything until it's proven. You'll need that skill everywhere, even on a used-car lot.",
+    "useIt": "Take a fact you believe and try to write out its “proof” step by step, like a geometry problem. Every step has to follow from the one before. Look for the step where you jump.",
+    "critique": "The big problem is how little we actually know about her, so she has become a symbol that every side retells to suit its own story. Many quotes credited to her online were invented centuries later. Even her popular image as “inventor of the astrolabe” isn't supported by evidence.",
+    "related": [
+      "plato",
+      "aristotle",
+      "appeal-to-authority"
+    ],
+    "sources": [
+      "Maria Dzielska, Hypatia of Alexandria (Harvard University Press, 1995)",
+      "Edward J. Watts, Hypatia: The Life and Legend of an Ancient Philosopher (Oxford University Press, 2017)"
+    ]
+  },
+  {
+    "slug": "simone-de-beauvoir",
+    "kind": "philosopher",
+    "name": "Simone de Beauvoir",
+    "intl": "Simone de Beauvoir",
+    "era": "Paris, 1908–1986",
+    "oneLine": "She said one is not born a woman but becomes one: society is what writes much of the role.",
+    "idea": "Beauvoir was a French existentialist philosopher and novelist. In The Second Sex (1949) she wrote her famous line: “One is not born, but rather becomes, a woman.” She meant that much of what gets called “women's nature” is really upbringing and social expectation. She argued that society treats man as the default and woman as “the Other,” defined in relation to him. In The Ethics of Ambiguity she argued that my freedom is tied to other people's freedom: I can't be truly free while I'm limiting someone else's.",
+    "life": "“Girls just naturally like cooking.” Beauvoir would ask: if it's natural, why do we have to keep teaching it and reminding them? And why are so many of the most famous restaurant chefs men?",
+    "useIt": "When you hear a sentence that starts with “women are naturally…” or “men are naturally…,” ask: is this actually biology, or something we learned and got used to?",
+    "critique": "Later feminist thinkers said she generalized the experience of middle-class European women to all women. Others felt she viewed motherhood and the female body too negatively.",
+    "related": [
+      "existentialism",
+      "appeal-to-nature",
+      "john-stuart-mill"
+    ],
+    "sources": [
+      "Simone de Beauvoir, The Second Sex (1949)",
+      "Simone de Beauvoir, The Ethics of Ambiguity (1947)",
+      "Stanford Encyclopedia of Philosophy: Simone de Beauvoir"
+    ]
+  },
+  {
+    "slug": "hannah-arendt",
+    "kind": "philosopher",
+    "name": "Hannah Arendt",
+    "intl": "Hannah Arendt",
+    "era": "Germany and New York, 1906–1975",
+    "oneLine": "She argued that great evil can be done by very ordinary people, not monsters, who simply stopped thinking.",
+    "idea": "Arendt was a German-Jewish political philosopher who fled the Nazis and settled in the United States. In The Origins of Totalitarianism (1951) she examined how totalitarian regimes take control of every part of life. In 1961 she covered the trial of Adolf Eichmann, one of the organizers of the deportation of Jews to the death camps. She expected to see a monster; she found an ordinary bureaucrat talking about “orders” and “procedures.” That gave rise to her idea of “the banality of evil” in Eichmann in Jerusalem (1963): evil can come from a person no longer thinking about what they're doing, and being unable to see the situation from anyone else's point of view.",
+    "life": "A clerk turns away an elderly woman's paperwork because “the system won't let me,” even though he knows he could fix it in two minutes, and shrugs: “I just work here.” Arendt would say that exact sentence is where the banality of evil begins.",
+    "useIt": "Before you carry out anything just because “I was told to,” stop for a minute and ask: if I were the person on the receiving end, how would this look to me?",
+    "critique": "After new documents came to light, many historians concluded that Eichmann wasn't a thoughtless paper-pusher at all; he was a committed believer in his ideology. So she may have been fooled by his performance at the trial. Her remarks about the role of some Jewish community leaders at the time also caused enormous anger.",
+    "related": [
+      "authority-bias",
+      "bandwagon",
+      "socrates"
+    ],
+    "sources": [
+      "Hannah Arendt, The Origins of Totalitarianism (1951)",
+      "Hannah Arendt, Eichmann in Jerusalem: A Report on the Banality of Evil (1963)",
+      "Stanford Encyclopedia of Philosophy: Hannah Arendt"
+    ]
+  },
+  {
+    "slug": "cynicism",
+    "kind": "school",
+    "name": "Cynicism",
+    "intl": "Cynicism",
+    "era": "Greece, from the 4th century BCE",
+    "oneLine": "Live simply and without pretense, and ask of every custom: does this actually serve me, or am I just going along with it?",
+    "idea": "It started with Antisthenes, a student of Socrates, and its most famous figure is Diogenes of Sinope. The name comes from the Greek word for “dog,” because the Cynics lived in the street and didn't care what anyone said about them. The idea: happiness means living “according to nature” and doing without money and appearances. Stories say Diogenes slept in a large storage jar and threw away his cup when he saw a child drinking from cupped hands. Those stories were written down centuries after him, so not all of them are reliable.",
+    "life": "Your brother's wedding is coming up, and everyone says you “have to” have a big venue and 300 guests, even if it means putting it on credit cards. A Cynic would ask: “Have to? Says who? And what do the two people getting married actually want?”",
+    "useIt": "Pick a habit you keep because “everyone does it,” and ask: if nobody would ever see me, would I still do this? If not, think about dropping it.",
+    "critique": "Their shock-value style can slide into plain rudeness with no point. Giving up on society entirely is easy for a single man and hard for a parent with a household to support. And today “cynic” means someone who trusts no one, which is far from the original.",
+    "related": [
+      "socrates",
+      "stoicism",
+      "appeal-to-tradition"
+    ],
+    "sources": [
+      "Diogenes Laërtius, Lives of Eminent Philosophers, Book VI",
+      "Internet Encyclopedia of Philosophy: Cynics"
+    ]
+  },
+  {
+    "slug": "deontology",
+    "kind": "school",
+    "name": "Deontology",
+    "intl": "Deontology",
+    "era": "From Kant in the 18th century to today",
+    "oneLine": "Some things are wrong even when the outcome is good, and some things are your duty even when they're not in your interest.",
+    "idea": "The name comes from a Greek word meaning “duty.” Instead of tallying up consequences like the utilitarians, deontology says some rules have value in themselves: don't lie, keep your promises, don't use a person as a tool. Its most famous voice is Kant. In the 20th century, W. D. Ross offered a gentler version: we have several duties, like honesty, keeping promises and preventing harm, and when two of them clash, you weigh which matters more in that situation.",
+    "life": "You promised to help your buddy move on Saturday, and on Friday night you get invited on a lake weekend. A deontologist would tell you: a promise doesn't disappear just because a better offer came along.",
+    "useIt": "Before you “spin” the truth or wriggle out of a promise, ask: am I breaking a duty here? Is there genuinely a bigger duty at stake, or am I just looking for an excuse?",
+    "critique": "When duties conflict, the theory doesn't tell you exactly what to do. Kant himself said lying is wrong even to a murderer looking for your friend. And utilitarians ask: how can a rule matter more than people's lives?",
+    "related": [
+      "kant",
+      "utilitarianism",
+      "virtue-ethics"
+    ],
+    "sources": [
+      "Immanuel Kant, Groundwork of the Metaphysics of Morals (1785)",
+      "W. D. Ross, The Right and the Good (1930)",
+      "Stanford Encyclopedia of Philosophy: Deontological Ethics"
+    ]
+  },
+  {
+    "slug": "logical-positivism",
+    "kind": "school",
+    "name": "Logical Positivism (The Vienna Circle)",
+    "intl": "Logical Positivism (The Vienna Circle)",
+    "era": "Vienna, 1920s and 1930s",
+    "oneLine": "A sentence has meaning only if you can check it by experience or it's true by definition. Everything else is empty talk.",
+    "idea": "A group of scientists and philosophers known as the Vienna Circle, including Moritz Schlick, Rudolf Carnap and Otto Neurath, published their manifesto in 1929. Influenced by the early Wittgenstein, they wanted philosophy to be as precise as science. So they said a sentence has meaning if it can be checked by observation, or if it's true by definition, like math. Anything else, including a lot of metaphysics, simply has no meaning. A. J. Ayer brought the idea to English readers in 1936, and Zaki Naguib Mahmoud brought it into Arabic.",
+    "life": "An argument at the sports bar: “This is the best pizza in Chicago.” A positivist would ask what “best” means. “Cheapest” and “sells the most pies” can be checked with numbers. “Tastes best to me” is your taste, not a fact.",
+    "useIt": "When a discussion starts heating up, ask: are we disagreeing about a fact we can check, or about taste? If it's a fact, go find the evidence. If it's taste, the argument will never end.",
+    "critique": "The principle “a sentence must be checkable by experience” can't itself be checked by experience, so it trips over itself. Popper argued that what separates science from non-science is falsifiability, not verification, and he rejected the idea that non-scientific talk is meaningless. In 1951 W. V. O. Quine attacked the sharp line between the two kinds of statements. Over time the movement faded.",
+    "related": [
+      "zaki-naguib-mahmoud",
+      "wittgenstein",
+      "falsifiability"
+    ],
+    "sources": [
+      "Hahn, Neurath & Carnap, Wissenschaftliche Weltauffassung: Der Wiener Kreis (The Scientific Conception of the World: The Vienna Circle, 1929)",
+      "A. J. Ayer, Language, Truth and Logic (1936)",
+      "W. V. O. Quine, 'Two Dogmas of Empiricism', The Philosophical Review 60 (1951)",
+      "Stanford Encyclopedia of Philosophy: Vienna Circle"
+    ]
+  },
+  {
+    "slug": "phenomenology",
+    "kind": "school",
+    "name": "Phenomenology",
+    "intl": "Phenomenology",
+    "era": "Germany and France, from the early 20th century",
+    "oneLine": "Before you ask “What is this thing really?”, describe carefully how it shows up for you.",
+    "idea": "Its founder was Edmund Husserl, and its famous slogan is “back to the things themselves.” Husserl built on his teacher Franz Brentano's idea that consciousness is always consciousness of something: you think about something, you're afraid of something. He proposed setting aside, for the moment, the question “Does the world really exist the way we see it?” and focusing on describing experience as we live it. He called this “bracketing.” After him, Heidegger, Sartre and Maurice Merleau-Ponty took the idea in new directions, and Merleau-Ponty focused on the body as our basic way of knowing the world.",
+    "life": "The same hour: waiting at the doctor's office for test results, it feels endless; hanging out with friends at a coffee shop, it's gone in a second. The clock on the wall is the same, but the time you live through is different, and a phenomenologist thinks that difference deserves serious study.",
+    "useIt": "When you're upset, before you judge (“I'm a failure,” “he did it on purpose”), just write a description: What do I feel in my body? What exactly did I see and hear?",
+    "critique": "How can we know your description of your experience is accurate, or compare it with someone else's? Descriptions from the inside are hard to double-check the way an experiment is. And even Heidegger argued that we're always already inside the world, so we can't bracket it and stand outside watching.",
+    "related": [
+      "descartes",
+      "existentialism",
+      "simone-de-beauvoir"
+    ],
+    "sources": [
+      "Edmund Husserl, Logical Investigations (1900–1901)",
+      "Edmund Husserl, Ideas I (1913)",
+      "Maurice Merleau-Ponty, Phenomenology of Perception (1945)",
+      "Stanford Encyclopedia of Philosophy: Phenomenology"
+    ]
+  },
+  {
+    "slug": "determinism",
+    "kind": "school",
+    "name": "Determinism and Free Will",
+    "intl": "Determinism and Free Will",
+    "era": "An old debate, from the Stoics to today's neuroscience",
+    "oneLine": "If everything has a cause before it, where is there room for your choice? And can we still hold anyone responsible?",
+    "idea": "This is a debate between three camps. Hard determinists: every event is the result of earlier causes, so your choice was already settled and freedom is an illusion. In 1814 Pierre-Simon Laplace imagined an intellect that knew the position of every particle and could calculate the entire future. Libertarians, in the metaphysical sense, not the political one: a person really could have chosen differently. And compatibilists, like Hume: freedom means acting on your own reasoning and desires without being forced, even if everything has a cause. In surveys of academic philosophers, compatibilism is the most common view.",
+    "life": "Your coworker blows up in a meeting and says, “That's just me, I'm hot-headed.” A hard determinist: that's the product of his upbringing and his genes. A compatibilist: nobody was holding his arm, and he can learn to calm down, so he's responsible. A libertarian: he had a real choice to stay quiet.",
+    "useIt": "When you say “I couldn't help it,” separate the causes that pushed you from the fact that you can still learn and change. Causes explain; they don't automatically excuse.",
+    "critique": "Each camp faces a hard question. Hard determinists: without freedom, do praise and blame mean anything? Libertarians: if a choice doesn't come from causes, it's random, and randomness isn't freedom. Compatibilists are accused of redefining “freedom” just to make the problem go away.",
+    "related": [
+      "hume",
+      "stoicism",
+      "existentialism"
+    ],
+    "sources": [
+      "Pierre-Simon Laplace, Essai philosophique sur les probabilités (A Philosophical Essay on Probabilities, 1814)",
+      "David Hume, An Enquiry Concerning Human Understanding (1748), Section VIII",
+      "David Bourget & David J. Chalmers, 'Philosophers on Philosophy: The 2020 PhilPapers Survey', Philosophers' Imprint 23 (2023)",
+      "Stanford Encyclopedia of Philosophy: Compatibilism"
+    ]
+  },
+  {
+    "slug": "confucianism",
+    "kind": "school",
+    "name": "Confucianism",
+    "intl": "Confucianism",
+    "era": "China, from the 6th and 5th centuries BCE",
+    "oneLine": "A good society starts with good people, and good people are built through ethics and courtesy in everyday dealings.",
+    "idea": "Confucius was a teacher in ancient China, and his students collected his sayings after his death in the Analects. For him, ethics is learned in everyday relationships: child and parent, student and teacher, ruler and people. Two key ideas are ren, meaning humaneness or kindness, and li, the rituals and manners that structure relationships. He's credited with the rule: “What you do not want done to yourself, do not do to others.” Later, Mencius argued that human nature is basically good, while Xunzi argued it leans toward bad and is corrected through education and ritual.",
+    "life": "You get promoted and now you manage your former coworkers. Confucius talked about “the rectification of names”: if your title is “manager,” act like a real manager. Be fair and protect your team. Trouble starts when the title says one thing and the behavior says another.",
+    "useIt": "Pick one relationship, with your kid, a coworker or a neighbor, and ask: what does this role ask of me? Then start with something small: a hello, a question, a thank-you.",
+    "critique": "It can be used to justify obeying elders and authority without question, and it placed women in a lower position. The Chinese philosopher Mozi objected that care should go to all people equally, not to those closest to us first.",
+    "related": [
+      "virtue-ethics",
+      "aristotle",
+      "care-ethics"
+    ],
+    "sources": [
+      "Confucius, The Analects (trans. D. C. Lau)",
+      "Mencius, The Mencius (trans. D. C. Lau)",
+      "Stanford Encyclopedia of Philosophy: Confucius"
+    ]
+  },
+  {
+    "slug": "care-ethics",
+    "kind": "school",
+    "name": "Ethics of Care",
+    "intl": "Ethics of Care",
+    "era": "United States, from the 1980s",
+    "oneLine": "Morality isn't only rules and calculations. It's also seeing the person in front of you and paying attention to them.",
+    "idea": "Psychologist Carol Gilligan published In a Different Voice in 1982, criticizing her mentor Lawrence Kohlberg, who measured “moral maturity” by how well people applied general principles. She noticed that some people, many of them girls and women, ask a different question: Who will get hurt? How do we keep the relationship intact? She argued that this is a different voice, not a less mature one. Then in 1984 Nel Noddings wrote that the foundation of ethics is the caring relationship itself, like a parent and child or a teacher and student.",
+    "life": "Your coworker's father is in the hospital, and her part of the project is two days late. The rule says “a deadline is a deadline.” Care ethics says: before you report her, ask what she needs, and see whether you can take some of it off her plate.",
+    "useIt": "Before any decision that affects someone, ask two questions: “What does the rule say?” and “What's going on with this person, and what do they need?”",
+    "critique": "Some argue it reinforces the idea that caring is “women's work,” and later studies found that the difference between men and women on this style is small. And if morality is built on closeness, what about the distant stranger?",
+    "related": [
+      "virtue-ethics",
+      "deontology",
+      "utilitarianism"
+    ],
+    "sources": [
+      "Carol Gilligan, In a Different Voice (1982)",
+      "Nel Noddings, Caring: A Feminine Approach to Ethics and Moral Education (1984)",
+      "Sara Jaffee & Janet Shibley Hyde, 'Gender Differences in Moral Orientation: A Meta-Analysis', Psychological Bulletin 126 (2000)",
+      "Internet Encyclopedia of Philosophy: Care Ethics"
+    ]
+  },
+  {
+    "slug": "humanism",
+    "kind": "school",
+    "name": "Renaissance Humanism",
+    "intl": "Renaissance Humanism",
+    "era": "Italy, then Europe, 14th to 16th centuries",
+    "oneLine": "Go back to the original sources, and learn to write, speak and think well, because education is what shapes a person.",
+    "idea": "During the Renaissance, scholars in Italy, Petrarch the best known among them, went back to reading ancient Greek and Latin authors like Cicero and Seneca. Their motto was ad fontes, “back to the sources”: don't rely on summaries that have passed through a hundred hands; read the original text. They championed the study of grammar, rhetoric, history, poetry and moral philosophy. In the Low Countries, Erasmus collected and explained thousands of ancient proverbs, and in 1511 published The Praise of Folly, a satire of vanity and pedantry.",
+    "life": "A post with “As the great philosopher once said…” and a million shares. A Renaissance humanist would ask: where exactly is that in his writings? Chances are the quote has been changed along the way, or made up entirely.",
+    "useIt": "Pick a quote or a statistic you hear a lot, and track down the original source yourself once this week. You'll be surprised how much things change along the way.",
+    "critique": "It was an education for an elite who knew Latin and had money. Some of its followers revered the ancients so much that they copied them word for word, so much so that Erasmus himself mocked them in a book in 1528. And their focus on literature made them, at first, less interested in the sciences.",
+    "related": [
+      "stoicism",
+      "socrates",
+      "appeal-to-authority"
+    ],
+    "sources": [
+      "Desiderius Erasmus, The Praise of Folly (1511)",
+      "Desiderius Erasmus, Ciceronianus (1528)",
+      "Paul Oskar Kristeller, Renaissance Thought and Its Sources (1979)",
+      "Stanford Encyclopedia of Philosophy: Desiderius Erasmus"
+    ]
+  }
+]

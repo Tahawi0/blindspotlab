@@ -1,0 +1,65 @@
+{
+  "intro": "6 ready-to-teach critical thinking lessons, 45 minutes each, built for grades 6–12. Every lesson has a learning goal, a warm-up, a Blind Spot Lab game students play on their phones or on the classroom screen, discussion questions, and a printable activity sheet.",
+  "how": [
+    "No accounts or sign-ups needed. Students just open the link and play.",
+    "No phones? Put the game on the classroom screen and have the whole class vote on each answer.",
+    "Print the activity sheet with the \"Print lesson\" button, and choose \"Save as PDF\" if you want a copy on your computer.",
+    "All examples are everyday and made up, with no real names. Preview \"The Family Group Chat\" game before class, since it includes situations about money and health."
+  ],
+  "lessons": [
+    {
+      "title": "What Is a Fallacy?",
+      "goal": "Students tell the difference between answering what someone said and attacking the person who said it, and learn to recognize the straw man and ad hominem.",
+      "warm": "Ask the class: \"Your friend says the cafeteria food is overpriced, and someone answers, 'Like you know anything about food.'\" Does that reply answer the point or attack the person?",
+      "play": [["daily/", "Fallacy of the Day"], ["games/court/", "Fallacy Court"]],
+      "discuss": ["When do we attack the person instead of their point? Why does that feel convincing?", "How can you respond to someone who twisted your words without starting a fight?"],
+      "sheet": ["Write down something you heard that was an ad hominem, then rewrite it to answer the actual point.", "Write one of your own opinions, then write a straw man of it: a twisted version of what you said.", "What's the difference between criticizing an idea and criticizing the person who holds it?"],
+      "entries": ["straw-man", "ad-hominem"]
+    },
+    {
+      "title": "How Do Ads Persuade Us?",
+      "goal": "Students spot persuasion tricks in ads: the single testimonial, the decoy option, and fake urgency.",
+      "warm": "Show an ad from TV or social media (without naming the brand) and ask: \"Which line made you want to buy it? Did it give you information, or just a feeling?\"",
+      "play": [["games/spot/", "Spot the Trick"]],
+      "discuss": ["Why isn't one \"before and after\" photo proof?", "How does a super-expensive option make the other option look like a steal?"],
+      "sheet": ["Write an ad for a made-up product with no tricks at all.", "Write the same ad using two tricks, and name each one.", "Which ad would sell more? Why?"],
+      "entries": ["anecdotal-evidence", "decoy-effect"]
+    },
+    {
+      "title": "Is This Story Real?",
+      "goal": "Students use 5 fact-checking questions before believing or sharing a story: the source, the date, the image origin, the full quote, and other sources.",
+      "warm": "Ask: \"Has anyone ever shared something that turned out to be false? How did that feel?\"",
+      "play": [["games/verify/", "News Detective"], ["games/rumor/", "Rumor Factory"]],
+      "discuss": ["Why do stories that scare us or make us angry spread faster?", "What's the difference between a fake story and a story that's missing context?"],
+      "sheet": ["Write the 5 questions you'll ask about any story before you share it.", "Pick one trick from Rumor Factory and explain how to spot it.", "Write a polite reply to a relative who posted a rumor in the family group chat."],
+      "entries": ["appeal-to-emotion", "appeal-to-authority"]
+    },
+    {
+      "title": "Do Numbers Lie?",
+      "goal": "Students read charts correctly and catch the cut-off axis, the cherry-picked time window, and totals that were never divided by population.",
+      "warm": "Draw two bars on the board, 50 and 52, with the axis starting at 49. Ask: \"Is that a big difference?\" Then redraw them starting from zero.",
+      "play": [["games/charts/", "The Lying Chart"], ["games/bayes/", "The Probability Tree"]],
+      "discuss": ["Why would someone make a misleading chart without writing a single wrong number?", "\"This city has the most car crashes\": what else do you need to know before you judge?"],
+      "sheet": ["Draw the same numbers twice: once honestly, once with a trick.", "Write a misleading headline for your second chart.", "Why do we sometimes need to divide by population?"],
+      "entries": ["cherry-picking", "false-cause"]
+    },
+    {
+      "title": "Our Brains Fool Us",
+      "goal": "Students learn that biases aren't stupidity but mental shortcuts, and get to know confirmation bias and anchoring.",
+      "warm": "Give half the class a slip that says: \"Are there more or fewer than 15 countries in Africa?\" Give the other half: \"More or fewer than 75?\" Then everyone writes down their own estimate without looking at anyone else's, and you compare the two averages. (Answer: 54 UN member states.)",
+      "play": [["games/lab/", "The Bias Lab"], ["games/profile/", "Your Thinking Profile"]],
+      "discuss": ["Why do we believe news that agrees with us faster?", "How can you protect yourself from the first number you hear?"],
+      "sheet": ["Describe a time you experienced confirmation bias.", "Pick a bias from \"Your Thinking Profile\" and write a small plan to reduce it.", "Has this bias ever helped you?"],
+      "entries": ["confirmation-bias", "anchoring"]
+    },
+    {
+      "title": "Disagree Without Fighting",
+      "goal": "Students respond to the argument itself and practice acknowledging the strong points on the other side.",
+      "warm": "Pick a lighthearted topic (summer or winter?) and split the class into two teams. Anyone who attacks a person instead of an idea costs their team a point.",
+      "play": [["games/family/", "The Family Group Chat"], ["games/debate/", "Debate Dot"]],
+      "discuss": ["Why can a calm reply be more convincing than an aggressive one?", "When is staying quiet the right call, and when does it let a mistake slide?"],
+      "sheet": ["Write the opposite of your opinion on some topic, using the strongest argument you can.", "Write a reply to that argument without any fallacies.", "Write a sentence that acknowledges a good point the other side made."],
+      "entries": ["whataboutism", "false-dilemma"]
+    }
+  ]
+}

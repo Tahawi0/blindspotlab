@@ -1,0 +1,2726 @@
+[
+ {
+  "slug": "straw-man",
+  "kind": "fallacy",
+  "name": "Straw Man",
+  "intl": "Straw Man",
+  "oneLine": "You twist what the other person said, then argue against the twisted version instead of the real one.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Maybe we eat out a little less this month.” — “So you want us to sit at home and never have any fun?!”"
+   },
+   {
+    "where": "On social media",
+    "text": "Someone posts that e-scooters need clearer parking rules downtown. Top reply: “So you want to ban scooters and make everyone drive?”"
+   },
+   {
+    "where": "On sports talk radio",
+    "text": "A caller says the team should rest its star player more. The host fires back: “Oh, so you want him sitting on the bench all season?”"
+   }
+  ],
+  "detect": "Ask yourself: is this reply about what was actually said, or about a bigger, worse version of it? Phrases like “So what you’re saying is…” are often a sign the argument just got stretched.",
+  "respond": "Bring it back to the original, calmly: “That’s not what I said. I said a little less, not never.” And don’t start defending a position you never took.",
+  "notConfuse": {
+   "name": "Red Herring",
+   "slug": "red-herring",
+   "diff": "A red herring changes the subject entirely. A straw man stays on the same subject but swaps in a distorted version of the other person’s view."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (2013). Methods of Argumentation. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "ad-hominem",
+  "kind": "fallacy",
+  "name": "Ad Hominem",
+  "intl": "Ad Hominem",
+  "oneLine": "You attack the person instead of answering what they said.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“You’re going to lecture me about spending? You can’t even save $50!” — The actual question was whether this purchase is too much."
+   },
+   {
+    "where": "On social media",
+    "text": "“Ignore him, he’s a loser who can’t even hold a job.” — posted as a reply to a thread full of numbers and sources."
+   },
+   {
+    "where": "At work",
+    "text": "“That idea came from the new hire, so obviously they don’t get how things work here.”"
+   }
+  ],
+  "detect": "Check whether the reply is about who said it or about what was said. If the argument itself is left standing with no answer, that’s a dodge.",
+  "respond": "“Maybe I am all those things. That doesn’t change whether these numbers are right or wrong. Can we talk about the numbers?”",
+  "notConfuse": {
+   "name": "Legitimately questioning a source",
+   "slug": "",
+   "diff": "If someone is vouching for something they directly profit from, asking about that interest isn’t a fallacy. The fallacy is throwing out the whole argument because of the person, without ever looking at it."
+  },
+  "evidence": "",
+  "sources": [
+   "Copi, I., Cohen, C., & McMahon, K. (2014). Introduction to Logic. Pearson."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-dilemma",
+  "kind": "fallacy",
+  "name": "False Dilemma",
+  "intl": "False Dilemma",
+  "oneLine": "You present just two options as if they’re the only ones, when there are plenty of others.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Either you get into a top-ten college, or you’re going to end up with nothing.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“You’re either with us, or you’re a traitor.”"
+   },
+   {
+    "where": "In ads",
+    "text": "“Buy today at this price, or regret it for the rest of your life.”"
+   }
+  ],
+  "detect": "When you hear “it’s either this or that,” ask: Is there a third option? A middle ground? A chance both are wrong?",
+  "respond": "“It doesn’t have to be one or the other. There’s also this, and this. Can we look at all of them?”",
+  "notConfuse": {
+   "name": "False Compromise",
+   "slug": "false-compromise",
+   "diff": "A false dilemma hides the other options. A false compromise assumes the middle is always right, even when one side is flat-out wrong."
+  },
+  "evidence": "",
+  "sources": [
+   "Tindale, C. (2007). Fallacies and Argument Appraisal. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-majority",
+  "kind": "fallacy",
+  "name": "Appeal to Popularity",
+  "intl": "Appeal to Popularity",
+  "oneLine": "You treat an idea as true because lots of people believe it or do it.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Every kid in her class got a smartphone at eight, so that must be the right age.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“This post has 100,000 likes, so what it says has to be true.”"
+   },
+   {
+    "where": "In ads",
+    "text": "“Over a million Americans have switched!” — The number doesn’t tell you whether it’s right for you."
+   }
+  ],
+  "detect": "If the only reason offered is “everyone,” there’s still no evidence for the idea itself.",
+  "respond": "“Sure, a lot of people do it. But what’s the reason it’s actually right?”",
+  "notConfuse": {
+   "name": "Bandwagon Effect",
+   "slug": "bandwagon",
+   "diff": "This fallacy lives in the argument: using the majority as proof. The bandwagon effect lives in your head: finding yourself going along with the crowd without noticing."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1999). Appeal to Popular Opinion. Penn State Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "confirmation-bias",
+  "kind": "bias",
+  "name": "Confirmation Bias",
+  "intl": "Confirmation Bias",
+  "oneLine": "We look for information that backs up what we already believe, and ignore or downplay what goes against it.",
+  "examples": [
+   {
+    "where": "In the neighborhood",
+    "text": "You’re convinced your neighbor is rude, so you remember every time he didn’t wave back — and forget the time he jumped your car."
+   },
+   {
+    "where": "On social media",
+    "text": "You only follow accounts that agree with you, so it feels like “everyone” sees things your way."
+   },
+   {
+    "where": "Shopping",
+    "text": "You’ve already decided on a certain car, so you read only the glowing reviews and wave off the bad ones as “probably fake.”"
+   }
+  ],
+  "detect": "Ask yourself: what evidence would change my mind? If you can’t name any, the opinion probably came before the evidence.",
+  "respond": "With yourself: go looking, on purpose, for the strongest case against your view and read it carefully. With others: “Let’s look at the evidence against our side too.”",
+  "notConfuse": {
+   "name": "Motivated Reasoning",
+   "slug": "",
+   "diff": "Confirmation bias is about how we search for and remember information. Motivated reasoning is broader: reaching the conclusion we wanted from the start."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "anchoring",
+  "kind": "bias",
+  "name": "Anchoring",
+  "intl": "Anchoring",
+  "oneLine": "The first number we hear pulls our judgment of every number after it, even when it has nothing to do with anything.",
+  "examples": [
+   {
+    "where": "At a flea market",
+    "text": "The seller says, “It’s $80, but for you, $50,” and you feel like you scored. It might really be worth $30."
+   },
+   {
+    "where": "On a car lot",
+    "text": "They show you the fully loaded trim first, so when you see the next one down, its price suddenly looks reasonable."
+   },
+   {
+    "where": "At work",
+    "text": "Whatever salary number gets said first in a negotiation shapes the whole conversation after it."
+   }
+  ],
+  "detect": "Ask: if I hadn’t heard that number, what would I have guessed this was worth? And try to set your own number before you hear anyone else’s.",
+  "respond": "Do your research and walk in with your own number. If someone throws out a number that’s way off, say: “Let’s start from what the market actually pays.”",
+  "notConfuse": {
+   "name": "Decoy Effect",
+   "slug": "decoy-effect",
+   "diff": "An anchor is a number that drags your judgment toward it. A decoy is a third option placed there to make one particular option look better."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131.",
+   "Furnham, A., & Boo, H. C. (2011). A literature review of the anchoring effect. The Journal of Socio-Economics, 40(1), 35–42."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-authority",
+  "kind": "fallacy",
+  "name": "Appeal to Authority",
+  "intl": "Appeal to Authority",
+  "oneLine": "You treat a claim as true because someone important or famous said it, even if they’re not an expert on that topic.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Your uncle the engineer says that medication doesn’t work.” — Your uncle is an engineer, not a doctor."
+   },
+   {
+    "where": "On social media",
+    "text": "“That actor says this coin is going to the moon, so I have to buy in.”"
+   },
+   {
+    "where": "In ads",
+    "text": "A famous quarterback tells you this shampoo makes your hair stronger."
+   }
+  ],
+  "detect": "Ask two questions: Is this person actually an expert in this specific subject? And do other experts in the field agree?",
+  "respond": "“With respect, he’s an expert in X, not in this. What do people who study this say?”",
+  "notConfuse": {
+   "name": "Deferring to genuine experts",
+   "slug": "",
+   "diff": "Taking a doctor’s word on medicine isn’t a fallacy — it’s sensible. The fallacy is when the authority is outside their field, or when their word is treated as final and beyond question."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1997). Appeal to Expert Opinion. Penn State Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-tradition",
+  "kind": "fallacy",
+  "name": "Appeal to Tradition",
+  "intl": "Appeal to Tradition",
+  "oneLine": "You treat something as right because “we’ve always done it this way.”",
+  "examples": [
+   {
+    "where": "At Thanksgiving",
+    "text": "“We’ve always bundled babies up in heavy blankets, even in July. You think you know better than Grandma?”"
+   },
+   {
+    "where": "At work",
+    "text": "“We’ve done this spreadsheet by hand for ten years. Why change it now?”"
+   },
+   {
+    "where": "In the community",
+    "text": "“A wedding has to be done this way. That’s just how people do it.”"
+   }
+  ],
+  "detect": "If the only reason is “we’ve always done it” or “that’s just how it’s done,” nobody has said yet why it’s actually good.",
+  "respond": "“It might be a great tradition. But what does it actually do for us? And if we find a better way, can we try it?”",
+  "notConfuse": {
+   "name": "Respecting accumulated experience",
+   "slug": "",
+   "diff": "Traditions are sometimes the distilled result of real trial and error, and that’s a good reason to take them seriously. The fallacy is treating age alone as the proof."
+  },
+  "evidence": "",
+  "sources": [
+   "Tindale, C. (2007). Fallacies and Argument Appraisal. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-emotion",
+  "kind": "fallacy",
+  "name": "Appeal to Emotion",
+  "intl": "Appeal to Emotion",
+  "oneLine": "You try to win someone over by stirring up their feelings instead of giving them a real reason.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“If you really loved me, you’d buy me this phone.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“Share if you have a heart. Anyone who scrolls past is cold as ice.”"
+   },
+   {
+    "where": "In ads",
+    "text": "A commercial packed with sad piano music and teary kids that ends with: “Upgrade your phone plan today.”"
+   }
+  ],
+  "detect": "Strip the feelings out and look at what’s left: is there a logical reason? Or is it just pressure on your emotions?",
+  "respond": "“I get that this is moving. But let’s look at the reasons. Why is this the right choice?”",
+  "notConfuse": {
+   "name": "Emotions as information",
+   "slug": "",
+   "diff": "Sometimes feelings really are part of the decision, like picking a job you love. The fallacy is using feelings as a substitute for evidence when the question needs evidence."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1992). The Place of Emotion in Argument. Penn State Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-nature",
+  "kind": "fallacy",
+  "name": "Appeal to Nature",
+  "intl": "Appeal to Nature",
+  "oneLine": "You treat something as good or safe because it’s “natural,” or bad because it’s “artificial.”",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“These herbs are natural, so there’s no way they can hurt you.”"
+   },
+   {
+    "where": "On social media",
+    "text": "A wellness influencer: “Ditch your meds and try this natural remedy instead.”"
+   },
+   {
+    "where": "In ads",
+    "text": "“100% natural” printed on a bottle with zero information about what it actually does."
+   }
+  ],
+  "detect": "Remember that poison ivy is natural, arsenic is natural, and plenty of lab-made medicines save lives. “Natural” is not evidence. (And none of this is medical advice — talk to a doctor before stopping any medication.)",
+  "respond": "“Natural versus artificial isn’t the real question. The question is: is there evidence it helps and doesn’t hurt?”",
+  "notConfuse": {
+   "name": "Personal preference",
+   "slug": "",
+   "diff": "Preferring fresh food to canned is a matter of taste. The fallacy is treating “natural” on its own as proof that something is safe or effective."
+  },
+  "evidence": "",
+  "sources": [
+   "Moore, G. E. (1903). Principia Ethica. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "tu-quoque",
+  "kind": "fallacy",
+  "name": "Tu Quoque",
+  "intl": "Tu Quoque",
+  "oneLine": "You dismiss advice or criticism because the person giving it makes the same mistake.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Dad: “Smoking is bad for you.” Teen: “You smoke!” — Smoking is still bad for you."
+   },
+   {
+    "where": "At work",
+    "text": "“You’re telling me not to be late? You were late yesterday.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“You’re posting about littering when I literally saw you toss a cup out your car window once.”"
+   }
+  ],
+  "detect": "Notice when the reply is about the person’s behavior, not about whether the point is true. A point can be right even if the person making it doesn’t live by it.",
+  "respond": "“Fair — I do that, and I shouldn’t. But that doesn’t make the point any less true.”",
+  "notConfuse": {
+   "name": "Whataboutism",
+   "slug": "whataboutism",
+   "diff": "Tu quoque turns it back on the person speaking. Whataboutism escapes to a completely different third party."
+  },
+  "evidence": "",
+  "sources": [
+   "Aikin, S. F. (2008). Tu quoque arguments and the significance of hypocrisy. Informal Logic, 28(2), 155–169."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "red-herring",
+  "kind": "fallacy",
+  "name": "Red Herring",
+  "intl": "Red Herring",
+  "oneLine": "You switch to a different topic to get away from the original question.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Where did the whole paycheck go?” — “Well, why don’t you ever make the food I like?”"
+   },
+   {
+    "where": "At work",
+    "text": "The manager asks why the project is behind, and the employee starts talking about how swamped the other department is."
+   },
+   {
+    "where": "In the news",
+    "text": "A reporter asks about the service outage, and the spokesperson gives a long speech about the company’s awards from years ago."
+   }
+  ],
+  "detect": "Go back to the original question and ask: did the reply actually answer it? If it went somewhere else entirely, that’s a red herring.",
+  "respond": "“We can talk about that later. But first: what’s the answer to my question?”",
+  "notConfuse": {
+   "name": "Straw Man",
+   "slug": "straw-man",
+   "diff": "A straw man stays on the same topic and distorts what you said. A red herring leaves the topic entirely and heads somewhere else."
+  },
+  "evidence": "",
+  "sources": [
+   "Copi, I., Cohen, C., & McMahon, K. (2014). Introduction to Logic. Pearson."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "slippery-slope",
+  "kind": "fallacy",
+  "name": "Slippery Slope",
+  "intl": "Slippery Slope",
+  "oneLine": "You claim one small step will inevitably lead to disaster, without showing that each step will actually cause the next.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“If we let him stay up until 11 tonight, tomorrow it’ll be 3 a.m., then he’ll drop out of school, and his whole future is ruined.”"
+   },
+   {
+    "where": "At work",
+    "text": "“If we allow one work-from-home day, nobody will ever work again and the company will go under.”"
+   },
+   {
+    "where": "In an HOA email",
+    "text": "“Today it’s one inflatable lawn decoration. Tomorrow the whole street looks like a carnival!”"
+   }
+  ],
+  "detect": "Count the steps between the start and the disaster, and ask about each one: what’s the evidence this will happen? If there isn’t any, it’s just fearmongering.",
+  "respond": "“Okay, let’s take this step and set a clear limit. If what you’re worried about starts happening, we revisit.”",
+  "notConfuse": {
+   "name": "Evidence-based prediction",
+   "slug": "",
+   "diff": "If there’s real evidence that this step leads to the next, that’s a legitimate warning. The fallacy is when the whole chain is built on guesses."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (2015). The basic slippery slope argument. Informal Logic, 35(3), 273–311."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-cause",
+  "kind": "fallacy",
+  "name": "False Cause (Post Hoc)",
+  "intl": "Post Hoc / False Cause",
+  "oneLine": "You assume one thing caused another just because it happened before it, or alongside it.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“I wore this jersey and my team won, so it’s my lucky jersey.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“Ever since they put up that cell tower, people around here keep getting sick. It has to be the tower.”"
+   },
+   {
+    "where": "At work",
+    "text": "“Sales went up after we changed the logo color.” — Maybe it was the holiday season, or a promotion."
+   }
+  ],
+  "detect": "Ask: could a third factor be causing both? And does this happen every time, or was it a coincidence?",
+  "respond": "“Maybe. But it could also be this other thing. How would we figure out which one is the real cause?”",
+  "notConfuse": {
+   "name": "Correlation isn’t causation",
+   "slug": "",
+   "diff": "When two things keep happening together, that’s a correlation. It still doesn’t mean one caused the other — you need more evidence for that."
+  },
+  "evidence": "",
+  "sources": [
+   "Hume, D. (1748). An Enquiry Concerning Human Understanding.",
+   "Pearl, J., & Mackenzie, D. (2018). The Book of Why. Basic Books."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "hasty-generalization",
+  "kind": "fallacy",
+  "name": "Hasty Generalization",
+  "intl": "Hasty Generalization",
+  "oneLine": "You draw a conclusion about everything from just one or two examples.",
+  "examples": [
+   {
+    "where": "Shopping",
+    "text": "“We ordered from that store once and it broke in a week. Everything they sell is junk.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“I met two people from Boston and they were both rude. Everyone from Boston is like that.”"
+   },
+   {
+    "where": "At work",
+    "text": "“The new hire made one mistake in a report. Guess they just can’t do the job.”"
+   }
+  ],
+  "detect": "Ask: how many examples is this judgment based on? And do those examples really represent the whole group?",
+  "respond": "“That may have happened. But is one time really enough to judge all of them?”",
+  "notConfuse": {
+   "name": "Anecdotal Evidence",
+   "slug": "anecdotal-evidence",
+   "diff": "A hasty generalization is the conclusion itself. Anecdotal evidence is the kind of weak evidence that conclusion is usually built on."
+  },
+  "evidence": "",
+  "sources": [
+   "Govier, T. (2013). A Practical Study of Argument. Cengage."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "begging-the-question",
+  "kind": "fallacy",
+  "name": "Begging the Question",
+  "intl": "Begging the Question",
+  "oneLine": "You use the conclusion you’re trying to prove as evidence for itself, so you just go in a circle.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“I’m right because I don’t make mistakes.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“This page is trustworthy, because it says it only posts the truth.”"
+   },
+   {
+    "where": "At work",
+    "text": "“This plan is the best one, because there’s no plan better than it.”"
+   }
+  ],
+  "detect": "Take the conclusion out and see: is there any other evidence left? If the evidence is just the conclusion in different words, you’re going in circles.",
+  "respond": "“That’s the same claim said another way. What’s the evidence from outside the claim?”",
+  "notConfuse": {
+   "name": "“That begs the question”",
+   "slug": "",
+   "diff": "In everyday speech, people say “that begs the question” to mean “that raises a question.” In logic, begging the question means circular reasoning."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1991). Begging the Question: Circular Reasoning as a Tactic of Argumentation. Greenwood."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "loaded-question",
+  "kind": "fallacy",
+  "name": "Loaded Question",
+  "intl": "Loaded Question",
+  "oneLine": "A question with an accusation or assumption built in, so any direct answer admits the assumption.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Have you stopped lying to me?” — Say yes or no, and you’ve admitted you were lying."
+   },
+   {
+    "where": "In the news",
+    "text": "“Why is the city ignoring the pothole problem?” — before anyone has shown that it is."
+   },
+   {
+    "where": "At work",
+    "text": "“When are you going to stop holding up the project?”"
+   }
+  ],
+  "detect": "Before you answer, look for what the question is assuming. Has that actually been established?",
+  "respond": "Don’t answer yes or no. Answer the assumption: “That question assumes I was lying, and I wasn’t.”",
+  "notConfuse": {
+   "name": "A tough question",
+   "slug": "",
+   "diff": "A tough question can be uncomfortable, but it isn’t hiding an accusation. A loaded question sneaks in an assumption nobody agreed to."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1989). Informal Logic: A Handbook for Critical Argumentation. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "equivocation",
+  "kind": "fallacy",
+  "name": "Equivocation",
+  "intl": "Equivocation",
+  "oneLine": "You use the same word in two different senses within one argument to reach a false conclusion.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“The doctor said fast food is heavy, and this burger is tiny, so it’s fine.” — The doctor meant hard on your body, not heavy on a scale."
+   },
+   {
+    "where": "In ads",
+    "text": "“Light” on the label — light in weight? In calories? In color? In flavor?"
+   },
+   {
+    "where": "On social media",
+    "text": "“Germ theory? It’s just a theory, and a theory is just a guess.” — In science, a “theory” is an explanation backed by a large body of evidence, not a guess."
+   }
+  ],
+  "detect": "When a key word shows up in an argument, ask: does it mean the same thing every time it’s used?",
+  "respond": "“Let’s agree on this first: what exactly do you mean by that word?”",
+  "notConfuse": {
+   "name": "Framing",
+   "slug": "",
+   "diff": "Equivocation changes the meaning of the word itself partway through. Framing (the framing effect) says the same thing in a way that nudges your decision."
+  },
+  "evidence": "",
+  "sources": [
+   "Copi, I., Cohen, C., & McMahon, K. (2014). Introduction to Logic. Pearson."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "no-true-scotsman",
+  "kind": "fallacy",
+  "name": "No True Scotsman",
+  "intl": "No True Scotsman",
+  "oneLine": "When an example breaks your claim, you redefine the group to push that example out, instead of admitting the claim was too broad.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“A real man never asks for directions.” — “My dad asks all the time.” — “Then he’s not a real man, is he?”"
+   },
+   {
+    "where": "In sports",
+    "text": "“No true fan ever boos their own team.” — “Plenty of fans boo.” — “Those aren’t real fans.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“Midwesterners are all nice.” — “My neighbor from Ohio is a jerk.” — “Well, he’s not a real Midwesterner.”"
+   }
+  ],
+  "detect": "Notice when someone adds “real” or “true” right after an example contradicts them. It usually means they’re protecting the claim from being wrong.",
+  "respond": "“What exactly makes someone ‘real’? If the definition changes every time we find a counterexample, the claim isn’t saying anything anymore.”",
+  "notConfuse": {
+   "name": "A clear definition up front",
+   "slug": "",
+   "diff": "If you set a clear definition at the start and apply it to everyone, that’s not a fallacy. The fallacy is tailoring the definition after you see the example that contradicts you."
+  },
+  "evidence": "",
+  "sources": [
+   "Flew, A. (1975). Thinking About Thinking. Fontana."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "burden-of-proof",
+  "kind": "fallacy",
+  "name": "Shifting the Burden of Proof",
+  "intl": "Shifting the Burden of Proof",
+  "oneLine": "You make a claim, then demand that others prove it wrong instead of proving it right yourself.",
+  "examples": [
+   {
+    "where": "On a used-car lot",
+    "text": "“This car has a problem.” — “What problem?” — “You prove to me it doesn’t.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“This supplement cures everything, and if you don’t believe me, prove it doesn’t.”"
+   },
+   {
+    "where": "At work",
+    "text": "“That guy is leaking info to competitors, and if you don’t believe me, prove he isn’t.”"
+   }
+  ],
+  "detect": "Ask: who made the claim first? The person making a claim is the one who owes the evidence.",
+  "respond": "“You’re the one who said it, so the evidence is on you. Show me what made you say that.”",
+  "notConfuse": {
+   "name": "Appeal to Ignorance",
+   "slug": "appeal-to-ignorance",
+   "diff": "Shifting the burden means tossing the job of proving onto someone else. Appeal to ignorance means treating the lack of evidence against a claim as evidence that it’s true."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1988). Burden of proof. Argumentation, 2(2), 233–254."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-ignorance",
+  "kind": "fallacy",
+  "name": "Appeal to Ignorance",
+  "intl": "Appeal to Ignorance",
+  "oneLine": "You treat something as true because nobody has proven it false, or false because nobody has proven it true.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Nobody’s proven this house isn’t haunted, so it must be haunted.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“Scientists haven’t been able to prove this remedy doesn’t work, so it works.”"
+   },
+   {
+    "where": "At work",
+    "text": "“Nobody has complained about the new system, so everyone must love it.” — Maybe people just don’t know where to complain."
+   }
+  ],
+  "detect": "If the only evidence is “nobody proved otherwise,” then we simply don’t know yet. Not knowing isn’t evidence for anything.",
+  "respond": "“The fact that nobody’s disproven it means we don’t know yet — not that it’s true. Let’s wait for real evidence.”",
+  "notConfuse": {
+   "name": "Absence of evidence after a serious search",
+   "slug": "",
+   "diff": "If people searched carefully for something that should have shown up, and it didn’t, that’s reasonable evidence it isn’t there. The fallacy is when nobody looked in the first place."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1996). Arguments from Ignorance. Penn State Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "anecdotal-evidence",
+  "kind": "fallacy",
+  "name": "Anecdotal Evidence",
+  "intl": "Anecdotal Evidence",
+  "oneLine": "You treat one personal experience or story as stronger evidence than data and studies.",
+  "examples": [
+   {
+    "where": "At Thanksgiving",
+    "text": "“Grandpa smoked his whole life and lived to 90, so smoking can’t be that bad.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“My cousin tried this cream and her skin cleared up, so it’s the best cream out there.”"
+   },
+   {
+    "where": "At work",
+    "text": "“I hired one person from that college and they were terrible, so none of their grads are any good.”"
+   }
+  ],
+  "detect": "Ask: is this one person’s experience, or is there data on lots of people? The story might be true, but it doesn’t represent everyone.",
+  "respond": "“Good for Grandpa, honestly. But that’s one person. What do the numbers say about thousands of people?”",
+  "notConfuse": {
+   "name": "Hasty Generalization",
+   "slug": "hasty-generalization",
+   "diff": "Anecdotal evidence is the weak evidence itself. A hasty generalization is the big conclusion built on top of it."
+  },
+  "evidence": "",
+  "sources": [
+   "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "cherry-picking",
+  "kind": "fallacy",
+  "name": "Cherry Picking",
+  "intl": "Cherry Picking",
+  "oneLine": "You show only the evidence that supports your side and hide the evidence against it.",
+  "examples": [
+   {
+    "where": "In ads",
+    "text": "“9 out of 10 customers are satisfied!” — without saying how many they asked or how they chose them."
+   },
+   {
+    "where": "Online reviews",
+    "text": "A restaurant’s website shows three glowing reviews and leaves out the hundred one-star ones."
+   },
+   {
+    "where": "At work",
+    "text": "A report highlights the one month when sales were high and skips the months when they dropped."
+   }
+  ],
+  "detect": "Ask: is this everything there is, or just a piece of it? What might have been left out?",
+  "respond": "“Okay, those are the good examples. Can we see the full picture, including the parts that don’t help our case?”",
+  "notConfuse": {
+   "name": "Confirmation Bias",
+   "slug": "confirmation-bias",
+   "diff": "Cherry picking is something done in an argument, sometimes on purpose. Confirmation bias happens inside your head, usually without you noticing."
+  },
+  "evidence": "",
+  "sources": [
+   "Govier, T. (2013). A Practical Study of Argument. Cengage."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-analogy",
+  "kind": "fallacy",
+  "name": "False Analogy",
+  "intl": "False Analogy",
+  "oneLine": "You compare two things that are alike in one way and conclude they must be alike in another, unrelated way.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Kids are like houseplants. Just leave them alone and they’ll grow.” — But kids need raising, not just water and sunlight."
+   },
+   {
+    "where": "At work",
+    "text": "“We’re a family here, so a good employee doesn’t complain about unpaid overtime.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“Running a city is just like running your household budget — if you’re in debt, you sell the furniture.” — A city’s finances don’t work like a family’s checking account."
+   }
+  ],
+  "detect": "Ask: are these two things alike in the specific way we’re talking about? Or are they alike in some completely different way?",
+  "respond": "“It’s a nice comparison, but there’s an important difference: this. So the conclusion doesn’t have to be the same.”",
+  "notConfuse": {
+   "name": "A sound analogy",
+   "slug": "",
+   "diff": "Analogy is an important thinking tool. It’s sound when the similarity is in the very thing you’re drawing a conclusion about, and false when the similarity is only skin-deep."
+  },
+  "evidence": "",
+  "sources": [
+   "Juthe, A. (2005). Argument by analogy. Argumentation, 19(1), 1–27."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "personal-incredulity",
+  "kind": "fallacy",
+  "name": "Argument from Personal Incredulity",
+  "intl": "Personal Incredulity",
+  "oneLine": "You reject something because it’s hard for you to imagine or understand, not because there’s evidence it’s wrong.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“How can a plane that weighs hundreds of tons just float in the air? Something doesn’t add up.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“There’s no way my phone knows where I am with GPS turned off. That’s a lie.”"
+   },
+   {
+    "where": "At work",
+    "text": "“No way this software does the whole job in a minute. They’re fudging the numbers.”"
+   }
+  ],
+  "detect": "If the reason is “I just can’t believe it” or “it doesn’t make sense to me,” that describes your feeling, not the thing itself.",
+  "respond": "“I’m surprised too, but surprise isn’t evidence. Let’s figure out how it actually works.”",
+  "notConfuse": {
+   "name": "Healthy skepticism",
+   "slug": "",
+   "diff": "Doubting something and asking for evidence is a good thing. The fallacy is rejecting it outright because it surprises you, without looking into it."
+  },
+  "evidence": "",
+  "sources": [
+   "Dawkins, R. (1986). The Blind Watchmaker. Norton."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "genetic-fallacy",
+  "kind": "fallacy",
+  "name": "Genetic Fallacy",
+  "intl": "Genetic Fallacy",
+  "oneLine": "You judge an idea as right or wrong based on where it came from, not on what it actually says.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“That idea came from some tech bro in Silicon Valley, so it can’t be any good.”"
+   },
+   {
+    "where": "On social media",
+    "text": "“That was reported by a news site I can’t stand, so it’s obviously fake.”"
+   },
+   {
+    "where": "At work",
+    "text": "“Our competitor came up with that process, so we’re not using it.”"
+   }
+  ],
+  "detect": "Ask: if the exact same idea came from a different source, would I accept it? If yes, I’m judging the source, not the idea.",
+  "respond": "“Okay, let’s set the source aside and look at the idea itself: is it right or wrong?”",
+  "notConfuse": {
+   "name": "Ad Hominem",
+   "slug": "ad-hominem",
+   "diff": "Ad hominem attacks the person who’s speaking right now. The genetic fallacy judges an idea by where it came from, even when no one is around defending it."
+  },
+  "evidence": "",
+  "sources": [
+   "Copi, I., Cohen, C., & McMahon, K. (2014). Introduction to Logic. Pearson."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "composition-division",
+  "kind": "fallacy",
+  "name": "Fallacy of Composition / Division",
+  "intl": "Composition / Division",
+  "oneLine": "You assume that what’s true of the parts is true of the whole, or the other way around.",
+  "examples": [
+   {
+    "where": "In sports",
+    "text": "“We just signed five All-Stars, so we’re guaranteed to be the best team in the league.” — A team of stars might not play well together."
+   },
+   {
+    "where": "In the kitchen",
+    "text": "“I love every one of these ingredients, so the dish is going to be delicious.”"
+   },
+   {
+    "where": "At work",
+    "text": "“That company is hugely successful, so every single person who works there must be brilliant.”"
+   }
+  ],
+  "detect": "Ask: does this quality really carry over from the part to the whole, or from the whole to the part? Or is the whole something different from the sum of its parts?",
+  "respond": "“Each piece is great on its own, but that’s no guarantee they’ll be great together.”",
+  "notConfuse": {
+   "name": "Hasty Generalization",
+   "slug": "hasty-generalization",
+   "diff": "A hasty generalization judges many individuals from a few examples. Composition and division confuse the traits of the parts with the traits of the whole thing itself."
+  },
+  "evidence": "",
+  "sources": [
+   "Copi, I., Cohen, C., & McMahon, K. (2014). Introduction to Logic. Pearson."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "gamblers-fallacy",
+  "kind": "fallacy",
+  "name": "Gambler's Fallacy",
+  "intl": "Gambler's Fallacy",
+  "oneLine": "Believing a random event is “due” because it hasn't happened in a while, or won't happen because it just did.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“We've had three girls, so the next one's definitely a boy.” — The odds are still roughly 50/50."
+   },
+   {
+    "where": "At the lottery counter",
+    "text": "“This number hasn't come up in months. It's got to hit soon.”"
+   },
+   {
+    "where": "On sports talk radio",
+    "text": "“This ref has given us a bunch of penalties lately, so the next close call has to go our way.”"
+   }
+  ],
+  "detect": "Ask: is each try independent of the last one? A coin has no memory of how it landed last time.",
+  "respond": "“Each try stands on its own. The odds don't shift because of what happened before.”",
+  "notConfuse": {
+   "name": "Dependent events",
+   "slug": "",
+   "diff": "When events really are linked, like drawing cards without putting them back, the odds genuinely change. The fallacy only applies to independent events."
+  },
+  "evidence": "",
+  "sources": [
+   "Tversky, A., & Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 76(2), 105–110."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-compromise",
+  "kind": "fallacy",
+  "name": "False Compromise",
+  "intl": "Argument to Moderation",
+  "oneLine": "Assuming the truth must sit halfway between two positions, even when one of them is flat-out wrong.",
+  "examples": [
+   {
+    "where": "At Thanksgiving dinner",
+    "text": "“Your cousin says the Earth is round, your uncle says it's flat. The truth is probably somewhere in the middle.”"
+   },
+   {
+    "where": "At work",
+    "text": "“The engineer says the bridge needs 100 tons of steel, the contractor says 50. Let's split it at 75.” — 75 might not hold the bridge up."
+   },
+   {
+    "where": "On a morning show",
+    "text": "A segment seats a doctor next to a wellness influencer and presents their views on vaccines as two equally supported sides."
+   }
+  ],
+  "detect": "Ask: how much evidence does each side actually have? If one side has none, the middle isn't the answer.",
+  "respond": "“Meeting in the middle is great for negotiating, not for facts. Let's look at what the evidence says.”",
+  "notConfuse": {
+   "name": "False Dilemma",
+   "slug": "false-dilemma",
+   "diff": "A false dilemma hides the options in the middle. A false compromise assumes the middle is always right. They're mirror images."
+  },
+  "evidence": "",
+  "sources": [
+   "Walton, D. (1999). One-Sided Arguments. SUNY Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "sunk-cost",
+  "kind": "fallacy",
+  "name": "Sunk Cost Fallacy",
+  "intl": "Sunk Cost Fallacy",
+  "oneLine": "Sticking with a losing bet because of what you've already put in, not because it's worth continuing.",
+  "examples": [
+   {
+    "where": "At the movies",
+    "text": "“We paid $16 a ticket. We're sitting through this terrible movie to the end.”"
+   },
+   {
+    "where": "At the mechanic",
+    "text": "“I've already sunk $5,000 into repairs on this car, so I have to fix it again.” — Even if the repair now costs more than the car is worth."
+   },
+   {
+    "where": "At work",
+    "text": "“We've spent a year on this project. We can't stop now.” — Even when it's clearly not going to work."
+   }
+  ],
+  "detect": "Ask: if I hadn't spent anything yet, would I start this today? What's spent is gone. The only question is what comes next.",
+  "respond": "“That money's gone whether we keep going or stop. The question is: what's the best move from here?”",
+  "notConfuse": {
+   "name": "Commitment and persistence",
+   "slug": "",
+   "diff": "Pushing through something hard because it's likely to pay off is grit. The fallacy is pushing on only because of the past, when the future isn't on your side."
+  },
+  "evidence": "",
+  "sources": [
+   "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124–140."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "whataboutism",
+  "kind": "fallacy",
+  "name": "Whataboutism",
+  "intl": "Whataboutism",
+  "oneLine": "Answering a criticism by pointing at someone else's wrongdoing instead of addressing the criticism itself.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Why is your room such a mess?” — “What about my brother's room? It's way worse!”"
+   },
+   {
+    "where": "In an Amazon review thread",
+    "text": "“This company's customer service is awful.” — “What about the other company? They're even worse!”"
+   },
+   {
+    "where": "In fantasy football chat",
+    "text": "“That was a dirty hit by our guy.” — “What about their linebacker last week?”"
+   }
+  ],
+  "detect": "If the reply starts with “What about...” and names someone else, ask: did the original criticism actually get answered?",
+  "respond": "“Maybe they're wrong too, and we can talk about that later. Right now we're talking about this.”",
+  "notConfuse": {
+   "name": "Tu Quoque",
+   "slug": "tu-quoque",
+   "diff": "Tu quoque (“you too”) turns the criticism back on the person making it. Whataboutism escapes to a third party entirely."
+  },
+  "evidence": "",
+  "sources": [
+   "Bowell, T., & Kemp, G. (2015). Critical Thinking: A Concise Guide. Routledge."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "fallacy-fallacy",
+  "kind": "fallacy",
+  "name": "Fallacy Fallacy",
+  "intl": "Fallacy Fallacy",
+  "oneLine": "Rejecting an idea entirely because the argument for it contains a fallacy, even though the idea itself might be true.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“You told me not to smoke because Uncle Mike said so. That's an appeal to authority, so smoking must be fine.”"
+   },
+   {
+    "where": "On Instagram",
+    "text": "“This ad is pure emotional manipulation, so the product has to be junk.”"
+   },
+   {
+    "where": "In a Reddit debate",
+    "text": "“Your point is a hasty generalization, so everything you said is wrong.”"
+   }
+  ],
+  "detect": "Remember: a weak argument means that particular reason isn't enough. It doesn't mean the claim is false. Better evidence may still exist.",
+  "respond": "“Agreed, that argument is weak. But that doesn't prove the idea is wrong. Let's look for better evidence.”",
+  "notConfuse": {
+   "name": "Criticizing an argument",
+   "slug": "",
+   "diff": "Saying “this argument is weak” is fair criticism. The fallacy is jumping from “the argument is weak” to “the conclusion is false.”"
+  },
+  "evidence": "",
+  "sources": [
+   "Bennett, B. (2012). Logically Fallacious. eBookIt."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "availability",
+  "kind": "bias",
+  "name": "Availability Heuristic",
+  "intl": "Availability Heuristic",
+  "oneLine": "Judging how common or dangerous something is by how easily examples come to mind.",
+  "examples": [
+   {
+    "where": "Before a trip",
+    "text": "After seeing news coverage of a plane crash, you feel more nervous about flying than driving, even though the drive is far riskier."
+   },
+   {
+    "where": "On the neighborhood app",
+    "text": "Every day there's a new post about a stolen package, so it feels like the whole area has gotten unsafe, even if the numbers say otherwise."
+   },
+   {
+    "where": "At work",
+    "text": "At review time, the manager remembers your most recent slip-up and forgets a full year of solid work."
+   }
+  ],
+  "detect": "Ask: am I seeing this a lot because it's actually common, or because it's recent and keeps showing up in front of me?",
+  "respond": "Reach for numbers instead of memory: “What do the statistics actually say?”",
+  "notConfuse": {
+   "name": "Confirmation Bias",
+   "slug": "confirmation-bias",
+   "diff": "Availability is about what's easy to remember. Confirmation bias is about what agrees with what you already believe."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "halo-effect",
+  "kind": "bias",
+  "name": "Halo Effect",
+  "intl": "Halo Effect",
+  "oneLine": "Letting one good trait, like looks or fame, make us assume everything else about a person is good too.",
+  "examples": [
+   {
+    "where": "At a job interview",
+    "text": "The candidate is polished and charming, so the interview breezes by and nobody really digs into their experience."
+   },
+   {
+    "where": "In ads",
+    "text": "A beloved actor promotes a payday-loan app called QuickCashly, and people assume the app must be legit."
+   },
+   {
+    "where": "At school",
+    "text": "The star of the basketball team gets a little extra leniency when the teacher grades his English essay."
+   }
+  ],
+  "detect": "Ask: am I judging this specific thing, or am I being swayed by some other trait that has nothing to do with it?",
+  "respond": "Rate each quality on its own. Make a list: experience, price, quality, and give each a separate score.",
+  "notConfuse": {
+   "name": "Appeal to Authority",
+   "slug": "appeal-to-authority",
+   "diff": "Appeal to authority is a fallacy inside an argument. The halo effect is a bias in our impressions, and it happens even when nobody is arguing with you."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Nisbett, R. E., & Wilson, T. D. (1977). The halo effect: Evidence for unconscious alteration of judgments. Journal of Personality and Social Psychology, 35(4), 250–256."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "bandwagon",
+  "kind": "bias",
+  "name": "Bandwagon Effect",
+  "intl": "Bandwagon Effect",
+  "oneLine": "Our tendency to do or believe something because lots of people around us do.",
+  "examples": [
+   {
+    "where": "At the mall",
+    "text": "You see a long line outside a store and join it before you even know what they're selling."
+   },
+   {
+    "where": "On TikTok",
+    "text": "A new trend takes off, everyone's doing it, so you do it too without asking whether it actually fits you."
+   },
+   {
+    "where": "In crypto",
+    "text": "Everyone you know piled into the same new coin, so you buy in too, afraid of missing out."
+   }
+  ],
+  "detect": "Ask: if nobody else were doing this, would I still do it?",
+  "respond": "Take a minute before you act, and write down your own reason, not the crowd's.",
+  "notConfuse": {
+   "name": "Appeal to Popularity",
+   "slug": "appeal-to-majority",
+   "diff": "Appeal to popularity is a fallacy: someone uses popularity as evidence in an argument. The bandwagon effect is a bias: you follow the crowd without noticing."
+  },
+  "evidence": "Moderate",
+  "sources": [
+   "Asch, S. E. (1956). Studies of independence and conformity. Psychological Monographs, 70(9), 1–70.",
+   "Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis. Psychological Bulletin, 119(1), 111–137."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "loss-aversion",
+  "kind": "bias",
+  "name": "Loss Aversion",
+  "intl": "Loss Aversion",
+  "oneLine": "The sting of losing something tends to feel bigger than the joy of gaining something of the same value.",
+  "examples": [
+   {
+    "where": "In everyday life",
+    "text": "Losing a $20 bill bugs you a lot more than finding a $20 bill on the sidewalk makes you happy."
+   },
+   {
+    "where": "In ads",
+    "text": "“Don't miss out on this deal” tends to hit harder than “Get a discount,” even though they mean the same thing."
+   },
+   {
+    "where": "In investing",
+    "text": "A stock keeps dropping, and you won't sell because that would mean admitting the loss, so you lose even more."
+   }
+  ],
+  "detect": "Ask: am I rejecting this because it's actually a bad decision, or because I don't want to feel the loss?",
+  "respond": "Look at the whole decision: “If I didn't already own this, would I buy it today at this price?”",
+  "notConfuse": {
+   "name": "Sunk Cost Fallacy",
+   "slug": "sunk-cost",
+   "diff": "Loss aversion is a general feeling that losses hurt more. The sunk cost fallacy is one result of it in a specific decision: continuing because of what you've already spent."
+  },
+  "evidence": "Strong, though recent research debates how big the effect really is",
+  "sources": [
+   "Kahneman, D., & Tversky, A. (1979). Prospect theory. Econometrica, 47(2), 263–291.",
+   "Gal, D., & Rucker, D. D. (2018). The loss of loss aversion. Journal of Consumer Psychology, 28(3), 497–516."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "framing",
+  "kind": "bias",
+  "name": "Framing Effect",
+  "intl": "Framing Effect",
+  "oneLine": "The exact same information can lead us to different decisions depending on how it's worded.",
+  "examples": [
+   {
+    "where": "At the doctor's office",
+    "text": "“This surgery has a 90% success rate” sounds more reassuring than “10% of these surgeries fail,” even though it's the same number."
+   },
+   {
+    "where": "At the grocery store",
+    "text": "Ground beef labeled “95% lean” sells better than the same beef labeled “5% fat.”"
+   },
+   {
+    "where": "On a used-car lot",
+    "text": "“Just $15 a day” sounds lighter than “$450 a month.”"
+   }
+  ],
+  "detect": "Flip the wording in your head: if the same thing were said the opposite way, would I feel the same about it?",
+  "respond": "Convert everything into full numbers in the same format, then compare.",
+  "notConfuse": {
+   "name": "Equivocation",
+   "slug": "equivocation",
+   "diff": "Equivocation changes what a word means. Framing leaves the meaning the same but presents it in a way that nudges you."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "hindsight",
+  "kind": "bias",
+  "name": "Hindsight Bias",
+  "intl": "Hindsight Bias",
+  "oneLine": "After something happens, we feel like we saw it coming all along, and that it was obvious.",
+  "examples": [
+   {
+    "where": "On sports talk radio",
+    "text": "After the game: “I knew they'd lose the second I saw the starting lineup.”"
+   },
+   {
+    "where": "In the family group chat",
+    "text": "“It was obvious that marriage wasn't going to last.” — Said after the divorce."
+   },
+   {
+    "where": "At work",
+    "text": "“That project was clearly doomed.” — Nobody said so before it failed."
+   }
+  ],
+  "detect": "Ask: did I actually say or write that prediction before it happened? If not, my memory may be rearranging itself.",
+  "respond": "Write your predictions down before things happen, then check back later. You'll be surprised.",
+  "notConfuse": {
+   "name": "Overconfidence",
+   "slug": "overconfidence",
+   "diff": "Hindsight bias is about the past: believing you saw it coming. Overconfidence is about the present and future: trusting your judgment more than you should."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Fischhoff, B. (1975). Hindsight ≠ foresight. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288–299.",
+   "Roese, N. J., & Vohs, K. D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411–426."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "fundamental-attribution",
+  "kind": "bias",
+  "name": "Fundamental Attribution Error",
+  "intl": "Fundamental Attribution Error",
+  "oneLine": "When someone else messes up, we blame their character and overlook the circumstances. When we mess up, we see the circumstances right away.",
+  "examples": [
+   {
+    "where": "On the highway",
+    "text": "The car ahead cuts you off: “What a reckless jerk.” When you cut someone off: “I was running late.”"
+   },
+   {
+    "where": "On the office Slack",
+    "text": "Your coworker joins the meeting late: “So unprofessional.” You join late: “Traffic was brutal.”"
+   },
+   {
+    "where": "At home",
+    "text": "Your kid didn't study: “He's just lazy.” Nobody asks whether he was sick or something was bothering him."
+   }
+  ],
+  "detect": "Ask: if I had done the exact same thing, how would I explain it?",
+  "respond": "Before you judge someone, think of three circumstances that could be behind what they did.",
+  "notConfuse": {
+   "name": "Ad Hominem",
+   "slug": "ad-hominem",
+   "diff": "Ad hominem is a fallacy in a debate: attacking the person instead of their argument. The attribution error is a bias in how we judge people's behavior, even when no one is debating."
+  },
+  "evidence": "Moderate, and it varies across cultures",
+  "sources": [
+   "Ross, L. (1977). The intuitive psychologist and his shortcomings. Advances in Experimental Social Psychology, 10, 173–220.",
+   "Choi, I., Nisbett, R. E., & Norenzayan, A. (1999). Causal attribution across cultures. Psychological Bulletin, 125(1), 47–63."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "in-group",
+  "kind": "bias",
+  "name": "In-Group Bias",
+  "intl": "In-group Bias",
+  "oneLine": "Our tendency to believe, back, and give more chances to people from our own group, like our hometown, team, school, or family.",
+  "examples": [
+   {
+    "where": "In the stands",
+    "text": "When your team's player makes a hard hit, it's “playing tough.” When the other team does it, it's “dirty.”"
+   },
+   {
+    "where": "At work",
+    "text": "The manager keeps handing opportunities to people from his alma mater without realizing it."
+   },
+   {
+    "where": "On Facebook",
+    "text": "Bad news about someone from your hometown: “Must be fake.” The same news about someone from the rival town across the river: “Typical.”"
+   }
+  ],
+  "detect": "Ask: if someone from the other group did exactly the same thing, would I judge them the same way?",
+  "respond": "Swap the names in your head and see whether your verdict changes.",
+  "notConfuse": {
+   "name": "No True Scotsman",
+   "slug": "no-true-scotsman",
+   "diff": "No True Scotsman is a fallacy that redefines the group mid-argument to protect it. In-group bias is the underlying pull that makes you want to do that."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In The Social Psychology of Intergroup Relations.",
+   "Balliet, D., Wu, J., & De Dreu, C. K. W. (2014). Ingroup favoritism in cooperation: A meta-analysis. Psychological Bulletin, 140(6), 1556–1581."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "status-quo",
+  "kind": "bias",
+  "name": "Status Quo Bias",
+  "intl": "Status Quo Bias",
+  "oneLine": "Preferring that things stay the way they are, even when a change would be better for us.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Your phone plan is overpriced and doesn't fit how you use it, but you keep it because you're “used to it.”"
+   },
+   {
+    "where": "At work",
+    "text": "A new tool would cut the team's busywork in half, but nobody wants to try it."
+   },
+   {
+    "where": "With your money",
+    "text": "Your savings have sat for years in an account that pays next to nothing, because switching feels like a hassle."
+   }
+  ],
+  "detect": "Ask: if I were choosing from scratch today, would I pick this?",
+  "respond": "Put a reminder on your calendar every few months to review the things you never revisit, like plans and streaming subscriptions.",
+  "notConfuse": {
+   "name": "Appeal to Tradition",
+   "slug": "appeal-to-tradition",
+   "diff": "Appeal to tradition is a fallacy that says “it's right because it's always been done this way.” Status quo bias is an inner pull to avoid change, even without any argument."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7–59."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "optimism-bias",
+  "kind": "bias",
+  "name": "Optimism Bias",
+  "intl": "Optimism Bias",
+  "oneLine": "Believing bad things are less likely to happen to us than to other people.",
+  "examples": [
+   {
+    "where": "On the road",
+    "text": "“I'm a good driver, I'm not going to crash.” — So you text while driving."
+   },
+   {
+    "where": "At work",
+    "text": "“This project will take a week.” — And it takes a month, like every time."
+   },
+   {
+    "where": "With your health",
+    "text": "“That stuff happens to other people.” — So you keep putting off your annual checkup."
+   }
+  ],
+  "detect": "Ask: if a friend said this about themselves, would I believe them? And what happened the last few times?",
+  "respond": "For deadlines and budgets, take your estimate and add a buffer, because most people lowball.",
+  "notConfuse": {
+   "name": "Overconfidence",
+   "slug": "overconfidence",
+   "diff": "Optimism bias is expecting luck to be on your side. Overconfidence is trusting your own knowledge and skills too much."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806–820.",
+   "Sharot, T. (2011). The optimism bias. Current Biology, 21(23), R941–R945."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "negativity-bias",
+  "kind": "bias",
+  "name": "Negativity Bias",
+  "intl": "Negativity Bias",
+  "oneLine": "Bad things affect us more and stick in memory longer than good things of the same size.",
+  "examples": [
+   {
+    "where": "At work",
+    "text": "Ten customers thanked you today and one complained, and on the drive home all you can think about is the complaint."
+   },
+   {
+    "where": "On social media",
+    "text": "Bad news tends to spread faster and get more engagement than good news."
+   },
+   {
+    "where": "At home",
+    "text": "One harsh word in an argument stays with you for years, while plenty of kind words fade."
+   }
+  ],
+  "detect": "Ask: am I holding on to this because it actually matters, or just because it was negative?",
+  "respond": "Write down the good things too, so you're looking at the whole picture.",
+  "notConfuse": {
+   "name": "Loss Aversion",
+   "slug": "loss-aversion",
+   "diff": "Loss aversion is specifically about gains and losses in decisions. Negativity bias is broader: memories, news, and first impressions."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. Review of General Psychology, 5(4), 323–370."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "survivorship",
+  "kind": "bias",
+  "name": "Survivorship Bias",
+  "intl": "Survivorship Bias",
+  "oneLine": "Looking only at the people or things that made it, and forgetting the ones that tried the same thing and failed, because they're no longer visible.",
+  "examples": [
+   {
+    "where": "In business",
+    "text": "“That founder dropped out of college and became a billionaire, so college is pointless.” — Nobody talks about the thousands who dropped out and didn't make it."
+   },
+   {
+    "where": "At the antique store",
+    "text": "“Old furniture was built to last, not like today.” — The old stuff that fell apart got thrown out. Only the good pieces are left."
+   },
+   {
+    "where": "On YouTube",
+    "text": "Videos titled “How I made a million day trading.” The people who lost money don't make videos."
+   }
+  ],
+  "detect": "Ask: where are the people who tried the same thing and failed? And how many of them are there?",
+  "respond": "“Okay, that's a success story. But out of every 100 people who tried this, how many made it?”",
+  "notConfuse": {
+   "name": "Cherry Picking",
+   "slug": "cherry-picking",
+   "diff": "Cherry picking is when someone chooses to hide the evidence against them. In survivorship bias, the failures vanish from view on their own, with no one hiding them."
+  },
+  "evidence": "Strong, since it's a well-established statistical error",
+  "sources": [
+   "Wald, A. (1943). A method of estimating plane vulnerability based on damage of survivors. Statistical Research Group, Columbia University.",
+   "Brown, S. J., Goetzmann, W., Ibbotson, R. G., & Ross, S. A. (1992). Survivorship bias in performance studies. Review of Financial Studies, 5(4), 553–580."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "spotlight-effect",
+  "kind": "bias",
+  "name": "Spotlight Effect",
+  "intl": "Spotlight Effect",
+  "oneLine": "Believing other people notice our appearance and our mistakes far more than they actually do.",
+  "examples": [
+   {
+    "where": "Out and about",
+    "text": "There's a small coffee stain on your shirt, and you feel like everyone's staring at it all day."
+   },
+   {
+    "where": "At work",
+    "text": "You stumbled over one sentence in your presentation and replayed it for a week. Nobody else remembered."
+   },
+   {
+    "where": "On Instagram",
+    "text": "You hold off on posting because “what will people think,” when most of them will scroll past in a second."
+   }
+  ],
+  "detect": "Ask: do I remember other people's slip-ups in this much detail? Probably not, and neither do they.",
+  "respond": "Remember that everyone is busy with themselves and the spotlight they feel on them.",
+  "notConfuse": {
+   "name": "Negativity Bias",
+   "slug": "negativity-bias",
+   "diff": "Negativity bias is when a bad moment sticks in your own head. The spotlight effect is believing it's stuck in everyone else's head too."
+  },
+  "evidence": "Moderate",
+  "sources": [
+   "Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment. Journal of Personality and Social Psychology, 78(2), 211–222."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "decoy-effect",
+  "kind": "bias",
+  "name": "Decoy Effect",
+  "intl": "Decoy Effect",
+  "oneLine": "Adding a third option nobody would really pick can make one of the original two look much better.",
+  "examples": [
+   {
+    "where": "At the movie theater",
+    "text": "Small popcorn is $5, medium is $8.50, large is $9. The medium is there to make the large look like a steal."
+   },
+   {
+    "where": "Streaming plans",
+    "text": "Basic is $10, Premium is $15, and “Standard Plus” is $14.50 with fewer features than Premium. The third plan is the decoy."
+   },
+   {
+    "where": "At the car dealership",
+    "text": "A mid-level trim is priced just below the top trim, so the top one suddenly seems “worth the difference.”"
+   }
+  ],
+  "detect": "If there's an option no sensible person would choose, ask why it's there. Then mentally remove it and compare the rest.",
+  "respond": "Compare only the options you're actually considering, based on what you need, not on the third option.",
+  "notConfuse": {
+   "name": "Anchoring",
+   "slug": "anchoring",
+   "diff": "An anchor is a number that pulls your judgment toward it. A decoy is a whole option placed there so another option wins the comparison."
+  },
+  "evidence": "Moderate, and some studies have failed to replicate it",
+  "sources": [
+   "Huber, J., Payne, J. W., & Puto, C. (1982). Adding asymmetrically dominated alternatives. Journal of Consumer Research, 9(1), 90–98.",
+   "Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487–507."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "authority-bias",
+  "kind": "bias",
+  "name": "Authority Bias",
+  "intl": "Authority Bias",
+  "oneLine": "Our tendency to obey or believe anyone who looks authoritative, like a uniform, a title, or a position, without thinking it through.",
+  "examples": [
+   {
+    "where": "At your front door",
+    "text": "Someone in a hi-vis vest with a clipboard asks to come in and “check the meter,” and you let him in without asking who he's with."
+   },
+   {
+    "where": "On TikTok",
+    "text": "A wellness account puts “Dr.” in front of its name, and people trust its health tips, even though the degree isn't in medicine."
+   },
+   {
+    "where": "At work",
+    "text": "The boss pitches a bad idea in the meeting, and nobody pushes back."
+   }
+  ],
+  "detect": "Ask: am I convinced because the argument is good, or because this person looks important?",
+  "respond": "Ask politely: “Can I ask what your background is in this?” or “What's the source?”",
+  "notConfuse": {
+   "name": "Appeal to Authority",
+   "slug": "appeal-to-authority",
+   "diff": "Appeal to authority is a fallacy in an argument someone makes. Authority bias is our inner tendency to defer, even when no one is arguing with us."
+  },
+  "evidence": "Moderate",
+  "sources": [
+   "Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371–378.",
+   "Burger, J. M. (2009). Replicating Milgram. American Psychologist, 64(1), 1–11."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "overconfidence",
+  "kind": "bias",
+  "name": "Overconfidence",
+  "intl": "Overconfidence",
+  "oneLine": "Being more sure of what we know and what we estimate than our actual accuracy justifies.",
+  "examples": [
+   {
+    "where": "On the road",
+    "text": "In surveys, most drivers rate themselves as more skilled than most other drivers, which can't be true for most of us."
+   },
+   {
+    "where": "At work",
+    "text": "“I'm 100% sure that number is right.” — Then someone double-checks, and it's wrong."
+   },
+   {
+    "where": "In investing",
+    "text": "“I really understand the market.” — So he puts his entire 401(k) into a single stock."
+   }
+  ],
+  "detect": "Ask: how many times have I felt this sure and turned out wrong? And what could make me wrong this time?",
+  "respond": "Instead of “I'm sure,” say “I'm about this sure.” And get a second opinion before big decisions.",
+  "notConfuse": {
+   "name": "Dunning–Kruger Effect",
+   "slug": "dunning-kruger",
+   "diff": "Overconfidence is general and happens to everyone, experts included. Dunning–Kruger is a narrower, disputed claim: that people who know little overestimate themselves the most."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Moore, D. A., & Healy, P. J. (2008). The trouble with overconfidence. Psychological Review, 115(2), 502–517.",
+   "Svenson, O. (1981). Are we all less risky and more skillful than our fellow drivers? Acta Psychologica, 47(2), 143–148."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "dunning-kruger",
+  "kind": "bias",
+  "name": "Dunning–Kruger Effect",
+  "intl": "Dunning–Kruger Effect",
+  "oneLine": "The idea that people who know little about a subject overestimate their skill in it. But the evidence for the famous version of this idea is disputed.",
+  "examples": [
+   {
+    "where": "On Reddit",
+    "text": "Someone watched two YouTube videos about economics and now argues with economists in the comments, totally confident."
+   },
+   {
+    "where": "At work",
+    "text": "A new hire thinks the job is easy and the veterans just don't get it, until they dig in a little deeper."
+   },
+   {
+    "where": "A word of caution",
+    "text": "That famous chart with “Mount Stupid” and the “Valley of Despair” doesn't appear anywhere in the original study."
+   }
+  ],
+  "detect": "This isn't a tool for judging other people. Use it as a question for yourself: how much do I really know about this?",
+  "respond": "Don't use the name as an insult in an argument. Focus on the evidence in what the person says, not on their level.",
+  "notConfuse": {
+   "name": "Overconfidence",
+   "slug": "overconfidence",
+   "diff": "Overconfidence is well established and happens to everyone. Part of the Dunning–Kruger findings may be explained by statistical artifacts, and researchers still disagree about it."
+  },
+  "evidence": "Disputed",
+  "sources": [
+   "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. Journal of Personality and Social Psychology, 77(6), 1121–1134.",
+   "Nuhfer, E., et al. (2017). How random noise and a graphical convention subverted behavioral scientists' explanations of self-assessment data. Numeracy, 10(1).",
+   "Jansen, R. A., Rafferty, A. N., & Griffiths, T. L. (2021). A rational model of the Dunning–Kruger effect. Nature Human Behaviour, 5, 756–763."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "choice-supportive",
+  "kind": "bias",
+  "name": "Choice-Supportive Bias",
+  "intl": "Choice-Supportive Bias",
+  "oneLine": "After we choose something, we remember its upsides more and forget its downsides, to convince ourselves we chose right.",
+  "examples": [
+   {
+    "where": "After buying a car",
+    "text": "Once you drive it off the lot, you notice every feature you love, and any flaw becomes “no big deal.”"
+   },
+   {
+    "where": "At work",
+    "text": "You left one job for another, and now you only remember the bad parts of the old one, even things that never bothered you."
+   },
+   {
+    "where": "At home",
+    "text": "You picked a school for your kid, and now you can't stand to hear any criticism of it."
+   }
+  ],
+  "detect": "Ask: if I'd picked the other option, would I be seeing these same upsides in it?",
+  "respond": "Before you choose, write down the pros and cons of each option. After you choose, go back to that list.",
+  "notConfuse": {
+   "name": "Sunk Cost Fallacy",
+   "slug": "sunk-cost",
+   "diff": "The sunk cost fallacy keeps you going with a bad decision. Choice-supportive bias makes you remember the decision itself as better than it was."
+  },
+  "evidence": "Moderate",
+  "sources": [
+   "Mather, M., & Johnson, M. K. (2000). Choice-supportive source monitoring. Psychology and Aging, 15(4), 596–606.",
+   "Brehm, J. W. (1956). Postdecision changes in the desirability of alternatives. Journal of Abnormal and Social Psychology, 52(3), 384–389."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "moving-goalposts",
+  "kind": "fallacy",
+  "name": "Moving the Goalposts",
+  "intl": "Moving the Goalposts",
+  "oneLine": "Setting a condition for being convinced, then changing it to something harder once it's met, instead of admitting the point.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“Get straight A's and you can have a new phone.” — He gets straight A's. — “No, that was just the first semester. Wait till the end of the year.”"
+   },
+   {
+    "where": "On Reddit",
+    "text": "“Show me proof.” — Here's a study. — “That one's tiny.” — Here's a big one. — “Somebody must have paid for it.”"
+   },
+   {
+    "where": "At work",
+    "text": "“If the app gets 100 sign-ups in a month, we keep funding it.” — It gets 120. — “No, we really needed 500 for it to count as a success.”"
+   }
+  ],
+  "detect": "Remember the condition that was set at the start. If every time it's met a new, harder one appears, the conclusion was probably decided before the evidence.",
+  "respond": "Agree on the condition up front and write it down: “What exactly would change your mind?” If it's met, calmly point back to it.",
+  "notConfuse": {
+   "name": "No True Scotsman",
+   "slug": "no-true-scotsman",
+   "diff": "No True Scotsman changes the definition to push the counterexample out. Moving the goalposts raises the bar for evidence every time the evidence clears it."
+  },
+  "evidence": "",
+  "sources": [
+   "Damer, T. E. (2009). Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments (6th ed.). Wadsworth Cengage Learning.",
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-equivalence",
+  "kind": "fallacy",
+  "name": "False Equivalence",
+  "intl": "False Equivalence",
+  "oneLine": "Treating two things as equal because they share one feature, even though they differ hugely in size or seriousness.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“You forgot to pick up milk, and I forgot to pay the rent. So we're even.”"
+   },
+   {
+    "where": "In the locker room",
+    "text": "“The guy who showed up five minutes late to practice is the same as the guy who shoved the ref. They both broke the rules.”"
+   },
+   {
+    "where": "On the local news",
+    "text": "A segment treats a long wait at an urgent care clinic and a ring selling counterfeit pills as “the same problem.”"
+   }
+  ],
+  "detect": "Ask: are these two things really equal, or do they just share one trait? Where's the difference in size and harm?",
+  "respond": "“Sure, both are wrong. But a $5 mistake isn't a $5,000 mistake. Let's keep each one in proportion.”",
+  "notConfuse": {
+   "name": "False Analogy",
+   "slug": "false-analogy",
+   "diff": "A false analogy uses a resemblance between two things to reach a new conclusion. A false equivalence claims the two things carry the same weight in the first place."
+  },
+  "evidence": "",
+  "sources": [
+   "Damer, T. E. (2009). Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments (6th ed.). Wadsworth Cengage Learning.",
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "special-pleading",
+  "kind": "fallacy",
+  "name": "Special Pleading",
+  "intl": "Special Pleading",
+  "oneLine": "Applying a rule to everyone else while exempting yourself or your group without a convincing reason.",
+  "examples": [
+   {
+    "where": "At the dinner table",
+    "text": "“No phones at dinner.” — A minute later, Dad takes a call: “That's work, it's different.”"
+   },
+   {
+    "where": "In the parking lot",
+    "text": "A driver leans on the horn at someone double-parked, then double-parks in the same spot himself: “It's just for a minute.”"
+   },
+   {
+    "where": "At work",
+    "text": "The manager docks pay for any lateness, but when he's late: “My situation is different. I have responsibilities.”"
+   }
+  ],
+  "detect": "Ask: what's the real difference between this case and the others? If the only reason for the exception is “me” or “us,” it's special pleading.",
+  "respond": "“Maybe you do have a real reason. Tell us, and if it's convincing, it applies to everyone, not just you.”",
+  "notConfuse": {
+   "name": "Tu Quoque",
+   "slug": "tu-quoque",
+   "diff": "In tu quoque, you dismiss someone's point because they don't follow it themselves. In special pleading, you're the one excusing yourself from a rule you demand of others."
+  },
+  "evidence": "",
+  "sources": [
+   "Damer, T. E. (2009). Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments (6th ed.). Wadsworth Cengage Learning.",
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "base-rate-neglect",
+  "kind": "bias",
+  "name": "Base Rate Neglect",
+  "intl": "Base Rate Neglect",
+  "oneLine": "Focusing on the details in front of us and forgetting how common the thing is in the first place.",
+  "examples": [
+   {
+    "where": "At the doctor's office",
+    "text": "A test always catches the disease if you have it, but it also comes back falsely “positive” for 5% of healthy people. You test positive for a rare disease that affects 1 in 1,000 people, and you panic. But picture 1,000 people: 1 is actually sick, and about 50 healthy people also test positive. So most positive results here are false alarms. (This is an illustration, not medical advice. Ask your doctor what your own results mean.)"
+   },
+   {
+    "where": "In the family group chat",
+    "text": "“Most car crashes happen close to home, so your own neighborhood is the real danger!” — Well, most of your driving happens close to home in the first place."
+   },
+   {
+    "where": "On a first date",
+    "text": "“He's quiet and loves reading, so he's probably a librarian.” — Even though accountants outnumber librarians many times over."
+   }
+  ],
+  "detect": "Before you judge, ask: out of every 100 people, how many have this to begin with? If you don't know that number, your judgment is missing a piece.",
+  "respond": "Turn percentages into head counts: “Picture 1,000 people. How many are actually sick, and how many will get a wrong result?” And try the Probability Tree game on this site.",
+  "notConfuse": {
+   "name": "Availability Heuristic",
+   "slug": "availability",
+   "diff": "With availability, we estimate how common something is by how easily it comes to mind. With base rate neglect, the overall number is right in front of us, but we ignore it and follow the details."
+  },
+  "evidence": "Strong, though it shrinks a lot when information is shown as counts instead of percentages",
+  "sources": [
+   "Kahneman, D., & Tversky, A. (1973). On the psychology of prediction. Psychological Review, 80(4), 237–251.",
+   "Bar-Hillel, M. (1980). The base-rate fallacy in probability judgments. Acta Psychologica, 44(3), 211–233.",
+   "Gigerenzer, G., & Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats. Psychological Review, 102(4), 684–704."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "regression-to-mean",
+  "kind": "bias",
+  "name": "Regression to the Mean",
+  "intl": "Regression to the Mean (Neglect)",
+  "oneLine": "After any really extreme result, the next one is usually closer to normal. When we forget that, we invent a reason for the change.",
+  "examples": [
+   {
+    "where": "In sports",
+    "text": "A rookie running back rushes for 200 yards one Sunday, then 40 the next. “The fame got to his head.” Or that first game was just a freak outlier."
+   },
+   {
+    "where": "At work",
+    "text": "A manager chews out an employee after his worst month ever, and the next month is better. So the manager concludes that yelling gets results."
+   },
+   {
+    "where": "In health",
+    "text": "“My headache was at its absolute worst, I tried the tea a wellness influencer swears by, and it went away.” The headache was probably going to ease up on its own."
+   }
+  ],
+  "detect": "Ask: was the last result extreme? If yes, the change that followed may be perfectly normal, not caused by whatever we did.",
+  "respond": "“Before we say it was X, let’s look at every month, not just the best or worst one.” And if you can, compare with a group that didn’t do the same thing.",
+  "notConfuse": {
+   "name": "False Cause (Post Hoc)",
+   "slug": "false-cause",
+   "diff": "False cause is any bad link between one thing and another. Regression to the mean is a famous way we fall into it: the improvement would have happened anyway, so we credit whatever we did right before it."
+  },
+  "evidence": "Strong — it’s a well-established statistical phenomenon",
+  "sources": [
+   "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131.",
+   "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "planning-fallacy",
+  "kind": "bias",
+  "name": "Planning Fallacy",
+  "intl": "Planning Fallacy",
+  "oneLine": "We underestimate how much time and money our own projects will take, even when every past project took longer.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "“The kitchen remodel will take two months, done way before Thanksgiving.” Six months later, it’s still going and the budget has doubled."
+   },
+   {
+    "where": "At school",
+    "text": "“I’ll get through all the reading in the two days before the final.” The night before the exam, you realize you’re only halfway."
+   },
+   {
+    "where": "At work",
+    "text": "“The report will be ready Thursday.” This is the third week in a row you’ve said that."
+   }
+  ],
+  "detect": "Ask: the last three times I did something like this, how long did it actually take? If your estimate is shorter than all of them, you’re probably in planning-fallacy territory.",
+  "respond": "Don’t ask “When will I be done?” Ask “How long do things like this usually take?” Then add a cushion of time and money.",
+  "notConfuse": {
+   "name": "Optimism Bias",
+   "slug": "optimism-bias",
+   "diff": "Optimism bias is feeling that bad things are less likely to happen to you. The planning fallacy is narrower: it’s about the deadlines and costs of your own work. Oddly, we’re less optimistic when estimating other people’s projects."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381.",
+   "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "barnum-effect",
+  "kind": "bias",
+  "name": "Barnum Effect",
+  "intl": "Barnum Effect (Forer Effect)",
+  "oneLine": "We believe a very general description is about us specifically, even though it fits almost anyone.",
+  "examples": [
+   {
+    "where": "On social media",
+    "text": "“What your favorite color says about you”: “You’re kind, but nobody really gets you.” So you share it and write, “This is literally me!”"
+   },
+   {
+    "where": "In the media",
+    "text": "The horoscope column: “This week brings some pressure, but you’ll find a way through.” That fits anyone, any week."
+   },
+   {
+    "where": "At work",
+    "text": "A team offsite runs a “personality test,” and the result says: “You love people, but you also need time to recharge.” Everyone in the room feels seen."
+   }
+  ],
+  "detect": "Ask: could this fit my friend, my sister, or a random person on the bus? If yes, it isn’t saying anything about me.",
+  "respond": "Try reading the same description to someone else without telling them where it came from. If they say “That’s so me,” the description is vague, not accurate.",
+  "notConfuse": {
+   "name": "Confirmation Bias",
+   "slug": "confirmation-bias",
+   "diff": "Confirmation bias is hunting for things that back up a view you already hold. The Barnum effect is when the words themselves are so stretchy that they feel tailor-made for you."
+  },
+  "evidence": "Strong",
+  "sources": [
+   "Forer, B. R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. Journal of Abnormal and Social Psychology, 44(1), 118–123."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "scarcity",
+  "kind": "bias",
+  "name": "Scarcity Effect",
+  "intl": "Scarcity Effect",
+  "oneLine": "We see something as more valuable and more desirable just because it’s rare or the deal is about to end.",
+  "examples": [
+   {
+    "where": "Shopping",
+    "text": "“Only 3 left in stock!” So you bought a jacket you weren’t even planning to get."
+   },
+   {
+    "where": "At the car lot",
+    "text": "“We’ve only got two left at this price, and prices go up on the first.” So you signed today without checking a single other dealership."
+   },
+   {
+    "where": "On social media",
+    "text": "An ad says: “24 hours only!” A week later, the same deal is still running."
+   }
+  ],
+  "detect": "Ask: if there were plenty of these and no deadline, would I still buy it at this price?",
+  "respond": "Give yourself a day before any big purchase. And if the salesperson says “It’ll be gone,” you can calmly say: “If it’s gone, it wasn’t meant for me.”",
+  "notConfuse": {
+   "name": "Loss Aversion",
+   "slug": "loss-aversion",
+   "diff": "Loss aversion means losses sting more than equal gains feel good. Scarcity tactics lean on that, but the core idea is different: the rarity itself makes the thing look more valuable."
+  },
+  "evidence": "Moderate — the effect is real, but its size varies with the situation",
+  "sources": [
+   "Worchel, S., Lee, J., & Adewole, A. (1975). Effects of supply and demand on ratings of object value. Journal of Personality and Social Psychology, 32(5), 906–914.",
+   "Cialdini, R. B. (2006). Influence: The Psychology of Persuasion (Rev. ed.). Harper Business."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "groupthink",
+  "kind": "bias",
+  "name": "Groupthink",
+  "intl": "Groupthink",
+  "oneLine": "A group cares more about staying in agreement than about getting the decision right, so nobody pushes back.",
+  "examples": [
+   {
+    "where": "At work",
+    "text": "The boss pitches an idea in the meeting and everyone says “Love it.” Afterward, people DM each other on Slack: “That idea is going to flop.”"
+   },
+   {
+    "where": "At home",
+    "text": "The whole family is excited about your sister’s new fiancé. Everyone has a concern about him, but nobody wants to be “the one who ruins it.”"
+   },
+   {
+    "where": "On social media",
+    "text": "The friend group chat plans a Vegas trip. Anyone who asks about the budget gets “Why are you always such a buzzkill?” So they stop asking."
+   }
+  ],
+  "detect": "If a decision sailed through fast with zero objections, ask: is that because the idea is genuinely good, or because nobody wanted to be the odd voice out?",
+  "respond": "Before deciding, ask someone to play devil’s advocate on purpose, or have everyone write down their view privately before the most senior person speaks.",
+  "notConfuse": {
+   "name": "Bandwagon Effect",
+   "slug": "bandwagon",
+   "diff": "The bandwagon effect is an individual going along with what lots of people are doing. Groupthink happens inside a small group making a decision together, where members stay quiet to protect the agreement."
+  },
+  "evidence": "Disputed — the idea is hugely popular, but studies testing Janis’s full model have produced inconsistent results",
+  "sources": [
+   "Janis, I. L. (1972). Victims of Groupthink. Houghton Mifflin.",
+   "Esser, J. K. (1998). Alive and well after 25 years: A review of groupthink research. Organizational Behavior and Human Decision Processes, 73(2–3), 116–141."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "self-serving-bias",
+  "kind": "bias",
+  "name": "Self-Serving Bias",
+  "intl": "Self-Serving Bias",
+  "oneLine": "When we succeed, it’s because we’re good. When we fail, it’s because of the circumstances or other people.",
+  "examples": [
+   {
+    "where": "At school",
+    "text": "“I aced it because I studied hard.” And in the class you failed: “The professor is unfair and the exam was impossible.”"
+   },
+   {
+    "where": "In sports",
+    "text": "When your team wins: “We played great.” When it loses: “The refs robbed us.”"
+   },
+   {
+    "where": "At work",
+    "text": "When the deal closes: “I closed it.” When it falls through: “Accounting held up the paperwork.”"
+   }
+  ],
+  "detect": "Compare how you explain your wins with how you explain your losses. If success always comes from you and failure always comes from outside, there’s a bias at work.",
+  "respond": "Privately, after any failure ask, “What part of this was in my control?” And after any success ask, “What outside help did I get?”",
+  "notConfuse": {
+   "name": "Fundamental Attribution Error",
+   "slug": "fundamental-attribution",
+   "diff": "The fundamental attribution error is about explaining other people’s behavior by their character. Self-serving bias is about how we explain our own successes and failures."
+  },
+  "evidence": "Strong, though its size varies from culture to culture",
+  "sources": [
+   "Miller, D. T., & Ross, M. (1975). Self-serving biases in the attribution of causality: Fact or fiction? Psychological Bulletin, 82(2), 213–225.",
+   "Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias in attributions? A meta-analytic review of individual, developmental, and cultural differences in the self-serving attributional bias. Psychological Bulletin, 130(5), 711–747."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "occams-razor",
+  "kind": "tool",
+  "name": "Occam's Razor",
+  "intl": "Occam's Razor",
+  "oneLine": "If you have more than one explanation for the same thing, start with the one that needs the fewest assumptions.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Your phone won’t charge. Before you decide the motherboard is fried, try a different cable and clean out the charging port. That’s usually the problem, and it costs nothing."
+   },
+   {
+    "where": "At work",
+    "text": "A coworker hasn’t answered your email. Maybe they’re upset and ignoring you… or it landed in spam. Start with the simple question: “Did my email come through?”"
+   },
+   {
+    "where": "In the HOA group",
+    "text": "A post in the neighborhood Facebook group claims the Wi-Fi keeps dropping because “someone on our street is jamming the network on purpose.” The simpler explanation: the router needs a restart or there’s an outage with the provider, which you can check in two minutes."
+   }
+  ],
+  "detect": "When you catch yourself building a long story with lots of assumptions to explain something ordinary. Or when you have several explanations and don’t know where to start.",
+  "respond": "Write down the explanations in front of you and count how many “ifs” each one needs to be true. Test the one with the fewest first. If it fails, move to the next.",
+  "notConfuse": {
+   "name": "Hanlon's Razor",
+   "slug": "hanlons-razor",
+   "diff": "Occam’s razor is a general rule: prefer the explanation with fewer assumptions. Hanlon’s razor is a special case for people’s behavior: don’t assume bad intent when a slip or a mistake explains it."
+  },
+  "limits": "The simplest explanation isn’t always right; it’s just the best place to start. Sometimes the truth really is complicated, and if the evidence says so, you follow the evidence, not the simplicity.",
+  "evidence": "",
+  "sources": [
+   "Baker, A. Simplicity. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy.",
+   "Sober, E. (2015). Ockham's Razors: A User's Manual. Cambridge University Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "hanlons-razor",
+  "kind": "tool",
+  "name": "Hanlon's Razor",
+  "intl": "Hanlon's Razor",
+  "oneLine": "Don’t explain someone’s behavior with bad intent if a slip, a mistake, or simply not knowing is enough to explain it.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Your roommate ate the last slice of cake you were saving. Instead of “They did it to mess with me,” maybe they just didn’t know it was yours."
+   },
+   {
+    "where": "At the coffee shop",
+    "text": "The barista got your order wrong. During the morning rush, they probably misheard you, not picked you out to annoy. Repeat it nicely instead of starting a fight."
+   },
+   {
+    "where": "At work",
+    "text": "Your manager left your name out of the team thank-you email. Before deciding “They don’t see me,” consider that they may have been rushing and sent it from their phone. Remind them kindly."
+   }
+  ],
+  "detect": "When you feel hurt or wronged by something someone did, and the first explanation that pops into your head is “They meant it.” Especially if they have no history of bad intent.",
+  "respond": "Ask yourself: is there an innocent explanation that fits? If so, start there. And instead of an accusation, ask a question: “Did you realize that…?”",
+  "notConfuse": {
+   "name": "Fundamental Attribution Error",
+   "slug": "fundamental-attribution",
+   "diff": "The fundamental attribution error is a bias: we explain people’s actions by their character and ignore their circumstances. Hanlon’s razor is a tool that helps you resist that bias and look at the circumstances first."
+  },
+  "limits": "This tool doesn’t mean you should always assume innocence. If the same thing keeps happening with the same person, or they clearly benefit, or it looks like a scam, you’re allowed to be suspicious. Giving the benefit of the doubt isn’t the same as being naive.",
+  "evidence": "",
+  "sources": [
+   "Bloch, A. (1980). Murphy's Law Book Two: More Reasons Why Things Go Wrong! Price/Stern/Sloan.",
+   "Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173–220."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "steelman",
+  "kind": "tool",
+  "name": "Steelmanning",
+  "intl": "Steelmanning",
+  "oneLine": "Present the other person’s view in its strongest, best form, and only then respond to it.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Your parents want you to major in nursing instead of film. Instead of “You don’t get it,” you say: “You’re worried about me ending up in an unstable career, and you want me to be secure. Right?” Then you make your case."
+   },
+   {
+    "where": "At work",
+    "text": "A coworker is against the new plan. Before you respond, you sum up their objection: “You think the timeline is tight, the team is already stretched, and this plan will break us.” If they say “Exactly,” now you can actually discuss it."
+   },
+   {
+    "where": "In sports",
+    "text": "Your buddy thinks the coach should be fired. Instead of mocking him, you say: “The results have been bad for months and there’s no clear identity to the team. I get it.” Then you explain why you think the coach deserves another shot."
+   }
+  ],
+  "detect": "Before any discussion with a real disagreement, or when you find yourself thinking the other side’s view is “dumb” or “makes zero sense.” That usually means you haven’t understood it yet.",
+  "respond": "Restate their view in your own words until they say, “Yes, that’s exactly what I mean.” Look for their strongest reason, not their weakest. Only then start responding.",
+  "notConfuse": {
+   "name": "Straw Man",
+   "slug": "straw-man",
+   "diff": "A straw man weakens the other side’s argument so it’s easy to beat. A steelman does the opposite: you strengthen their argument first, so if you win, you’ve won for real."
+  },
+  "limits": "Don’t invent a “stronger” view they never actually hold and pin it on them; that’s still distortion, just in the other direction. And understanding their view at its best doesn’t mean you have to agree with it.",
+  "evidence": "",
+  "sources": [
+   "Dennett, D. C. (2013). Intuition Pumps and Other Tools for Thinking. W. W. Norton."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "first-principles",
+  "kind": "tool",
+  "name": "First-Principles Thinking",
+  "intl": "First-Principles Thinking",
+  "oneLine": "Break a problem down to the basic facts you’re sure of, and build the solution from there instead of copying “what everyone usually does.”",
+  "examples": [
+   {
+    "where": "Money",
+    "text": "“Everyone at work swears by a $15-a-month budgeting app.” Break it down: what do I actually need? A set amount saved by a certain date, without touching it before then. Maybe the app helps, or maybe an automatic transfer to a separate savings account every payday does the job for free."
+   },
+   {
+    "where": "At home",
+    "text": "The AC is running up your electric bill, and the standard advice is “Buy a new unit.” Go back to basics: where is the heat getting in? Maybe blackout curtains on the window that gets the afternoon sun solve half the problem."
+   },
+   {
+    "where": "At work",
+    "text": "“We’ve always had a standup every morning.” The first-principles question: what is this meeting for? If the goal is that everyone knows the updates, maybe a Slack post is enough three days a week."
+   }
+  ],
+  "detect": "When the ready-made solutions aren’t working or cost too much, or when the only answer you have is “That’s just how it’s done.” Also when you’re starting something new and don’t want to just copy everyone else.",
+  "respond": "Ask: what’s the real goal here? Which things am I sure are true, and which are just habit or assumption? Strip out the assumptions and build the solution from the facts that remain.",
+  "notConfuse": {
+   "name": "Appeal to Tradition",
+   "slug": "appeal-to-tradition",
+   "diff": "Appeal to tradition says something is right because it’s always been done that way. First-principles thinking asks: if there were no “always,” how would we do it? And sometimes it concludes the old way really is the best."
+  },
+  "limits": "It takes time and effort, so don’t use it for every small decision. And sometimes “what everyone usually does” carries years of experience you can’t see, so don’t tear something down just because you don’t understand it (see “Chesterton’s Fence”).",
+  "evidence": "",
+  "sources": [
+   "Aristotle. Physics, Book I.",
+   "Descartes, R. (1637). Discourse on the Method."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "inversion",
+  "kind": "tool",
+  "name": "Inversion",
+  "intl": "Inversion",
+  "oneLine": "Instead of asking “What should I do to succeed?” ask “What would guarantee I fail?” and steer clear of it.",
+  "examples": [
+   {
+    "where": "Money",
+    "text": "Want to save? Ask: how could I make sure my paycheck is gone in a week? Order DoorDash every night, shop online at 1 a.m., and never track a single expense. That’s exactly the list to avoid."
+   },
+   {
+    "where": "At home",
+    "text": "Want a better relationship with your dad? Ask: what damages it the most? Arguing at dinner, snapping back, and only calling when I need something. Start by stopping those."
+   },
+   {
+    "where": "At work",
+    "text": "Before a client pitch, ask: what would make this pitch a disaster? A dead laptop, mistakes in the numbers, showing up late. Now you know what to prep the night before."
+   }
+  ],
+  "detect": "When the goal is big and you can’t tell where to start, or when you keep collecting “how to succeed” tips and nothing changes. Sometimes it’s easier to know what to avoid than what to do.",
+  "respond": "Write down the goal. Flip it: “How would I guarantee the opposite?” List every route to failure. Mark the ones you’re actually doing right now, and start there.",
+  "notConfuse": {
+   "name": "Premortem",
+   "slug": "premortem",
+   "diff": "Inversion asks “What would lead me to fail?” for any goal, even without a plan. A premortem starts from a finished plan, imagines it has already failed, and asks “Why?”"
+  },
+  "limits": "Avoiding failure isn’t the same as succeeding. You can dodge every mistake and still never take the step that moves you forward. Use it alongside regular planning, not instead of it.",
+  "evidence": "",
+  "sources": [
+   "Munger, C. T. (1986). Commencement address at the Harvard School, Los Angeles (“How to guarantee a life of misery”).",
+   "Kaufman, P. D. (Ed.). (2005). Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger. Donning."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "second-order",
+  "kind": "tool",
+  "name": "Second-Order Thinking",
+  "intl": "Second-Order Thinking",
+  "oneLine": "Don’t stop at the first consequence of a decision. Ask: “And then what?”",
+  "examples": [
+   {
+    "where": "Money",
+    "text": "Buy now, pay later on a new TV: $40 a month feels like nothing. That’s the first effect. And then? Two years of payments, possible fees if you miss one, and less wiggle room if something comes up."
+   },
+   {
+    "where": "At home",
+    "text": "You hand your kid the tablet so they’ll stop whining, and it works. And then? They learn that whining gets the tablet, so tomorrow they whine more."
+   },
+   {
+    "where": "At work",
+    "text": "You say yes to every extra project to keep your boss happy. And then? It becomes what’s always expected of you, the quality slips, and you burn out."
+   }
+  ],
+  "detect": "In decisions with long-lasting effects: money, parenting, rules at work or at home. Especially when the solution looks “easy and comfortable” right now.",
+  "respond": "Once you’ve named the first consequence, ask “And then what?” two or three more times. Think about the other people involved: how will they react when this happens? And compare: better today, or better a year from now?",
+  "notConfuse": {
+   "name": "Slippery Slope",
+   "slug": "slippery-slope",
+   "diff": "A slippery slope jumps to a chain of disasters without evidence for each step. Second-order thinking asks “And then what?” calmly, and each step has to be genuinely likely."
+  },
+  "limits": "You can get lost in “and then what” until you never decide anything. And the further down the chain you go, the weaker your predictions get. Stick to two or three reasonable steps, not ten.",
+  "evidence": "",
+  "sources": [
+   "Hardin, G. (1985). Filters Against Folly: How to Survive Despite Economists, Ecologists, and the Merely Eloquent. Viking.",
+   "Merton, R. K. (1936). The unanticipated consequences of purposive social action. American Sociological Review, 1(6), 894–904.",
+   "Bastiat, F. (1850). Ce qu'on voit et ce qu'on ne voit pas (That Which Is Seen and That Which Is Not Seen)."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "chestertons-fence",
+  "kind": "tool",
+  "name": "Chesterton's Fence",
+  "intl": "Chesterton's Fence",
+  "oneLine": "Don’t remove a rule or an old practice until you first know why it was put there.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Your grandma checks every stove knob before bed, and you think it’s an old habit. Before you drop it, ask her why. Maybe there was a scare with a burner left on once."
+   },
+   {
+    "where": "At work",
+    "text": "There’s an extra review step on invoices that looks like a waste of time. Before you cut it, ask the person who had the job before you. Maybe it was added after a mistake that cost the company a lot."
+   },
+   {
+    "where": "In the HOA",
+    "text": "Residents want to take down the gate around the pool because it’s “annoying.” Before anyone calls a contractor, someone should ask the property manager: why was it installed, and when?"
+   }
+  ],
+  "detect": "When you want to scrap a rule, change a system, or remove something that looks pointless. Especially if you’re new to the place.",
+  "respond": "Ask: who put this here, and why? What problem was it solving? If you find the reason and it no longer applies, remove it with a clear conscience. If you can’t find it, dig a little first.",
+  "notConfuse": {
+   "name": "Status Quo Bias",
+   "slug": "status-quo",
+   "diff": "Status quo bias is preferring things to stay as they are because change feels unsettling. Chesterton’s fence isn’t against change: it says find out the reason first, then change whatever you like."
+  },
+  "limits": "Not every old rule hides some wisdom; sometimes it’s just a mistake passed down for years. And if finding the reason is impossible or very costly, you can try the change on a small scale and see what happens.",
+  "evidence": "",
+  "sources": [
+   "Chesterton, G. K. (1929). The Thing. Sheed & Ward. (Essay: “The Drift from Domesticity.”)"
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "updating-beliefs",
+  "kind": "tool",
+  "name": "Bayesian Updating",
+  "intl": "Bayesian Updating",
+  "oneLine": "Hold your view with a level of confidence, and raise or lower it based on how strong each new piece of evidence is, instead of all-or-nothing.",
+  "examples": [
+   {
+    "where": "At work",
+    "text": "You hear there might be layoffs. That rumor goes around every year and usually doesn’t happen, so your worry starts low. Then you notice leadership holding a lot of closed-door meetings: you raise your worry a bit and update your résumé, but you don’t quit."
+   },
+   {
+    "where": "At home",
+    "text": "Your kid gets a bad grade on one test. On its own, that doesn’t mean they’re “slacking.” If it happens in several subjects over several months, then the picture really changes."
+   },
+   {
+    "where": "On social media",
+    "text": "A TikTok says gas prices are about to spike next month. One video is weak evidence, so you nudge your view a little. If an official source confirms it, you move it a lot."
+   }
+  ],
+  "detect": "When new information reaches you about something you have an opinion on. Or when you notice yourself flipping 180 degrees with every headline, or the opposite: never budging no matter what happens.",
+  "respond": "Before the evidence: how sure am I? (Say, 60%.) After it, ask: how likely would this evidence be if I’m right, and how likely if I’m wrong? If the gap is big, move your view a lot. If it’s small, move it a little.",
+  "notConfuse": {
+   "name": "Flip-Flopping With Every Headline",
+   "slug": "",
+   "diff": "Updating isn’t following the last thing you heard. Weak evidence moves you a small step, strong evidence moves you further, and both get combined with what you already knew."
+  },
+  "limits": "The numbers here are rough; nobody calculates exact probabilities in daily life. The tool also breaks if you start from an extreme view (0% or 100%), because then no evidence can move you. And if all your sources come from the same place, you won’t see the evidence that should move you.",
+  "evidence": "",
+  "sources": [
+   "Tetlock, P. E., & Gardner, D. (2015). Superforecasting: The Art and Science of Prediction. Crown.",
+   "Lin, H. (2022). Bayesian Epistemology. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "falsifiability-test",
+  "kind": "tool",
+  "name": "Falsifiability Test",
+  "intl": "Falsifiability Test",
+  "oneLine": "Decide up front what evidence would make you admit you’re wrong.",
+  "examples": [
+   {
+    "where": "In sports",
+    "text": "Your friend says, “The new coach is a bust.” You ask: what could convince you he’s good? If the answer is “Nothing,” that’s not an opinion you can test or debate. It’s a fixed position."
+   },
+   {
+    "where": "Money",
+    "text": "Someone is selling you a course that will “make you rich.” You ask: what result, if it doesn’t happen in three months, would tell me it doesn’t work? If the answer is always “You just didn’t apply it right,” the claim can’t be tested."
+   },
+   {
+    "where": "At home",
+    "text": "You’re convinced late-night phone use is why your kid’s grades dropped. You set the test: if we turn the phone off at 10 p.m. for a month and nothing improves, I’m wrong and I’ll look for another cause."
+   }
+  ],
+  "detect": "When you’re extremely sure about something, or someone offers you a claim that no possible result could ever prove wrong. And in any argument that’s going around in circles.",
+  "respond": "Ask yourself or the other person: “What would I have to see to say I’m wrong?” Write it down before you start looking. If there’s no answer, the view needs a second look, or it isn’t the kind of view that can be debated at all.",
+  "notConfuse": {
+   "name": "Bayesian Updating",
+   "slug": "updating-beliefs",
+   "diff": "The falsifiability test is something you ask before the evidence comes in, to set up the test. Updating is what you do after the evidence arrives: you shift your confidence to match it."
+  },
+  "limits": "Not everything that matters in life can be tested this way, like values and tastes. Also, one piece of evidence against your view doesn’t have to knock the whole thing down; the measurement itself might be off. The question exposes stubbornness, but it doesn’t settle everything on its own.",
+  "evidence": "",
+  "sources": [
+   "Popper, K. (1959). The Logic of Scientific Discovery. Hutchinson.",
+   "Popper, K. (1963). Conjectures and Refutations: The Growth of Scientific Knowledge. Routledge & Kegan Paul."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "premortem",
+  "kind": "tool",
+  "name": "Premortem",
+  "intl": "Premortem",
+  "oneLine": "Before you start a plan, imagine it has already failed, and ask: “Why did it fail?”",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "Before your sister’s wedding: “Imagine the wedding was a mess. Why?” One person says the venue opened late; another says the photographer has no backup if they cancel. Now you can fix those things ahead of time."
+   },
+   {
+    "where": "At work",
+    "text": "Before launching an ad campaign: “It’s a month from now and the campaign flopped. What happened?” Someone says we targeted the wrong audience; someone else says the budget ran out in a week. Now you have a real list of risks."
+   },
+   {
+    "where": "On a road trip",
+    "text": "Driving to the beach for the weekend: “Imagine the trip was a disaster.” A flat tire, no gas station on a long stretch of highway, the Airbnb canceled. So you check the tires and confirm the booking the day before."
+   }
+  ],
+  "detect": "Before any plan involving money, time, or lots of people. Especially when everyone is excited and nobody wants to be “the one who rains on the parade.”",
+  "respond": "Sit down with the group (or by yourself) and say: “It’s six months from now, and the plan failed badly.” Everyone spends a few minutes writing reasons on their own. Read them out, then pick the top three to deal with now.",
+  "notConfuse": {
+   "name": "Hindsight Bias",
+   "slug": "hindsight",
+   "diff": "Hindsight bias is feeling, after something happens, that it was predictable all along. A premortem uses the same “looking back” move, but before you begin, so you still have time to fix things."
+  },
+  "limits": "Taken too far, it can turn into pessimism that stalls everything. And it only reveals the risks you can imagine; some things no one will see coming, however hard they think. The goal is to improve the plan, not cancel it.",
+  "evidence": "",
+  "sources": [
+   "Klein, G. (2007). Performing a project premortem. Harvard Business Review, 85(9), 18–19.",
+   "Mitchell, D. J., Russo, J. E., & Pennington, N. (1989). Back to the future: Temporal perspective in the explanation of events. Journal of Behavioral Decision Making, 2(1), 25–38."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "appeal-to-consequences",
+  "kind": "fallacy",
+  "name": "Appeal to Consequences",
+  "intl": "Appeal to Consequences",
+  "oneLine": "Judging an idea true or false because its outcome would be good or bad, not because of the evidence.",
+  "examples": [
+   {
+    "where": "In health",
+    "text": "“If the test shows something, it’d be a disaster, so there’s definitely nothing wrong.” And so they never get the test done."
+   },
+   {
+    "where": "Money",
+    "text": "“If that crypto platform turns out to be a scam, I’ve lost my life savings. So there’s no way it’s a scam.”"
+   },
+   {
+    "where": "In sports",
+    "text": "“If that catch gets overturned, we’re out of the playoffs. So it was obviously a catch.”"
+   }
+  ],
+  "detect": "Separate two questions: “Is this true or not?” and “Do I like what follows from it?” If your answer to the first comes from the second, you’re looking at an appeal to consequences.",
+  "respond": "“I get that the outcome would be hard, but that’s not evidence it isn’t true. Let’s find out first, and then figure out how to deal with it.”",
+  "notConfuse": {
+   "name": "Appeal to Emotion",
+   "slug": "appeal-to-emotion",
+   "diff": "An appeal to emotion stirs up your feelings so you’ll agree. An appeal to consequences is narrower: it judges whether an idea is true by its outcome. Thinking about consequences is fine when deciding what to do; the mistake is letting them decide what’s true."
+  },
+  "evidence": "",
+  "sources": [
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt.com."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "texas-sharpshooter",
+  "kind": "fallacy",
+  "name": "Texas Sharpshooter Fallacy",
+  "intl": "Texas Sharpshooter Fallacy",
+  "oneLine": "Painting the target after you shoot: grabbing a slice of data that happens to show a pattern, ignoring the rest, and saying “See? Not a coincidence.”",
+  "examples": [
+   {
+    "where": "In sports",
+    "text": "After the season ends, a fan digs through the team’s results until he finds they won every game played on a Thursday, and posts: “Thursday is our day. Not a coincidence.” He had no prediction about Thursdays before he went looking."
+   },
+   {
+    "where": "In health",
+    "text": "“Three people on our street have the same illness. It must be the cell tower on that roof.” Nobody checked whether that number is actually unusual for how many people live there."
+   },
+   {
+    "where": "On social media",
+    "text": "A video: “The numbers in your birthday hold a secret!” It collects every number that matches and stays quiet about every one that doesn’t."
+   }
+  ],
+  "detect": "Ask: was this pattern defined before we looked at the data, or picked out afterward? And where’s the rest of the data that didn’t make it into the story?",
+  "respond": "“Let’s set the prediction first, then test it on new data. If the pattern is real, it’ll show up again.”",
+  "notConfuse": {
+   "name": "Cherry Picking",
+   "slug": "cherry-picking",
+   "diff": "With cherry picking, you already have a view and you select what supports it. With the Texas sharpshooter, there was no view at the start: you find a cluster by chance, then build a story around it."
+  },
+  "evidence": "",
+  "sources": [
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt.com."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "nirvana-fallacy",
+  "kind": "fallacy",
+  "name": "Nirvana Fallacy",
+  "intl": "Nirvana Fallacy (Perfect Solution Fallacy)",
+  "oneLine": "Rejecting a good solution because it isn’t perfect, by comparing it to an ideal solution that doesn’t exist.",
+  "examples": [
+   {
+    "where": "On the road",
+    "text": "“Seatbelts don’t save everyone in a crash, so what’s the point?”"
+   },
+   {
+    "where": "At work",
+    "text": "“The new system still has bugs, so let’s go back to paper.” And paper has way more problems."
+   },
+   {
+    "where": "Money",
+    "text": "“If I can’t save $500 a month, I’m not going to save at all.”"
+   }
+  ],
+  "detect": "When you hear “But that won’t solve the whole problem,” ask: compared to what? Is this solution better than what we have now or not?",
+  "respond": "“Right, it’s not perfect. But the question isn’t whether it’s perfect. The question is whether it’s better than what we’ve got.”",
+  "notConfuse": {
+   "name": "False Dilemma",
+   "slug": "false-dilemma",
+   "diff": "A false dilemma hides the options in the middle. The nirvana fallacy rejects all the real options because it measures them against one that doesn’t exist."
+  },
+  "evidence": "",
+  "sources": [
+   "Demsetz, H. (1969). Information and efficiency: Another viewpoint. Journal of Law and Economics, 12(1), 1–22.",
+   "Bennett, B. (2017). Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic ed.). eBookIt.com."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "endowment-effect",
+  "kind": "bias",
+  "name": "Endowment Effect",
+  "intl": "Endowment Effect",
+  "oneLine": "We value something more just because it’s ours, so we ask more for it than we’d ever pay to buy it.",
+  "examples": [
+   {
+    "where": "Money",
+    "text": "“My car is worth $18,000.” Every listing and trade-in offer says about $14,500, but you’re sure they “just don’t get it.”"
+   },
+   {
+    "where": "On social media",
+    "text": "You list your used phone on Facebook Marketplace and get annoyed when someone haggles. Yet you haggle on every used phone you buy."
+   },
+   {
+    "where": "At home",
+    "text": "Your closet is full of clothes you haven’t worn in years, but every time you go to donate them, they feel “still perfectly good.”"
+   }
+  ],
+  "detect": "Ask: if this weren’t mine and I saw it for sale, what would I pay? If that number is way below what I’m asking, that’s the endowment effect.",
+  "respond": "Look at what similar items actually sold for, not just asking prices. And have someone with no attachment to it estimate the price for you.",
+  "notConfuse": {
+   "name": "Loss Aversion",
+   "slug": "loss-aversion",
+   "diff": "Loss aversion is the general feeling that losses hurt more. The endowment effect is one of its results: giving up something you own feels like a loss, so you inflate its price."
+  },
+  "evidence": "Strong, but debated: some experiments found it shrinks or disappears when the procedure changes",
+  "sources": [
+   "Thaler, R. (1980). Toward a positive theory of consumer choice. Journal of Economic Behavior & Organization, 1(1), 39–60.",
+   "Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy, 98(6), 1325–1348.",
+   "Plott, C. R., & Zeiler, K. (2005). The willingness to pay–willingness to accept gap, the \"endowment effect,\" subject misconceptions, and experimental procedures for eliciting valuations. American Economic Review, 95(3), 530–545."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "ikea-effect",
+  "kind": "bias",
+  "name": "IKEA Effect",
+  "intl": "IKEA Effect",
+  "oneLine": "We see something as better and more valuable when we put effort into making it ourselves, even if it’s ordinary or worse than the store-bought version.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "You cooked a new recipe for the first time, it came out just okay, and you can’t figure out why the family isn’t as excited as you are."
+   },
+   {
+    "where": "On social media",
+    "text": "You spent three days shooting and editing a video, and you don’t get why it’s doing worse than one you threw together in 15 minutes."
+   },
+   {
+    "where": "At work",
+    "text": "You defend the idea you sweated over with everything you’ve got in the meeting, even when a coworker’s idea is simpler and better."
+   }
+  ],
+  "detect": "Ask: if someone else had made the exact same thing, would it look this good to me?",
+  "respond": "Get feedback from someone who didn’t see the effort behind it. And at work, if you can, evaluate ideas without the owners’ names attached.",
+  "notConfuse": {
+   "name": "Endowment Effect",
+   "slug": "endowment-effect",
+   "diff": "The endowment effect happens with anything you own, even a gift. The IKEA effect needs effort: the more work you put into something, the more it’s worth in your eyes."
+  },
+  "evidence": "Moderate — the finding has replicated, but there are still relatively few studies",
+  "sources": [
+   "Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453–460."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "mere-exposure",
+  "kind": "bias",
+  "name": "Mere-Exposure Effect",
+  "intl": "Mere-Exposure Effect",
+  "oneLine": "We like something more just because we’ve seen or heard it a lot, even without paying attention to it.",
+  "examples": [
+   {
+    "where": "In ads",
+    "text": "A commercial jingle you never really noticed is suddenly stuck in your head a month later, and at the store your hand goes straight to that brand."
+   },
+   {
+    "where": "On social media",
+    "text": "A creator you didn’t know or care about shows up in your feed twenty times, and now you watch their videos to the end."
+   },
+   {
+    "where": "At work",
+    "text": "A new coworker you weren’t sure about, and after two months of sitting next to them you actually like them, without anything special happening."
+   }
+  ],
+  "detect": "Ask: do I like this because it has a real advantage, or just because I’m used to seeing it?",
+  "respond": "When choosing between two options, write down the pros of each on paper. And remember: an ad that runs over and over isn’t convincing you, it’s getting you used to it.",
+  "notConfuse": {
+   "name": "Illusory Truth Effect",
+   "slug": "",
+   "diff": "The mere-exposure effect is about liking: we warm up to what’s familiar. The illusory truth effect is about believing: a statement we hear a lot feels more true. They’re from the same family."
+  },
+  "evidence": "Strong, replicated in many studies — though too much repetition can flip it into boredom",
+  "sources": [
+   "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt. 2), 1–27.",
+   "Bornstein, R. F. (1989). Exposure and affect: Overview and meta-analysis of research, 1968–1987. Psychological Bulletin, 106(2), 265–289."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "peak-end",
+  "kind": "bias",
+  "name": "Peak–End Rule",
+  "intl": "Peak–End Rule",
+  "oneLine": "We remember an experience by its most intense moment and by how it ended, not by the whole thing or how long it lasted.",
+  "examples": [
+   {
+    "where": "At home",
+    "text": "The day at the beach was crowded and hot the whole time, but it ended with ice cream on the boardwalk, so on the drive home everyone says, “What a great day.”"
+   },
+   {
+    "where": "At work",
+    "text": "A customer waited on hold for half an hour, but the rep solved the problem kindly at the end, so they gave the service five stars."
+   },
+   {
+    "where": "In sports",
+    "text": "The team looked awful for eight innings, then hit a walk-off home run, and everyone leaves the stadium saying, “What a game.”"
+   }
+  ],
+  "detect": "Ask: am I judging the whole experience, or just its strongest moment and its ending? Try to remember the ordinary stretch in the middle.",
+  "respond": "Before deciding whether to repeat an experience or avoid it, remember it from start to finish. And if you provide a service, care about the ending, but don’t let it cover up a problem in the middle.",
+  "notConfuse": {
+   "name": "Availability Heuristic",
+   "slug": "availability",
+   "diff": "The availability heuristic is judging how often something happens by how easily it comes to mind. The peak–end rule is about memory of a single experience: we sum it up in two moments."
+  },
+  "evidence": "Moderate — replicated in many experiments, but it doesn’t always outweigh how long the experience lasted",
+  "sources": [
+   "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401–405.",
+   "Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: Real-time and retrospective evaluations of two minimally invasive procedures. Pain, 66(1), 3–8."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "curse-of-knowledge",
+  "kind": "bias",
+  "name": "Curse of Knowledge",
+  "intl": "Curse of Knowledge",
+  "oneLine": "Once you know something well, it’s hard to imagine someone else not knowing it, so you explain it as if they already do.",
+  "examples": [
+   {
+    "where": "At school",
+    "text": "The teacher says “This part is obvious” and skips three steps in the problem, and the whole class is lost."
+   },
+   {
+    "where": "At work",
+    "text": "You send a client an email full of phrases like “Q3 roadmap,” “KPIs,” and “circling back on the deck,” and they have no idea what you want from them."
+   },
+   {
+    "where": "At home",
+    "text": "You’re showing your dad something on his phone: “Tap here, then here,” way too fast, and you get frustrated that he isn’t following."
+   }
+  ],
+  "detect": "Ask: if I didn’t know this yet, would I understand what I just said? If there’s a word an ordinary person wouldn’t know, the curse of knowledge is probably at work.",
+  "respond": "Explain it to someone outside the topic and ask them to say it back in their own words. And use an everyday example instead of the technical term.",
+  "notConfuse": {
+   "name": "False Consensus Effect",
+   "slug": "false-consensus",
+   "diff": "The false consensus effect is thinking people think and choose like you. The curse of knowledge is thinking they know what you know. The first is about opinions; the second is about information."
+  },
+  "evidence": "Moderate — the finding has replicated, but its size depends on the kind of information and the situation",
+  "sources": [
+   "Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings: An experimental analysis. Journal of Political Economy, 97(5), 1232–1254.",
+   "Newton, E. L. (1990). The rocky road from actions to intentions (Doctoral dissertation). Stanford University."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "illusion-of-control",
+  "kind": "bias",
+  "name": "Illusion of Control",
+  "intl": "Illusion of Control",
+  "oneLine": "We think we can influence things that are actually up to chance or outside our control.",
+  "examples": [
+   {
+    "where": "Money",
+    "text": "“I’ll pick my own lottery numbers instead of a Quick Pick. That way my odds are better.” The drawing is random either way."
+   },
+   {
+    "where": "In sports",
+    "text": "You sit in the same spot on the couch and wear the same jersey every game so your team will win."
+   },
+   {
+    "where": "At home",
+    "text": "You press the elevator button five times in a row, as if that will make it come faster."
+   }
+  ],
+  "detect": "Ask: if I didn’t do this at all, would the outcome actually be different? Do I have evidence, or is it just a feeling?",
+  "respond": "Separate what’s in your hands from what isn’t, and put your time and money into the first. If your rituals make you happy, keep them, just don’t bet money on them.",
+  "notConfuse": {
+   "name": "Gambler's Fallacy",
+   "slug": "gamblers-fallacy",
+   "diff": "The gambler’s fallacy is thinking chance is “due” and will even out. The illusion of control is thinking you’re the one steering the chance."
+  },
+  "evidence": "Moderate — the effect exists, but its size varies a lot with the situation",
+  "sources": [
+   "Langer, E. J. (1975). The illusion of control. Journal of Personality and Social Psychology, 32(2), 311–328."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "just-world",
+  "kind": "bias",
+  "name": "Just-World Belief",
+  "intl": "Just-World Belief",
+  "oneLine": "We want to believe people get what they deserve, so when something bad happens to someone, we tend to look for a mistake they made that explains it.",
+  "examples": [
+   {
+    "where": "On the street",
+    "text": "Someone gets their phone snatched on the subway, and instead of helping, people say: “Well, why did you have it out in a crowd?”"
+   },
+   {
+    "where": "At work",
+    "text": "A coworker is let go in a round of layoffs, and you hear: “They must have been slacking on something.” Even though the cut hit the whole department."
+   },
+   {
+    "where": "On social media",
+    "text": "A post about someone who got scammed, and the top comments are: “Serves them right for being greedy.” Before anyone even asks how the scam worked."
+   }
+  ],
+  "detect": "If you catch yourself asking “What did they do to deserve this?” before “How can I help?”, pause. And ask: could this have happened to anyone in their place?",
+  "respond": "Start with empathy and help. Questions about causes can come later, framed as “How do we prevent this?” not “Who do we blame?” And if someone is blaming the victim, calmly say: “This could happen to any of us.”",
+  "notConfuse": {
+   "name": "Fundamental Attribution Error",
+   "slug": "fundamental-attribution",
+   "diff": "The attribution error is explaining people’s actions by their character and ignoring circumstances. The just-world belief has a different motive: we need to feel the world is orderly, and that what happened to someone else won’t happen to us."
+  },
+  "evidence": "Moderate — the idea has support from many experiments, but the ways it’s measured have been criticized",
+  "sources": [
+   "Lerner, M. J., & Simmons, C. H. (1966). Observer's reaction to the \"innocent victim\": Compassion or rejection? Journal of Personality and Social Psychology, 4(2), 203–210.",
+   "Lerner, M. J. (1980). The Belief in a Just World: A Fundamental Delusion. Plenum Press."
+  ],
+  "reviewed": false
+ },
+ {
+  "slug": "false-consensus",
+  "kind": "bias",
+  "name": "False Consensus Effect",
+  "intl": "False Consensus Effect",
+  "oneLine": "We think most people think and choose like we do, more than they actually do.",
+  "examples": [
+   {
+    "where": "In ads",
+    "text": "You made an ad that fits your own taste and figured “Everyone will love it like I do.” Then the engagement came in weak."
+   },
+   {
+    "where": "At home",
+    "text": "“Who even eats this without hot sauce? Everybody likes it spicy.” And you’re the only one in the house who does."
+   },
+   {
+    "where": "At work",
+    "text": "“I love working late, so I’m sure the whole team is fine with a 9 p.m. call.” Nobody was asked."
+   }
+  ],
+  "detect": "Ask: do I have numbers showing people are like me, or is it just my feeling? And the people I talk to, are they like everyone, or like me?",
+  "respond": "Ask people who are different from you before you decide. At work, run a quick poll or test with a small sample before assuming.",
+  "notConfuse": {
+   "name": "Bandwagon Effect",
+   "slug": "bandwagon",
+   "diff": "The bandwagon effect is changing your view to go along with the crowd. The false consensus effect is the reverse: assuming the crowd is already with you."
+  },
+  "evidence": "Strong, replicated in many studies",
+  "sources": [
+   "Ross, L., Greene, D., & House, P. (1977). The \"false consensus effect\": An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279–301."
+  ],
+  "reviewed": false
+ }
+]

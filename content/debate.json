@@ -1,0 +1,189 @@
+{
+  "intro": "Dot loves a good debate, and she'll take the opposite side on every topic. Each round, she makes an argument and you pick your reply. The strongest reply isn't the loudest one. It's the one that answers the argument itself.",
+  "kinds": {"strong": "Strong reply", "fallacy": "Reply with a fallacy", "weak": "Weak reply"},
+  "topics": [
+    {
+      "title": "Phones in School",
+      "you": "You think phones should be banned at school.",
+      "rounds": [
+        {
+          "z": "Phones are learning tools! They have dictionaries and explainer videos. Banning them is like banning books.",
+          "opts": [
+            {"t": "A book doesn't ping you with a notification every two minutes. Research suggests notifications break your focus even when you don't answer them.", "k": "strong", "r": "Fair point. Books don't distract you. Okay, but…"},
+            {"t": "You're only saying that because you're addicted to your phone.", "k": "fallacy", "f": "ad-hominem", "r": "Even if I am, that doesn't make my argument right or wrong. Answer the argument."},
+            {"t": "I don't know, I just feel like they're bad.", "k": "weak", "r": "Your feelings matter, but we need a reason we can actually discuss."}
+          ]
+        },
+        {
+          "z": "If we ban them, parents can't reach their kids in an emergency.",
+          "opts": [
+            {"t": "Then phones get checked in each morning and handed back after school, and the office has a phone for emergencies. No phones in class doesn't mean no contact.", "k": "strong", "r": "That's a reasonable middle ground, and it actually addresses my concern."},
+            {"t": "So you want kids on TikTok the whole class period?", "k": "fallacy", "f": "straw-man", "r": "I never said that. I was only talking about emergencies."},
+            {"t": "Emergencies are rare, though.", "k": "weak", "r": "Rare, but when they happen, they really matter."}
+          ]
+        },
+        {
+          "z": "But the whole world runs on phones. Students need to learn to use them well, not have them hidden away.",
+          "opts": [
+            {"t": "I agree they should learn, and that can happen in specific lessons where they use them. That's different from having one in their pocket all day.", "k": "strong", "r": "Nice. You separated \"teaching them\" from \"leaving it with them all the time.\" Good debate!"},
+            {"t": "Either we ban them completely or we allow them completely. There's no third option.", "k": "fallacy", "f": "false-dilemma", "r": "Why no third option? You literally just suggested one a minute ago!"},
+            {"t": "Not everything the world does is right.", "k": "weak", "r": "True, but that doesn't answer my actual point."}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Working From Home",
+      "you": "You think working from home beats working at the office.",
+      "rounds": [
+        {
+          "z": "Working from home kills productivity. People nap and binge Netflix.",
+          "opts": [
+            {"t": "Some companies have actually measured productivity, and the results are mixed: some people got more done, some got less. So there's no one-size-fits-all answer.", "k": "strong", "r": "You're right, I overgeneralized. The numbers depend on the kind of work."},
+            {"t": "Sounds like you've never worked from home.", "k": "fallacy", "f": "ad-hominem", "r": "My personal experience isn't the topic. Productivity is."},
+            {"t": "Not everybody naps.", "k": "weak", "r": "Sure, but how many do?"}
+          ]
+        },
+        {
+          "z": "The office builds team spirit. Great ideas come from chatting by the coffee machine.",
+          "opts": [
+            {"t": "That's true, but you can get that with two office days a week instead of five, and save two hours of commuting a day.", "k": "strong", "r": "A hybrid setup solves both. We agree on that one."},
+            {"t": "All the big companies went remote, so it must be right.", "k": "fallacy", "f": "appeal-to-majority", "r": "And some big companies went back to the office. Popularity isn't proof."},
+            {"t": "I don't even like coffee.", "k": "weak", "r": "Ha, that's not really the point."}
+          ]
+        },
+        {
+          "z": "If we keep everyone at home, in a few years nobody will know how to deal with people face to face.",
+          "opts": [
+            {"t": "That's a big prediction with no evidence. People have lives outside work: family, friends, teams, clubs.", "k": "strong", "r": "Fair. I jumped to a far-off conclusion. That was a slippery slope on my part."},
+            {"t": "Oh, and people at the office are so great with each other?", "k": "fallacy", "f": "whataboutism", "r": "That doesn't answer what I said. It just changes the subject."},
+            {"t": "Maybe.", "k": "weak", "r": "So you agree? Then you just gave me that point."}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tests",
+      "you": "You think tests don't measure real understanding.",
+      "rounds": [
+        {
+          "z": "Tests are fair: everyone gets the same questions and the same amount of time.",
+          "opts": [
+            {"t": "Same questions, yes, but they reward memorizing and speed more than understanding. A student can cram, ace it, and still not get it.", "k": "strong", "r": "That's an important difference between \"fair on the surface\" and \"measuring the right thing.\""},
+            {"t": "The people who defend tests are the ones who always got the top grades.", "k": "fallacy", "f": "ad-hominem", "r": "Even if I was a straight-A student, the argument still stands."},
+            {"t": "I always hated tests.", "k": "weak", "r": "We all did, but that's not an argument."}
+          ]
+        },
+        {
+          "z": "Without tests, how would we know who actually understands the material?",
+          "opts": [
+            {"t": "There are other ways: projects, presentations, real-world problems. We can mix them in with tests instead of relying on tests alone.", "k": "strong", "r": "You're not getting rid of measurement, you're broadening it. Makes sense."},
+            {"t": "So you think there's no possible way except tests? That's such an old-school take.", "k": "fallacy", "f": "straw-man", "r": "I asked a question. I never said there's no other way."},
+            {"t": "Honestly, I don't know.", "k": "weak", "r": "Well, that's exactly the key question here!"}
+          ]
+        },
+        {
+          "z": "But tests have been around for centuries, and they've worked.",
+          "opts": [
+            {"t": "Being old doesn't make them the best option. And \"worked\" needs defining: worked at what, exactly?", "k": "strong", "r": "You caught my appeal to tradition. Bravo."},
+            {"t": "The people who invented tests wanted to control students, so we have to get rid of them.", "k": "fallacy", "f": "genetic-fallacy", "r": "Who invented something doesn't prove it right or wrong. Judge the idea itself."},
+            {"t": "Okay, maybe.", "k": "weak", "r": "You just let me win that point way too easily!"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Home Cooking",
+      "you": "You think home-cooked food isn't always healthier than eating out.",
+      "rounds": [
+        {
+          "z": "Home cooking is natural and made with love, so it's obviously healthier.",
+          "opts": [
+            {"t": "Love doesn't cut the butter or the salt. Mac and cheese loaded with butter every night can be heavier than a salad from a restaurant.", "k": "strong", "r": "Ha, good one. \"Made with love\" isn't a nutrition label."},
+            {"t": "You're only saying that because your mom's a great cook.", "k": "fallacy", "f": "ad-hominem", "r": "Leave my mom out of this argument!"},
+            {"t": "Restaurant food tastes better.", "k": "weak", "r": "Taste is a whole different topic."}
+          ]
+        },
+        {
+          "z": "At home, you know exactly what goes into your food.",
+          "opts": [
+            {"t": "That's a real advantage. But knowing the ingredients doesn't help if you pick heavy ones. Knowing isn't enough on its own.", "k": "strong", "r": "You admitted the advantage and still answered it. That's a mature reply."},
+            {"t": "So every restaurant puts bad stuff in its food? That's unfair.", "k": "fallacy", "f": "straw-man", "r": "I never said anything like that."},
+            {"t": "Not always.", "k": "weak", "r": "When, exactly? Explain."}
+          ]
+        },
+        {
+          "z": "Our grandparents always ate at home, and they lived just fine.",
+          "opts": [
+            {"t": "Our grandparents moved a lot more, and their food was different. Plus, we mostly hear about the ones who lived long, healthy lives.", "k": "strong", "r": "You even hinted at survivorship bias! You win this round."},
+            {"t": "And they had plenty of diseases too, so home cooking makes you sick.", "k": "fallacy", "f": "false-cause", "r": "That's a hasty conclusion. Diseases have lots of causes."},
+            {"t": "Times have changed.", "k": "weak", "r": "Changed how? That's the important part."}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Social Media",
+      "you": "You think social media has brought people closer more than it's pushed them apart.",
+      "rounds": [
+        {
+          "z": "People sit together and everyone's staring at their own phone. Social media drove us apart.",
+          "opts": [
+            {"t": "That happens, but people also video-call family who live across the country every day, which wasn't possible before. The effect goes both ways.", "k": "strong", "r": "True, I was only looking at one side."},
+            {"t": "So you want us to go back to letters and carrier pigeons?", "k": "fallacy", "f": "straw-man", "r": "Nobody said anything about carrier pigeons!"},
+            {"t": "I'm not on my phone that much.", "k": "weak", "r": "Your experience alone won't settle this."}
+          ]
+        },
+        {
+          "z": "There are studies linking social media to depression in teens.",
+          "opts": [
+            {"t": "Some studies do find a link, but correlation isn't causation. Maybe teens who are already struggling spend more time online. And the effect depends on how it's used.", "k": "strong", "r": "You separated correlation from causation. That's a scientific reply."},
+            {"t": "Those studies are funded by people who hate technology.", "k": "fallacy", "f": "genetic-fallacy", "r": "Okay, then tell me what's actually wrong with the study itself."},
+            {"t": "Studies say a lot of things.", "k": "weak", "r": "That's dodging the point."}
+          ]
+        },
+        {
+          "z": "At least admit that people fight a lot more online now.",
+          "opts": [
+            {"t": "Fights look bigger because they spread, but that doesn't mean everyone's fighting. The calm majority never ends up trending.", "k": "strong", "r": "Availability bias! Whatever grabs attention looks bigger than it really is. Great debate."},
+            {"t": "Oh, and you never get into fights online?", "k": "fallacy", "f": "tu-quoque", "r": "Even if I do, that doesn't make the point right or wrong."},
+            {"t": "Yeah, that's true.", "k": "weak", "r": "Then I win that point with zero effort."}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Boss Level: Coding for Everyone",
+      "you": "You think not everyone needs to learn to code.",
+      "rounds": [
+        {
+          "z": "The future is all code. Anyone who doesn't learn to code will be unemployed.",
+          "opts": [
+            {"t": "That's an overgeneralization. Lots of jobs need other skills: nursing, plumbing, teaching. And AI itself writes code now.", "k": "strong", "r": "Right. \"Anyone\" is a big word, and I used it with no evidence."},
+            {"t": "So we're all going to turn into robots?", "k": "fallacy", "f": "straw-man", "r": "I didn't say robots. I said coding."},
+            {"t": "I don't like coding.", "k": "weak", "r": "Fine, but that's your taste, not an argument."}
+          ]
+        },
+        {
+          "z": "Coding teaches logical thinking, and that helps everyone.",
+          "opts": [
+            {"t": "Logical thinking really is useful, but you can learn it other ways too, like math, philosophy, or chess. Coding is one path, not the only path.", "k": "strong", "r": "You separated the goal from the method. Now that's logical thinking!"},
+            {"t": "You're a lab mascot. What do you know about coding?", "k": "fallacy", "f": "ad-hominem", "r": "Ha! Being a mascot doesn't change the argument."},
+            {"t": "Maybe.", "k": "weak", "r": "So I win this round?"}
+          ]
+        },
+        {
+          "z": "Lots of top-ranked school systems teach coding starting in elementary school. We should do the same.",
+          "opts": [
+            {"t": "Them doing it doesn't prove it's right for everyone. And we'd need to know: what were their results? Do we even have enough teachers?", "k": "strong", "r": "You asked for evidence and resources instead of just copying. You win the debate!"},
+            {"t": "Well, those places have plenty of problems too.", "k": "fallacy", "f": "whataboutism", "r": "That's changing the subject, not answering."},
+            {"t": "We're not like them.", "k": "weak", "r": "Different how? Give a reason."}
+          ]
+        }
+      ]
+    }
+  ],
+  "ai": {
+    "topics": ["Phones should be banned at school", "Working from home beats the office", "Tests measure real understanding", "Social media has brought people closer", "Everyone should learn to code", "Money buys happiness", "AI will create more jobs than it takes", "Paper books beat screens for reading"]
+  }
+}

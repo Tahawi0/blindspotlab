@@ -1,0 +1,103 @@
+{
+  "intro": "You're moderating the comments on a livestream. Comments fly in fast, and they get faster every round. Tap any comment with a fallacy to hide it. Leave the reasonable ones up, even if you don't like them: disagreeing isn't a fallacy.",
+  "episodes": [
+    {
+      "title": "Live: Best Phone of the Year",
+      "speed": 2600,
+      "c": [
+        {"w": "Sarah", "t": "The camera on this one is way better than last year's. I tried it yesterday.", "f": null},
+        {"w": "BigMike", "t": "Everybody bought it, so it's obviously the best.", "f": "appeal-to-majority"},
+        {"w": "Tyler", "t": "Honestly, I'm not a fan of the design.", "f": null},
+        {"w": "Nadia", "t": "People who buy this brand just want to show off.", "f": "ad-hominem"},
+        {"w": "Marcus", "t": "My battery lasts a day and a half.", "f": null},
+        {"w": "kiki22", "t": "My buddy bought one and it died after two days, so this whole phone is junk.", "f": "anecdotal-evidence"},
+        {"w": "Ryan", "t": "It's pricey for these specs. You can get the same features for less.", "f": null},
+        {"w": "Hailey", "t": "Either you buy this or you're stuck with an old phone forever.", "f": "false-dilemma"},
+        {"w": "Omar", "t": "Anyone tried the fast charging?", "f": null},
+        {"w": "LuLu", "t": "The screen is great in direct sunlight.", "f": null}
+      ]
+    },
+    {
+      "title": "Live: Does Online School Work?",
+      "speed": 2400,
+      "c": [
+        {"w": "Monica", "t": "I did school online for two years. It took a lot of discipline.", "f": null},
+        {"w": "Hank", "t": "So you want to shut down schools and park kids in front of screens all day?", "f": "straw-man"},
+        {"w": "Rachel", "t": "We've always learned in classrooms. No reason to change now.", "f": "appeal-to-tradition"},
+        {"w": "Kevin", "t": "Online saves a ton of commute time.", "f": null},
+        {"w": "Shauna", "t": "Some studies say the results depend a lot on the student's age.", "f": null},
+        {"w": "Steve", "t": "If we let online classes in, next there won't be teachers, and then there won't be any education at all.", "f": "slippery-slope"},
+        {"w": "Jada", "t": "Our internet is terrible, so it's hard for us.", "f": null},
+        {"w": "Al", "t": "And where did YOU go to school that you think you can talk?", "f": "ad-hominem"},
+        {"w": "Dana", "t": "We could mix both: some classes in person, some online.", "f": null},
+        {"w": "Felix", "t": "Hanging out with classmates really shapes who you become.", "f": null}
+      ]
+    },
+    {
+      "title": "Live: Hawks vs. Lions",
+      "speed": 2200,
+      "c": [
+        {"w": "Zeke", "t": "The defense fell apart in the second half.", "f": null},
+        {"w": "Shane", "t": "The ref grew up in the Lions' hometown, so he's obviously biased.", "f": "ad-hominem"},
+        {"w": "Mo", "t": "We've won 3 in a row, so we're definitely losing this one.", "f": "gamblers-fallacy"},
+        {"w": "Ali", "t": "That tackle was a clear foul on the replay.", "f": null},
+        {"w": "Herb", "t": "Well, THEY pulled the exact same thing last season!", "f": "whataboutism"},
+        {"w": "Bianca", "t": "The coach made his subs too late.", "f": null},
+        {"w": "Joey", "t": "No real Hawks fan would ever criticize the coach.", "f": "no-true-scotsman"},
+        {"w": "Nora", "t": "The goalie made 3 great saves.", "f": null},
+        {"w": "Blake", "t": "We had the ball most of the game but no real chances.", "f": null},
+        {"w": "Riley", "t": "The new guy started wearing red cleats and we've lost ever since. Those cleats are cursed.", "f": "false-cause"}
+      ]
+    },
+    {
+      "title": "Live: A Healthy Eating Plan",
+      "speed": 2000,
+      "c": [
+        {"w": "Dr. Mina (dietitian)", "t": "It's about portions and balance. There's no magic food.", "f": null},
+        {"w": "Sabrina", "t": "Herbs are natural, so they can't hurt you.", "f": "appeal-to-nature"},
+        {"w": "Wes", "t": "I did this plan for 3 months and lost 13 pounds.", "f": null},
+        {"w": "Emily", "t": "No study has proven this blend is harmful, so it's safe.", "f": "appeal-to-ignorance"},
+        {"w": "Hayden", "t": "That famous influencer does this diet, and she looks amazing.", "f": "appeal-to-authority"},
+        {"w": "Selena", "t": "Water matters a lot with any plan.", "f": null},
+        {"w": "Bo", "t": "Either you cut carbs completely or you stay fat.", "f": "false-dilemma"},
+        {"w": "Rita", "t": "I just can't imagine food affecting your mood. That has to be nonsense.", "f": "personal-incredulity"},
+        {"w": "Trevor", "t": "Sleep makes a difference for weight, too.", "f": null},
+        {"w": "Nicole", "t": "Anyone have a quick breakfast recipe?", "f": null}
+      ]
+    },
+    {
+      "title": "Live: Will AI Take Our Jobs?",
+      "speed": 1800,
+      "c": [
+        {"w": "Andrew", "t": "Some jobs will disappear and new ones will show up, like with every new technology.", "f": null},
+        {"w": "Jenna", "t": "Anyone defending AI is obviously getting paid by the tech companies.", "f": "ad-hominem"},
+        {"w": "Matt", "t": "I use it for design work and it speeds me up.", "f": null},
+        {"w": "Erin", "t": "AI is dangerous because it isn't safe, and it isn't safe because it's dangerous.", "f": "begging-the-question"},
+        {"w": "Jake", "t": "Everyone's scared of it, so it's definitely going to destroy us.", "f": "appeal-to-majority"},
+        {"w": "Reem", "t": "We need rules for how it's used.", "f": null},
+        {"w": "Eddie", "t": "So you want to stop progress and go back to the Stone Age?", "f": "straw-man"},
+        {"w": "Holly", "t": "The main thing is learning to use it well.", "f": null},
+        {"w": "Sam", "t": "Either we let it do everything or we ban it completely.", "f": "false-dilemma"},
+        {"w": "Faith", "t": "Some jobs need a human touch that won't be easy to replace.", "f": null}
+      ]
+    },
+    {
+      "title": "Boss Level: Live HOA Board Q&A",
+      "speed": 1500,
+      "c": [
+        {"w": "Mitch", "t": "This candidate has a written plan for the playground. I read it.", "f": null},
+        {"w": "Susan", "t": "Vote for him. His dad was HOA president back in the day.", "f": "genetic-fallacy"},
+        {"w": "Howard", "t": "The other candidate talks too loud and dresses badly. How can we trust him?", "f": "ad-hominem"},
+        {"w": "Lily", "t": "We've already spent so much on his campaign flyers. We have to stick with him to the end.", "f": "sunk-cost"},
+        {"w": "Brett", "t": "I want to hear where they stand on the monthly dues.", "f": null},
+        {"w": "Sharon", "t": "90% of residents support him, so he must be right.", "f": "appeal-to-majority"},
+        {"w": "Amy", "t": "He says he'll build a pool, but where's the money coming from?", "f": null},
+        {"w": "Carl", "t": "If this guy wins, the HOA goes broke, then the clubhouse closes, then the whole neighborhood falls apart.", "f": "slippery-slope"},
+        {"w": "Ramon", "t": "Let's hear the debate first and decide after.", "f": null},
+        {"w": "Wendy", "t": "Nobody who truly loves this neighborhood would criticize the board.", "f": "no-true-scotsman"},
+        {"w": "Hannah", "t": "The current board finished the new fence on schedule.", "f": null},
+        {"w": "Zack", "t": "Oh, and the last president was so much better?", "f": "whataboutism"}
+      ]
+    }
+  ]
+}

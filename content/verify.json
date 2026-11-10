@@ -1,0 +1,127 @@
+{
+  "intro": "8 stories just landed on your phone. You have 5 fact-checking tools, but each one takes time, so use only what you need. Then make the call: is the story real, fake, missing context, or old news being passed around again? All places and names are made up.",
+  "verdicts": ["Real", "Fake", "Missing context", "Old and recycled"],
+  "tools": ["Source", "Date", "Image origin", "Full quote", "Other sources"],
+  "cases": [
+    {
+      "title": "Riverfront Flood",
+      "from": "Facebook group \"Oakdale Neighbors\"",
+      "headline": "BREAKING: Riverfront Drive is underwater right now, and cars are floating!",
+      "img": "Photo of a flooded street with water halfway up the cars.",
+      "clues": [
+        "Posted by a personal account that says \"I took this myself.\"",
+        "The post went up this morning.",
+        "Reverse image search: the exact same photo ran on a news site 4 years ago, about an old storm.",
+        "There's no quote from anyone. Just a photo and one line.",
+        "No news outlet or weather service reported any rain today."
+      ],
+      "a": 3,
+      "why": "The photo is real, but it's from a storm 4 years ago. This is one of the most common kinds of misinformation: a real image at the wrong time. \"Image origin\" was the tool that caught it."
+    },
+    {
+      "title": "The Official's Quote",
+      "from": "Page \"News in a Minute\"",
+      "headline": "Oakdale's consumer affairs director: \"If you don't like the price, don't buy it!\"",
+      "img": "Photo of the director at a podium.",
+      "clues": [
+        "The page is well known and usually posts accurate news.",
+        "The quote is from a press conference yesterday.",
+        "The photo really is from that press conference.",
+        "The full sentence: \"If you don't like the price at a particular store, don't buy it there. Report it to our complaint line, and we'll hold that store accountable.\"",
+        "Other outlets ran the full quote."
+      ],
+      "a": 2,
+      "why": "Those words were really said, but they were cut out of a sentence that meant almost the opposite. \"Full quote\" showed the director was actually urging people to report overpriced stores."
+    },
+    {
+      "title": "Tomorrow's Earthquake",
+      "from": "Forwarded text: \"PLEASE SHARE\"",
+      "headline": "The Earthquake Center warns: a major quake hits tomorrow at 3 p.m. Shut off your gas!",
+      "img": "No image, just a text message.",
+      "clues": [
+        "No specific agency is named, and there's no link.",
+        "The message has no date. It just says \"tomorrow.\"",
+        "No image.",
+        "The whole thing is two sentences and \"Share with everyone you love.\"",
+        "No official agency said anything like this. And science still can't predict an earthquake down to the day and hour."
+      ],
+      "a": 1,
+      "why": "No source, no date, and a \"share this\" plea. Most important: predicting a quake to the hour is something science can't do at all. This story is fake."
+    },
+    {
+      "title": "The New Library",
+      "from": "North County's official page",
+      "headline": "A new public library opens in Pine Hollow on Thursday, and admission is free.",
+      "img": "Photo of the library building from outside.",
+      "clues": [
+        "The page is verified and has been active for 9 years.",
+        "The post went up two days ago, and the opening is next Thursday.",
+        "Reverse image search: the photo doesn't appear anywhere before this.",
+        "The post includes the address, opening hours, and a phone number.",
+        "Two local newspapers ran the same story with extra details."
+      ],
+      "a": 0,
+      "why": "A verified official source, a clear date, an original photo, details anyone can check, and more than one independent source. Not every story is suspicious. Fact-checking also tells you when to believe something."
+    },
+    {
+      "title": "The Coffee Study",
+      "from": "Website \"Health First Daily\"",
+      "headline": "Study: Coffee drinkers live 10 years longer!",
+      "img": "Photo of a cup of coffee.",
+      "clues": [
+        "The website sells dietary supplements.",
+        "The study came out this month.",
+        "The photo is from a free stock photo site.",
+        "The study's actual summary: \"We observed that moderate coffee drinkers lived slightly longer on average, and we can't say that coffee is the cause.\"",
+        "Science news sites covered the study and called it \"a small difference that needs more research.\""
+      ],
+      "a": 2,
+      "why": "The study exists, but it said \"a small difference, and we don't know why.\" The headline turned that into \"10 years longer.\" That's a real finding blown way out of proportion."
+    },
+    {
+      "title": "The Bank Notice",
+      "from": "Screenshot going around on X",
+      "headline": "First Oakdale Bank: all paper checks canceled starting next month!",
+      "img": "Image of a notice with the bank's logo and an official seal.",
+      "clues": [
+        "The account that posted it is one week old.",
+        "The notice is dated on a Sunday, when the bank's offices are closed.",
+        "The image isn't on the bank's website or its social pages.",
+        "The notice has spelling mistakes and a different font from the bank's usual notices.",
+        "The bank posted today: \"The notice going around is fake.\""
+      ],
+      "a": 1,
+      "why": "A logo and a seal are easy to copy. The account is brand new, the notice isn't on the bank's site, it's full of errors, and the bank itself denied it. It's a forgery."
+    },
+    {
+      "title": "Lion on Main Street",
+      "from": "TikTok video",
+      "headline": "A lion escaped from the zoo and is walking down Main Street in Riverton RIGHT NOW!",
+      "img": "Shaky video of a lion on a street at night.",
+      "clues": [
+        "The account posts \"terrifying\" videos every day.",
+        "The video went up an hour ago.",
+        "Reverse image search: the same video has been posted 3 times before, in 3 different countries, each time with a different street name. The oldest is 6 years old.",
+        "No one speaks in the video.",
+        "The zoo says every animal is accounted for."
+      ],
+      "a": 3,
+      "why": "The video itself is old, and it keeps getting reposted with a new city attached. Whenever a story scares you and rushes you, start by checking where the video came from."
+    },
+    {
+      "title": "Boss Level: The Heroic Rescue",
+      "from": "Big page with a million followers",
+      "headline": "An Oakdale teen saved 3 kids from a house fire, and the fire department honored him today.",
+      "img": "Photo of the teen with the fire chief, holding a certificate.",
+      "clues": [
+        "The page is big, but it mixes real news with exaggerated stories.",
+        "The fire happened a month ago. The ceremony was today.",
+        "The photo with the fire chief is original and also posted on the fire department's page.",
+        "The fire department's statement: \"Honoring a local teen for rescuing 3 children from a fire on his street.\"",
+        "A local paper interviewed the teen and the children's parents."
+      ],
+      "a": 0,
+      "why": "Every tool points the same way: an official source, an original photo, and interviews with the people involved. The page isn't always reliable, but this story is confirmed from several places. Judge the story, not just the page."
+    }
+  ]
+}
